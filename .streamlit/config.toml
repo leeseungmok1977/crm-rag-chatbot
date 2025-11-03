@@ -1,0 +1,41 @@
+[theme]
+# Primary accent color
+primaryColor = "#1f77b4"
+
+# Background color for the main content area
+backgroundColor = "#ffffff"
+
+# Background color used for the sidebar and most interactive widgets
+secondaryBackgroundColor = "#f0f2f6"
+
+# Color used for almost all text
+textColor = "#262730"
+
+# Font family for all text in the app, except code blocks
+font = "sans serif"
+
+[server]
+# Port where the app will run
+port = 8501
+
+# Enables CORS
+enableCORS = true
+
+# Enables WebSocket compression
+enableWebsocketCompression = true
+
+# Max message size in MB
+maxUploadSize = 200
+
+# Max message size for WebSocket
+maxMessageSize = 200
+
+[browser]
+# Whether to send usage statistics
+gatherUsageStats = false
+
+# Server address
+serverAddress = "localhost"
+
+# Server port
+serverPort = 8501

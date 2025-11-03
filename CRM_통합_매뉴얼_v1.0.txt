@@ -1,0 +1,405 @@
+# POSCO INTERNATIONAL CRM 통합 매뉴얼 (통합 TXT)
+버전 1.0 · 작성일: 2025-11-03 · 대상: POSCO INTERNATIONAL 임직원
+
+본 문서는 업로드된 한국어/영문 매뉴얼을 비교·통합하여 구성되었습니다.
+참고 소스:
+- ENG: Account&Contact, Common&Master, Meeting Memo, Order&Fulfillment
+- KOR: 거래선&연락처, 공통&Master, 미팅메모, Order&Fulfillment
+
+
+## 목차
+0. 5분 빠른 시작 (처음 사용자 필독)
+1. CRM 개요 및 접근
+2. 공통 & Master 데이터
+3. 거래선(Account) & 연락처(Contact)
+4. 영업 프로세스: 주문(Order) → 이행(Fulfillment)
+5. 미팅 메모(회의 메모) 표준
+6. 검색/리포트/대시보드
+7. 권한, 데이터 품질, 보안
+8. 단축키·입력 규칙 치트시트
+9. FAQ (전환·데이터·권한)
+10. 문제 해결 가이드
+11. 용어 사전 (KOR/ENG)
+
+
+## 섹션 0: 5분 빠른 시작 (처음 사용자 필독)
+
+### ✅ 체크리스트
+- [ ] 회사 계정으로 CRM 접속 (M365/SSO 기준)
+- [ ] 내 부서·거래선·담당 프로젝트 북마크 저장
+- [ ] 거래선·연락처 기본 조회/검색 방법 익히기
+- [ ] '나의 오픈 기회/주문' 즐겨찾기
+- [ ] 미팅 메모 템플릿으로 첫 메모 작성 & 할당
+
+### 첫 접속
+1) Edge/Chrome 실행 → 회사 SSO → CRM URL 접속
+2) 언어(한국어/English), 시간대(Seoul) 확인
+3) 홈(대시보드)에서 **나의 파이프라인/주요 알림** 확인
+
+### 가장 많이 쓰는 3가지
+1) **거래선(Account) 찾기**: 이름/사업자번호/국가로 검색 → '별표'로 즐겨찾기
+2) **연락처(Contact) 추가**: 거래선 상세 > 연락처 탭 > '새 연락처'
+3) **미팅 메모 작성**: 미팅 일정/참석자 선택 → 주요 안건·Action Item 기록 → 담당자·기한 지정
+
+
+## 섹션 1: CRM 개요 및 접근
+
+### CRM 범위
+- **거래선·연락처** (Account/Contact) 마스터 관리
+- **주문/수주 → 이행(출고/선적/정산)** 전 과정 추적
+- **미팅 메모** 기록·공유 및 후속조치(Action Item) 관리
+- 공통 코드(Master) 기반의 표준화/통계 및 리포트
+
+### 접근 경로 & 권장 브라우저
+- Microsoft 365 계정(SSO) / Edge 또는 Chrome 최신 버전
+- 다국어 UI 지원(한국어/영문), 사용자 단위 언어 선택
+
+
+## 섹션 2: 공통 & Master 데이터
+
+> 코드/분류/레퍼런스 테이블을 표준화하여 전사 단일 진실원장(Single Source of Truth)을 유지합니다.
+
+### 주요 코드 예시 (발췌)
+- P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf
+  · Common
+- P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf
+  · Order Monitoring > Common Tab
+  · Steel Order Monitoring > Common Tab
+- P_INTL_CRM 매뉴얼(국문)_Order&Fulfillment.pdf
+  · 2. 본사/법인, BP코드, 거래선명
+  · - 본사/법인, BP코드 필수 검색조건
+  · ※ 사용자 회사코드 동일한 경우만 상세
+  · 고객사 코드, 고객사명, 매핑 여부 등
+  · - Oder no, Order Line no, 주문품명코드,
+  · - 목적지, 경유가공센터 지정코드,
+- P_INTL_CRM 매뉴얼(국문)_거래선&연락처.pdf
+  · - 수요가, 공급사, 공통(모두 경우) 택1
+  · - 국가 선택으로 인해서, 별도 국가코드
+  · 별도의 조직 분류에 따라
+  · 동일 조직 분류 대상
+  · 공통
+  · • 모바일 환경에서 List View 상 복수 건 레코드 선택하
+- P_INTL_CRM 매뉴얼(국문)_공통&Master.pdf
+  · 레코드 이관
+  · 1.1 레코드 이관
+  · 1. 카테고리 선택 (* 필수)
+  · 카테고리: 시황 뉴스, 뉴스 클리핑, 해외
+  · 1. 레코드 이관
+  · 1.1 레코드 이관 실행
+- P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf
+  · 1.1 레코드 유형 선택
+  · 1.1 레코드 유형 선택_1.1.1 클로바노트 활용
+  · 1.1 레코드 유형 선택_1.1.2 Teams 활용
+  · 1.1 레코드 유형 선택_1.1.3 NDA 거래선
+  · 상기 NDA 레코드 유형 선택 입력 창은,
+  · Q. 레코드 유형 NDA와 일반 간의
+
+### 운영 원칙
+- 코드 요청: 신규 카테고리/국가/제품군이 필요한 경우 **마스터 담당자** 승인 후 추가
+- 변경 관리: 코드 삭제 금지(비활성화로 처리), 이력 관리 필수
+- 레퍼런스 일치: 주문/이행 모듈은 **Master 코드**만 선택 가능
+
+
+## 섹션 3: 거래선(Account) & 연락처(Contact)
+
+### 거래선(Account)
+- 생성 요건: 사업자 정보/국가/산업분류/신용등급(있을 경우)
+- 중복 확인: 이름/등록번호/국가를 기준으로 **중복 검색 후** 생성
+- 필수 필드 권장(업무 표준): 거래선명(국/영문), 국가, 주소, 업종, 결제조건, 납품조건(Incoterms)
+
+### 연락처(Contact)
+- 소속 거래선 연결 필수, 직책·부서·이메일·전화번호
+- 마케팅 동의(필요시) 여부 및 커뮤니케이션 선호 채널
+
+### 화면/필드 스니펫 (문서 자동 발췌, 요약)
+- P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf
+  · Account Management
+  · Account View
+  · 1. View list of accounts
+  · 2. View detailed account information
+  · Account Update
+  · 1. Update account information
+- P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf
+  · 1.1.3 NDA Account
+  · 2. CLOVA Note Account Login
+  · account. (Responsible Department: IT
+  · (EP, etc.) account. How can I log in?
+  · CLOVA Note account from the IT
+  · assigned business account are
+- P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf
+  · 1.1 Customer Credit Information Check
+  · POSCO Customer Mapping
+  · 1.1 POSCO End-Customer Mapping
+  · 1.1 Customer Credit Information Check (1/2)
+  · - Company code, BP code, Account Name
+  · customer (Pie Chart)
+- P_INTL_CRM 매뉴얼(국문)_Order&Fulfillment.pdf
+  · 1.1 거래선별 여신 조회
+  · 1.1 거래선별 여신 조회(1/2)
+  · 여신관리 > 여신 Tab > 거래선 여신 모니터링
+  · 2. 본사/법인, BP코드, 거래선명
+  · 3. 그룹별 여신사용현황, 거래선별
+  · 1.1 거래선별 여신 조회(2/2)
+- P_INTL_CRM 매뉴얼(국문)_거래선&연락처.pdf
+  · 거래선 관리
+  · 거래선 조회
+  · 1. 거래선 List 조회
+  · 2. 거래선 상세정보 조회
+  · 거래선 수정
+  · 1. 거래선 정보 업데이트
+- P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf
+  · 1.1.3 NDA 거래선
+  · 1.1 레코드 유형 선택_1.1.3 NDA 거래선
+  · NDA 거래선 관리 권한자
+  · 지정된 NDA 거래선 관리 권한자에게만 노출됩니다.
+  · - NDA 거래선이 아닌 일반 거래선 대상
+  · 3. 대표 거래선 등록 (필수)
+
+- P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf
+  · Contact Management
+  · Contact View
+  · 1. View contact list
+  · 2. View detailed contact information
+  · Contact Update
+  · 1. Update contact information
+- P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf
+  · Email and Notification Delivery
+  · account. (Responsible Department: IT
+  · Info writing/sharing or Email Send
+  · B Department – C Group – D Section,
+  · Department Head, A Division Head)
+  · - Only contacts registered under
+- P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf
+  · and collateral composition by
+- P_INTL_CRM 매뉴얼(국문)_Order&Fulfillment.pdf
+  · 주문 담당자 식별관리
+  · 철강 영업담당자
+  · - 확정주문 담당자 or 동일 그룹 사용자
+  · 두께, 폭, 길이, 고객PO번호, 담당자 등
+  · 2. 거래선/담당자 기준 OrderLine 단위
+  · Step 4. 주문 담당자 식별관리
+- P_INTL_CRM 매뉴얼(국문)_거래선&연락처.pdf
+  · 연락처 관리
+  · 연락처 조회
+  · 1. 연락처 List 조회
+  · 2. 연락처 상세정보 조회
+  · 연락처 수정
+  · 1. 연락처 정보 업데이트
+- P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf
+  · 등록된 거래선 담당자만 입력 가능
+  · - 담당자 검색이 안되는 경우 해당
+  · 거래선 하위 Contact 등록 여부 확인
+  · 담당자에게 선물을 전달한 경우 클릭
+  · 3. 복수 담당자 및 선물 발송 시 클릭
+  · (연락처 상세 페이지) ‘활동’ 탭 및 해당
+
+
+## 섹션 4: 영업 프로세스 — 주문(Order) → 이행(Fulfillment)
+
+### 주문(Order)
+- 견적/오퍼 → 수주(Contract/PO) → 주문 생성
+- 필수 항목: 제품, 수량, 통화, 단가, 결제조건, 납품조건, 선적지/도착지
+- 승인 흐름: 한도/마진 기준에 따른 내부 승인 라우팅
+
+### 이행(Fulfillment)
+- 출고/선적(Shipping) → 문서(Invoice/BL/통관) → 정산
+- 선적 스케줄/운송수단/포워더 정보 연계
+
+### 화면/필드 스니펫 (문서 자동 발췌, 요약)
+- P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf
+  · - Sales Tab: Shows sales data based on
+  · - Order/Shipment Tab: Shows shipment
+  · and order data per Account.
+  · such as handled items and responsible
+  · edited in Salesforce.
+  · partners based on the corporation the user
+- P_INTL_CRM Guide Book(ENG)_Common&Master.pdf
+  · 1.1 Popup Notification
+  · 1.1 Notice Popup
+  · The popup will not open for 24 hours
+  · 3. Close popup
+  · 4. Close popup
+  · 1. Download 'Salesforce' from Apple App
+- P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf
+  · Temporary Save and Submit
+  · Home > Meeting Memo Menu > New Meeting Memo Popup
+  · account. (Responsible Department: IT
+  · access, but do not support Sensitive
+  · selections are supported
+  · the main office address upon saving
+- P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf
+  · Order Management
+  · POSCO Customer Mapping
+  · 1.1 POSCO End-Customer Mapping
+  · 2. POSCO Confirmed Order List
+  · 2.1 POSCO Sales Order List
+  · Sales Order Fulfillment Monitoring
+- P_INTL_CRM 매뉴얼(국문)_Order&Fulfillment.pdf
+  · 주문 관리
+  · 철강 확정주문 조회
+  · 2.1 철강 확정주문 상세 조회
+  · 주문 통합 모니터링
+  · 3.1 주문/생산 단계별 진행 현황
+  · 주문 담당자 식별관리
+- P_INTL_CRM 매뉴얼(국문)_거래선&연락처.pdf
+  · - 계약/프로젝트: 거래선 기준의
+  · 프로젝트/장기 계약 내용 생성 및 노출
+  · - 주문/출하: 거래선별 주문/출하
+  · - 상세조회 클릭시, 주문/출하 모니터링
+  · 2. 주문 정보 영역
+  · - 해당 거래선에 연결된 주문 정보 List
+- P_INTL_CRM 매뉴얼(국문)_공통&Master.pdf
+  · ‘Salesforce’ 다운로드 후 실행
+  · https://apps.apple.com/kr/app/salesforce/i
+  · ?id=com.salesforce.chatter&pcampaignid=
+  · 3. 사용자 정의 도메인 입력 칸에 ‘poscointl’
+  · https://poscointl.my.salesforce.com으
+  · e.g. EP ID@poscointl.com
+- P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf
+  · 2) 계약 협의 (계약 전 제반 사항 조율 등)
+  · 3) 계약 후 관리 (계약 후 관리 전반)
+  · - 미리 알림 : Salesforce 알림 수신
+  · - 참석자로 등록한 조직원의 Salesforce
+  · Sales Support
+  · • 동일 포스코 고객의 복수 주문 선택 후, BP 매핑하는
+
+- P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf
+  · recently searched (Unsortable)
+  · recently viewed (Sortable)
+  · receivables information based on the
+  · - Order/Shipment Tab: Shows shipment
+  · such as handled items and responsible
+  · (Order/Shipment)
+- P_INTL_CRM Guide Book(ENG)_Common&Master.pdf
+  · transferable records
+  · Change Owner to retrieve transferable
+- P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf
+  · account. (Responsible Department: IT
+  · viewable after logging into CLOVA
+  · accounts are not accessible)
+  · summary will not be available if it was
+  · button are not retrievable)
+  · - Records are accessible only if you
+- P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf
+  · Sales Order Fulfillment Monitoring
+  · Delivery & Shipment Status Monitoring
+  · 4.1 Delivery and Shipment Status Overview
+  · ※ Detailed view is only available when the
+  · - Customer mapping is only available for
+  · monitoring become available.
+- P_INTL_CRM 매뉴얼(국문)_Order&Fulfillment.pdf
+  · 따라 본 기능 이행 必
+  · 선적항코드, 선적항명, 양하항코드 등
+  · 가능함에 따라 본 기능 이행 必
+- P_INTL_CRM 매뉴얼(국문)_거래선&연락처.pdf
+  · Fulfillment
+- P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf
+  · Fulfillment
+
+
+## 섹션 5: 미팅 메모(회의 메모) 표준
+
+### 표준 템플릿
+- 기본 정보: 제목, 일시, 장소/온라인 링크, 참석자(내/외부)
+- 안건(Agenda) & 논의(Discussion)
+- Action Item: 담당자, 기한, 상태(진행/완료)
+
+### 모범 기록 습관
+- 결론·의사결정·리스크는 **상단 요약**에 3줄로
+- 담당자/기한 없는 To-Do 금지
+
+### 화면/필드 스니펫 (문서 자동 발췌, 요약)
+- P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf
+  · - 관련정보: 연결된 연락처, 미팅메모,
+  · meeting notes, and gift information.
+  · 2. Connected Meeting Notes List
+  · - Shows meeting note title, key account
+  · status, type, meeting date, department that
+  · create a new meeting note.
+- P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf
+  · Meeting Memo Creation
+  · Register New Meeting Memo
+  · 1.3 Enter Meeting Details
+  · Meeting Memo Editing
+  · 2.1 Editing from the Meeting Memo List View
+  · 2.2 Editing from the Meeting Memo Detail Page
+- P_INTL_CRM 매뉴얼(국문)_거래선&연락처.pdf
+  · - 관련정보: 연결된 연락처, 미팅메모,
+  · 2. 연결된 미팅메모 List
+  · - 미팅메모명, 대표 거래선 여부, 유형,
+  · 미팅일, 작성 부서, 요약 정보 표기됨
+  · 미팅메모 생성 가능
+  · 3. 미팅 선물 내역 List
+- P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf
+  · 미팅메모 작성
+  · 미팅메모 신규 등록
+  · 1.3 미팅정보 입력
+  · 미팅메모 수정
+  · 2.1 미팅메모 목록 화면 수정
+  · 2.2 미팅메모 상세 페이지 수정
+
+
+## 섹션 6: 검색/리포트/대시보드
+
+### 검색
+- 전역 검색: 이름/코드/이메일/PO/Invoice/BL 번호
+- 고급 필터: 날짜, 국가, 상태, 담당자
+
+### 표준 리포트
+- 파이프라인 현황(주문 단계·금액)
+- 출고/선적 실적(기간/제품/지역)
+- 회의 메모 액션 이행률
+
+### 대시보드 권장 위젯
+- 나의 오픈 주문/미결 액션
+- 월간 출고/매출 트렌드(전년 동기 대비)
+- 리스크 알림(납기·신용·클레임)
+
+
+## 섹션 7: 권한, 데이터 품질, 보안
+
+- 역할 기반 권한(RBAC): 보기/작성/승인 권한 분리
+- 개인정보(연락처) 최소 수집·마스킹 정책 준수
+- 데이터 품질 점검: 월 1회 중복/누락/이상치 리포트
+- 변경 이력: 감사 목적의 필드 이력 추적
+
+
+## 섹션 8: 단축키·입력 규칙 치트시트
+
+### 입력 규칙(샘플)
+- 영문 대문자 코드(예: KR, US), 날짜는 YYYY-MM-DD
+- 금액·수량은 자리수/단위 일관(예: 1,234.56; MT)
+
+### 자주 쓰는 키/패턴
+- 전역 검색: `CTRL + /` (웹일 경우 브라우저 단축키 주의)
+- 필터 토글: 화면 상단 [Filter] 아이콘
+
+
+## 섹션 9: FAQ (전환·데이터·권한)
+
+Q1. 거래선이 중복으로 보입니다.
+- A. 생성 전 중복 검색 필수. 이미 존재 시 담당자 변경/병합 요청.
+
+Q2. 외부 연락처의 개인정보가 수정되지 않습니다.
+- A. 권한 제한 가능. 데이터 관리자에게 변경 요청.
+
+Q3. 선적 문서가 주문과 연결되지 않습니다.
+- A. 주문번호/출고번호의 정확한 연결 필요. 참조키 확인.
+
+Q4. 영문/국문 표기가 섞여 혼란스럽습니다.
+- A. 표시 언어는 사용자 설정 기반. 거래선명은 (국문/영문) 모두 보관 권장.
+
+
+## 섹션 10: 문제 해결 가이드
+
+- **로그인 불가**: SSO 상태/암호 만료 확인, 캐시 삭제 후 재시도
+- **검색 미노출**: 인덱싱 지연 가능(최대 수 분). 고급 필터로 범위 확장
+- **첨부 불가**: 파일 유형/용량 제한 확인, 대체 경로(SharePoint 링크) 고려
+- **권한 오류**: 역할 변경/이동 시 권한 동기화 요청
+
+
+## 섹션 11: 용어 사전 (KOR/ENG)
+
+- Account(거래선), Contact(연락처), Order(주문/수주), Fulfillment(이행/출고·선적·정산)
+- Invoice(송장), B/L(선하증권), Incoterms(인코텀즈), PO(구매주문)
+- Master Data(마스터 데이터), Action Item(후속조치)

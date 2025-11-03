@@ -1,0 +1,72 @@
+# Core Dependencies
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# PDF Processing
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+pymupdf>=1.24.0  # fitz - Better for extracting images and layout (Python 3.13 compatible)
+
+# Text Processing
+langdetect==1.0.9
+nltk==3.8.1
+spacy==3.7.2
+# Run: python -m spacy download ko_core_news_sm
+# Run: python -m spacy download en_core_web_sm
+
+# LangChain & LLM
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-openai==0.0.2
+openai==1.6.1
+anthropic==0.8.1
+
+# Embeddings & Vector Store
+sentence-transformers==2.2.2
+qdrant-client==1.7.0
+chromadb==0.4.22  # Alternative vector DB
+faiss-cpu==1.7.4  # For local development
+
+# Search & Ranking
+rank-bm25==0.2.2
+
+# Database
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.23
+alembic==1.13.1
+
+# Caching
+redis==5.0.1
+hiredis==2.3.2
+
+# API
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+
+# UI
+streamlit>=1.51.0
+
+# Monitoring & Logging
+prometheus-client==0.19.0
+python-json-logger==2.0.7
+
+# Utilities
+tqdm==4.66.1
+click==8.1.7
+pyyaml==6.0.1
+colorlog==6.8.0
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+httpx==0.25.2
+
+# Development
+black==23.12.1
+flake8==6.1.0
+mypy==1.7.1
+ipython==8.18.1
+jupyter==1.0.0
