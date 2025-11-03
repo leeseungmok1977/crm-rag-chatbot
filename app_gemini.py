@@ -340,8 +340,8 @@ def perform_search(query: str, embedding_service, vector_store, query_processor,
             results = vector_store.search(
                 collection_name=collection_name,
                 query_vector=query_embedding,
-                top_k=3,
-                score_threshold=0.5
+                top_k=5,
+                score_threshold=0.3
             )
 
             for result in results:
