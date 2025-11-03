@@ -51,12 +51,12 @@ st.markdown("""
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        min-height: 70vh;
-        padding: 2rem;
+        padding: 2rem 1rem 1rem 1rem;
+        margin-top: 5vh;
     }
 
     .welcome-title {
-        font-size: 3.5rem;
+        font-size: 2.5rem;
         font-weight: 400;
         color: #4285f4;
         margin-bottom: 0.5rem;
@@ -64,19 +64,20 @@ st.markdown("""
     }
 
     .welcome-subtitle {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         color: #80868b;
-        margin-bottom: 3rem;
+        margin-bottom: 2rem;
         text-align: center;
     }
 
     /* Search box */
     .stTextInput > div > div > input {
         border-radius: 2rem !important;
-        padding: 1rem 1.5rem !important;
-        font-size: 1rem !important;
+        padding: 1.2rem 2rem !important;
+        font-size: 1.1rem !important;
         border: 1px solid #dadce0 !important;
         box-shadow: 0 1px 6px rgba(32,33,36,.28) !important;
+        min-width: 500px !important;
     }
 
     .stTextInput > div > div > input:focus {
@@ -86,23 +87,31 @@ st.markdown("""
 
     /* Popular queries */
     .popular-queries {
-        margin-top: 2rem;
-        padding: 0 2rem;
-        max-width: 800px;
+        margin-top: 1.5rem;
+        padding: 0 1rem;
+        max-width: 900px;
         width: 100%;
+    }
+
+    .popular-queries-title {
+        font-size: 0.9rem;
+        color: #5f6368;
+        margin-bottom: 0.8rem;
+        font-weight: 500;
+        text-align: center;
     }
 
     .query-chip {
         display: inline-block;
-        padding: 0.75rem 1.5rem;
-        margin: 0.5rem 0.5rem;
+        padding: 0.6rem 1.2rem;
+        margin: 0.4rem 0.4rem;
         border-radius: 2rem;
         border: 1px solid #dadce0;
         background: #ffffff;
         color: #202124;
         cursor: pointer;
         transition: all 0.2s;
-        font-size: 0.95rem;
+        font-size: 0.9rem;
     }
 
     .query-chip:hover {
@@ -376,7 +385,7 @@ def main():
 
         # Popular queries
         st.markdown('<div class="popular-queries" style="text-align: center;">', unsafe_allow_html=True)
-        st.markdown("#### 💡 인기 질문")
+        st.markdown('<p class="popular-queries-title">💡 인기 질문</p>', unsafe_allow_html=True)
 
         popular_queries = get_popular_queries()
 
