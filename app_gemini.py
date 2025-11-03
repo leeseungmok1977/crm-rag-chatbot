@@ -154,11 +154,12 @@ st.markdown("""
         border-radius: 1rem;
         margin-bottom: 1.5rem;
         max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .user-message {
         background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
-        margin-left: auto;
         border-left: 4px solid #4285f4;
     }
 
@@ -363,27 +364,26 @@ def main():
     if 'chat_history' not in st.session_state:
         st.session_state.chat_history = []
 
-    # Show welcome screen or chat mode
+    # Always show welcome screen with search box
+    st.markdown("""
+    <div class="welcome-screen">
+        <h1 class="welcome-title">안녕하세요. CRM AI chatbot 입니다.</h1>
+        <p class="welcome-subtitle">무엇을 도와드릴까요?</p>
+    </div>
+    """, unsafe_allow_html=True)
+
+    # Search box (centered)
+    col1, col2, col3 = st.columns([1, 2, 1])
+    with col2:
+        user_query = st.text_input(
+            "질문을 입력하세요",
+            placeholder="CRM에 대해 물어보세요...",
+            label_visibility="collapsed",
+            key="welcome_search"
+        )
+
+    # Popular queries (only show if no chat history)
     if len(st.session_state.chat_history) == 0:
-        # Welcome screen
-        st.markdown("""
-        <div class="welcome-screen">
-            <h1 class="welcome-title">안녕하세요. CRM AI chatbot 입니다.</h1>
-            <p class="welcome-subtitle">무엇을 도와드릴까요?</p>
-        </div>
-        """, unsafe_allow_html=True)
-
-        # Search box (centered)
-        col1, col2, col3 = st.columns([1, 2, 1])
-        with col2:
-            user_query = st.text_input(
-                "질문을 입력하세요",
-                placeholder="CRM에 대해 물어보세요...",
-                label_visibility="collapsed",
-                key="welcome_search"
-            )
-
-        # Popular queries
         st.markdown('<div class="popular-queries" style="text-align: center;">', unsafe_allow_html=True)
         st.markdown('<p class="popular-queries-title">💡 인기 질문</p>', unsafe_allow_html=True)
 
@@ -398,15 +398,10 @@ def main():
 
         st.markdown('</div>', unsafe_allow_html=True)
 
-    else:
-        # Chat mode - compact header
-        st.markdown("""
-        <div class="compact-header">
-            <h2 style="margin: 0; color: #4285f4;">💬 CRM Chatbot</h2>
-        </div>
-        """, unsafe_allow_html=True)
+    # Display chat history below search box
+    if len(st.session_state.chat_history) > 0:
+        st.markdown('<div style="margin-top: 2rem;">', unsafe_allow_html=True)
 
-        # Display chat history
         for message in st.session_state.chat_history:
             role = message['role']
             content = message['content']
@@ -432,8 +427,7 @@ def main():
                             """)
                             st.divider()
 
-        # Chat input
-        user_query = st.chat_input("질문을 입력하세요...")
+        st.markdown('</div>', unsafe_allow_html=True)
 
     # Process query
     if user_query:
