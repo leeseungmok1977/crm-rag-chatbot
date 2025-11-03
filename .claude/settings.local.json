@@ -3,7 +3,9 @@
     "allow": [
       "Bash(powershell -Command \"Get-ExecutionPolicy\")",
       "Bash(pip install:*)",
-      "Bash(streamlit run:*)"
+      "Bash(streamlit run:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
