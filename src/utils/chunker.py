@@ -10,10 +10,16 @@ from typing import List, Dict, Optional, Literal
 from dataclasses import dataclass, field
 import hashlib
 
-from langchain.text_splitter import (
-    RecursiveCharacterTextSplitter,
-    TokenTextSplitter,
-)
+try:
+    from langchain.text_splitter import (
+        RecursiveCharacterTextSplitter,
+        TokenTextSplitter,
+    )
+except ImportError:
+    from langchain_text_splitters import (
+        RecursiveCharacterTextSplitter,
+        TokenTextSplitter,
+    )
 
 
 @dataclass

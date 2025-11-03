@@ -55,3 +55,6 @@ logs/*.log
 # Cache
 *.cache
 .cache/
+
+# Windows
+nul

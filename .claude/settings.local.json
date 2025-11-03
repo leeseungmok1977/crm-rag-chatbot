@@ -5,7 +5,17 @@
       "Bash(pip install:*)",
       "Bash(streamlit run:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(vercel link:*)",
+      "Bash(python:*)",
+      "Bash(cat:*)",
+      "Bash($null)",
+      "Bash($env:PYTHONIOENCODING=\"utf-8\")",
+      "Bash(chcp 65001)",
+      "Bash(nul)",
+      "Bash(Select-Object -Last 5)"
     ],
     "deny": [],
     "ask": []

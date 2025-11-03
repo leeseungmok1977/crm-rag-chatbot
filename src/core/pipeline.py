@@ -392,11 +392,12 @@ if __name__ == "__main__":
         print("❌ OPENAI_API_KEY not found in environment")
         exit(1)
 
-    # 파이프라인 생성
+    # 파이프라인 생성 (인메모리 모드)
     pipeline = create_pipeline(
         openai_api_key=api_key,
         qdrant_host="localhost",
-        qdrant_port=6333
+        qdrant_port=6333,
+        use_memory=True  # 인메모리 모드 강제
     )
 
     # 테스트: 단일 파일 처리
