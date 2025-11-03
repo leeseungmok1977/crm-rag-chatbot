@@ -1,0 +1,772 @@
+[
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0000",
+    "text": "Contents_PC \n \n \n \n Step 1 미팅메모 작성 \n \n \n 미팅메모 신규 등록 \n \n 1.1 레코드 유형 선택 \n \n 1.1.1 클로바노트 활용 \n \n 1.1.2 Teams 활용 \n 1.1.3 NDA 거래선 \n \n 1.2 기본정보 입력 \n \n 1.3 미팅정보 입력 \n \n 1.4 참석정보 입력 \n \n 1.5 저장 및 제출 \n \n 1.6 추가정보 입력 및 기능 활용 \n \n 미팅메모 수정 \n \n 2.1 미팅메모 목록 화면 수정 \n \n 2.2 미팅메모 상세 페이지 수정 \n \n \n \n \n \n \n 2\n\nContents_PC \n \n \n \n Step 2 미팅메모 저장 / 제출 \n \n \n 임시 저장 및 제출 \n \n 1.1 작성 정보 수정 및 제출 \n \n 이메일 및 알림 메시지 발송 \n \n 2.1 수신/참조인 설정 \n \n 2.2 발송 템플릿 및 내역 확인 \n \n \n \n \n Step 3 미팅메모 조회 \n \n \n 미팅메모 목록 조회 \n \n 1.1 홈 화면 미팅메모 조회 \n 1.2 미팅메모 List View 필터 활용 조회 \n \n \n 미팅메모 상세 내용 조회 \n \n 2.1 관련정보 조회 \n \n 2.2 민감정보 및 공유 대상 조회 \n \n 2.3 To-Do List 조회 \n \n 3\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.1 클로바노트 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 새로 만들기 클릭 \n \n 1 \n 2. 클로바노트 활용 미팅메모 선택 \n \n \n 3. 다음 클릭 \n \n 2 \n \n \n \n \n 3 \n \n \n \n \n \n FAQ \n \n Q. AI 솔루션을 활용하지 않고 기존처럼 \n 미팅메모를 작성할 수는 없나요? \n \n A. ‘기본 미팅 메모‘ 선택 시 기존에 \n 사용하시던 방식의 미팅메모 생성이 \n 가능합니다. \n \n 4",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 0
+    },
+    "char_count": 967,
+    "token_count": 328
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0001",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.1 클로바노트 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 클로바노트 인증 바로가기 클릭 \n - 클로바노트 유형 미팅메모 생성 시, \n 최초 1회 인증 필요 \n \n - 인증 후 90일 간격으로 재인증 필요 \n (좌측과 동일한 인증 요청 화면 노출) \n \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 5\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.1 클로바노트 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 엑세스 허용 클릭 \n - 최초로 클로바노트 활용 미팅메모 \n 생성 시, 인증 필요 \n \n - 인증 후 90일 간격으로 재인증 필요 \n (좌측과 동일한 인증 요청 화면 노출) \n \n 2. 클로바노트 계정 로그인 \n 1 \n - 클로바노트 계정은 별도 요청 및 발급 \n 필요 (담당 부서 : IT기획그룹) \n 3. 확인 클릭 \n \n \n \n \n \n \n FAQ \n 2 \n Q. 평소 사용하던 인트라망 (EP 등) \n 계정으로 네이버웍스(클로바노트) \n 로그인 불가한데, 어떻게 로그인 하나요? \n \n 3 \n A. 클로바노트 계정 신청이 필요하며, \n IT기획그룹에 요청하셔서 발급 후 \n 로그인 하실 수 있습니다. \n 6",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 1
+    },
+    "char_count": 823,
+    "token_count": 291
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0002",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.1 클로바노트 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 생성한 클로바노트 회의록 확인 \n - 최근 30일 내 생성한 회의록 리스트업 \n - 부여 받은 사용자별 업무 계정으로 \n \n 클로바노트에 로그인하여 생성한 \n 회의록만 조회 가능 (개인 계정으로 \n 생성한 회의록은 조회되지 않음) \n 1 \n - 클로바노트 웹, 모바일 관계없이 \n 2 \n 생성한 모든 회의록 리스트업 \n 2. 미팅메모 작성에 활용할 회의록의 \n ‘상세보기‘ 클릭 \n - 상세보기 통해 제공하는 회의록 요약 / \n \n 전문 중, 요약은 클로바노트에서 \n 생성하지 않은 경우 조회 불가 \n \n \n FAQ \n \n Q. 조회되는 회의록의 기간 제한이 \n 있나요? \n \n A. 클로바노트 회의록은 미팅일, \n 즉 회의록 생성일로부터 30일까지의 \n 회의록만 조회 가능합니다. \n \n 7",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 2
+    },
+    "char_count": 549,
+    "token_count": 206
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0003",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.1 클로바노트 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 요약 및 전문 확인 \n - 상세보기를 클릭한 회의록의 요약 및 \n 전문 내용 확인 \n \n 2. 불러오기 클릭 시 ‘요약’에 생성된 \n 내용이 우측 미팅메모 ‘일반정보’란에 \n 1 2 \n 복사 \n 3. 저장 클릭 시, 좌측 화면에 띄워져 있는 \n \n 회의록의 요약 및 전문도 함께 저장 \n - 관련 상세 사항 : P.29 참고 \n \n \n \n \n FAQ \n \n Q. 클로바노트 회의록의 요약 내용이, 왜 \n 미팅메모 요약란이 아닌 일반정보란에 \n 3 복사 되나요? \n \n A. 클로바노트에서 30분, 1시간 이상 \n 녹음 시 생성되는 요약의 분량이, 다수의 \n 미팅메모 작성자분들이 일반정보란에 \n 작성하시는 내용 및 분량과 가장 \n 흡사하여 위와 같이 설계 하였습니다. \n \n 8\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.2 Teams 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 새로 만들기 클릭 \n \n 1 \n 2. Microsoft Teams 활용 미팅메모 클릭 \n \n \n 3. 다음 클릭 \n \n \n \n 2 \n \n \n 3 \n \n \n \n \n \n FAQ \n \n Q. AI 솔루션을 활용하지 않고 기존처럼 \n 미팅메모를 작성할 수는 없나요? \n \n A. ‘기본 미팅 메모‘ 선택 시 기존에 \n 사용하시던 방식의 미팅메모 생성이 \n 가능합니다. \n \n 9",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 3
+    },
+    "char_count": 912,
+    "token_count": 324
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0004",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.2 Teams 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 생성된 Teams 회의록 확인 \n - 최근 15일 내 생성된 회의록 리스트업 \n - Teams 캘린더에서 새 이벤트 추가 \n \n 또는 캘린더 화면 클릭을 통해 생성된 \n 회의록 조회 가능 (‘지금 모임 시작’ \n 버튼 통해 생성/참가한 미팅 회의록 \n 1 \n 조회 불가) \n - 미팅을 생성하였거나, 미팅 참석자로 \n 미리 등록된 경우 회의록 조회 가능 \n \n (등록되지 않은 참석자는 조회 불가) \n - 상세 안내 : \n \n \n FAQ \n \n Q. 팀즈 미팅 참여 및 녹화하였는데 \n 회의록이 조회되지 않습니다. \n \n A. Teams 캘린더에서 ‘지금 모임 시작’ \n 버튼을 통해 미팅을 즉시 생성/진행한 \n 경우, 또는 미팅 참석자로 등록되지 않은 \n 경우 회의록이 조회되지 않습니다. \n 보다 자세한 사항은 [참고] Teams \n 회의록 생성을 참고 부탁 드립니다. \n \n 10\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.2 Teams 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. (필요 시) 이전 미팅 더보기 클릭 \n - 기본 (미 클릭) : 최근 15일 내 생성한 \n 회의록 최초 리스트업 \n \n - 더보기 클릭을 통해 최대 60일까지의 \n 회의록 조회 가능 \n 1 - 예) 1회 클릭 : 최근 30일 내 생성한 \n \n 회의록 리스트업 (+15일) \n 2 \n \n 2. 작성 간 활용할 회의록 ‘상세보기‘ 클릭 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 11",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 4
+    },
+    "char_count": 987,
+    "token_count": 351
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0005",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.2 Teams 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. Agentforce 요약 생성 클릭 \n \n \n \n \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 12\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.2 Teams 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 생성된 요약 확인 \n \n \n 2. 불러오기 클릭 시 ‘요약’에 생성된 \n 내용이 우측 미팅메모 ‘일반정보’란에 \n 복사 \n \n \n 1 \n 2 \n 3. 저장 클릭 시, 좌측 화면에 띄워져 있는 \n 회의록의 요약 및 전문도 함께 저장 \n - 관련 상세 사항 : P.29 참고 \n \n \n \n \n FAQ \n \n Q. 요약 내용이, 왜 미팅메모 요약란이 \n 아닌 일반정보란에 복사 되나요? \n \n A. 30분, 1시간 이상 녹음 시 생성되는 \n 요약의 분량이, 다수의 미팅메모 \n 작성자분들이 일반정보란에 작성하시는 \n 내용 및 분량과 가장 흡사하기 \n 때문입니다. \n \n 13",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 5
+    },
+    "char_count": 724,
+    "token_count": 247
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0006",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.3 NDA 거래선 \n \n 메뉴 미팅메모 사용자 NDA 거래선 관리 권한자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 새로 만들기 클릭 \n \n 1 \n 2. NDA 선택 \n - NDA 거래선이 아닌 일반 거래선 대상 \n 미팅메모 작성 시, 일반 선택 \n \n 2 \n 3. 다음 클릭 \n \n \n 3 \n FAQ \n \n Q. 레코드 유형 NDA와 일반 간의 \n 차이가 무엇인가요? \n \n A. [생성]NDA 미팅메모는지정된 관리 \n 상기 NDA 레코드 유형 선택 입력 창은, 권한자만 생성 가능합니다. \n [조회] 작성자, 작성자 직속 상사, \n 지정된 NDA 거래선 관리 권한자에게만 노출됩니다. 작성자가 직접 미팅메모 조회/수정 \n 권한을 공유한 조직원 외에는 \n (일반 사용자에 노출되지 않음) \n 미팅메모가 검색 및 조회되지 않습니다. \n [기능] NDA 미팅메모에는별도의 \n 미팅메모 조회 권한 부여 기능이 \n 존재하며, ‘민감정보 작성/공유’ 및 \n ‘이메일 발송‘ 기능은 존재하지 않습니다. \n 14",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 6
+    },
+    "char_count": 608,
+    "token_count": 222
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0007",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.2 기본정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 새로 만들기 클릭 \n \n 1 2. 제목 작성 (필수) \n - 최대 50자까지 작성 가능 \n 3. 대표 거래선 등록 (필수) \n \n - 미팅 참석 거래선 1개일 시, \n 해당 거래선 입력 \n - 미팅 참석 거래선 2개 이상일 시, \n \n 2 미팅 아젠다 기준 핵심 거래선 입력 \n 4. 거래선 추가 \n 3 \n - 미팅에 참석한 거래선이 2개 이상일 \n 때, 추가 등록 가능 \n 4 - 거래선 신규 생성 및 복수 선택 가능 \n \n \n \n ※ 레코드 유형 NDA : 미팅메모 내 NDA \n 거래선이 1개 이상 포함되어야 미팅메모 \n 저장 가능 \n \n - NDA 거래선 등록 시, 일반 거래선은 개수 \n 관계 없이 추가 등록 가능 \n - 레코드 유형에 관계 없이 작성 방식/항목 \n \n 동일함 (민감정보, 이메일 발송 기능 외) \n 15",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 7
+    },
+    "char_count": 553,
+    "token_count": 199
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0008",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.2 기본정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 표준 시간대 선택 (필수) \n - 사용자에 설정된 기본값 Default 설정 \n - 해외 출장 등 기존 근무하던 지역과 \n \n 다른 지역에서 미팅 시에만 해당 지역 \n 표준시간대로 변경 \n (변경 시에도 입력한 미팅일시에 변동 \n \n 없음) \n 2. 시작/종료 일시 설정 (필수) \n \n - 시작일 선택/변경 시 종료일도 동일한 \n 1 \n 날짜로 자동 설정 \n - 시작시간 선택 시 종료 시간은 선택한 \n 시간 +1시간으로 자동 설정 \n 2 \n - 표준시간대에 관계 없이, 입력한 \n 미팅일시는 글로벌 동일하게 노출됨 \n \n \n \n \n \n \n \n \n \n 16\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.2 기본정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 장소 선택 \n - 본사 (송도 / 서울역 / 포스코센터), \n 고객사, 기타 중 선택 \n \n - 본사 : 선택 후 저장 시 대표 본사 주소 \n 자동 입력 \n - 고객사 : 선택 후 저장 시 ‘대표 \n \n 거래선’에 저장된 주소 자동 업로드 \n - 기타 : 선택 시 주소 수기 입력 \n \n \n 2. 온라인 미팅 여부 선택 \n - 화상회의, 컨퍼런스 콜 진행 시 선택 \n \n 1 \n \n \n 2 \n \n FAQ \n \n Q. 장소에서 본사 혹은 고객사 선택 후, \n 일부 상세 주소 수정도 가능한가요? \n \n A. 미팅메모 저장 후 수정 가능합니다. \n \n \n 17",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 8
+    },
+    "char_count": 915,
+    "token_count": 328
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0009",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.3 미팅정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 대표 유형 선택 (필수) \n - 미팅을 가장 대표하는 유형 1개 선택 \n 1) 신사업 제안 \n \n 2) 계약 협의 (계약 전 제반 사항 조율 등) \n 3) 계약 후 관리 (계약 후 관리 전반) \n 1 2 \n 4) Claim \n 5) 기타(고객동향, 시황교류 등) \n \n 2. Claim 유형 \n \n - 대표 유형 중 “Claim” 선택 시에만 필수 \n 선택 \n - Claim 외 유형 선택 시 입력 불가 \n \n - 수량 부족, 품질 하자, 물류 클레임, \n 생산 지연, 기타 중 복수 선택 가능 \n \n \n \n \n \n \n \n \n \n \n 18\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.3 미팅정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 요약 입력 (필수) \n \n 2. 일반정보 입력 (필수) \n \n 1 - 작성되는 정보는 전사 공유 대상 \n \n 3. 민감정보 입력 \n \n - 외부 공개 시 이슈가 발생할 수 있는 \n 내용이 있는 경우, 해당 내용 작성 \n 2 \n - ‘민감정보 공유 대상‘에 설정한 사용자 \n 및 소속 조직의 조직장 (HR 조직도 \n 기준)만 민감정보 조회 가능 \n - 예) A본부 – B실 – C그룹 –D섹션 소속 \n 3 \n => 민감정보 공유 대상에 추가한 인원 \n 및 D섹션리더, C그룹장, B실장, \n A본부장 조회 가능 \n \n - 최대 250자까지 작성 가능 \n (일반정보의 과도한 민감정보화 방지 \n 목적 / 단, 가스사업본부 사용자 예외) \n \n - 민감정보 파일은 임시저장 후 업로드 \n 가능 (P.28 참고) \n \n \n 19",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 9
+    },
+    "char_count": 996,
+    "token_count": 350
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0010",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.4 참석정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 고객 참석자 입력 \n - ‘대표 거래선’ 및 ‘추가 거래선‘ 에 \n 등록된 거래선 담당자만 입력 가능 \n \n - 담당자 검색이 안되는 경우 해당 \n 거래선 하위 Contact 등록 여부 확인 \n \n 1 2 \n 3 2. 내부 참석자 입력 \n - CRM 계정 보유 여부와 상관없이 모든 \n 1 \n 임직원 등록 가능 \n \n 3. 조직도 클릭 시 부서 단위 등록 및 \n 4 5 임직원 정보 조회 가능 \n 2 \n \n 4. ‘하위부서포함’ 클릭 시 선택한 부서의 \n 하위부서까지 일괄 선택 가능 \n \n \n 5. ‘전체선택’ 클릭 시 선택한 부서원 일괄 \n 선택 가능 \n \n \n \n \n \n 20",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 10
+    },
+    "char_count": 470,
+    "token_count": 167
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0011",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.4 참석정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 민감정보 공유 대상 입력 \n - 민감정보 작성시에만 입력 가능 \n - 입력된 조직원은 민감정보 조회 가능 \n \n - CRM 계정을 보유한 조직원만 검색 \n 및 추가 가능 (계정 보유자만 리스팅) \n \n \n 2. 참석자 (P-Int’l) 가져오기 \n - 클릭 시 선행 입력한 내부 참석자 \n (P-Int’l) 중, CRM 계정을 보유한 \n \n 1 2 임직원을 공유 대상에 일괄 등록 \n - 예) 내부 참석자 : A, B, C, D, E \n CRM 계정 보유 내부 참석자 : A, B, C \n 2 \n => A, B, C만 일괄 등록 \n \n FAQ \n \n Q. 민감정보 공유 대상에 일부 임직원이 \n 조회되지 않습니다. \n \n A. 민감정보는 CRM 접속 후 조회 \n 가능한 정보이기에, 민감정보 공유 대상 \n 항목에서 임직원 검색 시 CRM 계정을 \n 보유한 임직원만 조회 됩니다. \n \n 21\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.4 참석정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 선물 내역 해당 여부 \n - 미팅 참석자로 등록 된 거래선 \n 담당자에게 선물을 전달한 경우 클릭 \n \n \n 2. 선물 전달 대상 및 선물명 입력 \n - ① 클릭 시 입력 항목 노출 \n \n - 선물 전달 대상 입력 (단, 미팅메모 \n 참석자로 등록 된 대상만 입력 가능) \n - 선물명 수기 입력 \n \n \n 3. 복수 담당자 및 선물 발송 시 클릭 \n - ‘행 추가‘ 버튼 클릭 후 동일한 \n \n 방식으로 작성 \n 1 \n 3 \n \n 2 \n \n \n \n \n \n \n \n 22",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 11
+    },
+    "char_count": 996,
+    "token_count": 352
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0012",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.5 저장 및 제출 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 클릭 시 임시 저장 및 신규 생성 \n - 클릭 시 현재 작성한 미팅메모 임시 \n 저장 및 신규 미팅메모 생성 화면으로 \n \n 재이동 \n \n 2. 클릭 시 임시 저장 \n \n - 클릭 시 현재 작성한 미팅메모가 임시 \n 저장 된 상태로 상세 페이지 이동 \n \n \n ※ 저장 클릭 시에도 미팅메모가 전사 \n 공유되지 않으며, 작성자 본인만 확인 \n 가능한 ‘임시 저장’ 상태로 전환됨 \n \n \n \n \n \n FAQ \n \n Q. 임시 저장은 며칠까지 가능한가요? \n \n A. 임시 저장 기한은 제한 없습니다. 단, \n 1 2 미팅 정보 공유의 적시성을 고려하여 \n 가능한 빠르게 작성 완료 부탁드립니다. \n \n 23",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 12
+    },
+    "char_count": 484,
+    "token_count": 177
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0013",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.5 저장 및 제출 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. 작성 완료 클릭 시 미팅메모 등록 완료 \n (전사 공유) \n 1 \n - 클릭 시 미팅메모 전사 공유 \n - 작성 완료 전엔 전사 공유되지 않으며, \n 작성자만 확인 가능 \n - 이메일 발송 및 URL 복사 기능은 \n \n 작성 완료 후 사용 가능 \n \n ※ ‘작성 완료'를 클릭하여야 미팅메모가 \n \n 전사 공유 (제출) 됨 \n - 작성 완료 전엔 전사 공유되지 않아, \n 작성자 외엔 확인 불가함 \n \n \n \n \n FAQ \n \n Q. 작성 완료 후 미팅메모 ‘삭제’ 버튼이 \n 보이지 않습니다. 어떻게 삭제하나요? \n \n A. 작성 완료된 미팅메모는 삭제하실 수 \n 없습니다. 메모 수정 기능을 활용하여 \n 주시기 바랍니다. \n \n 24",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 13
+    },
+    "char_count": 515,
+    "token_count": 188
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0014",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.5 저장 및 제출 \n \n 메뉴 미팅메모 사용자 NDA 거래선 관리 권한자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. 공유 클릭 \n \n 1 \n 2. NDA 거래선 미팅메모를 공유할 조직원 \n 검색 및 등록 \n \n 3. 미팅메모 엑세스 레벨 선택 \n \n - 기본값 : 읽기 전용 \n 2 - 읽기/쓰기 선택 시 공유 받은 조직원이 \n 해당 미팅메모 수정 가능 \n \n \n 3 ※ 레코드 유형 NDA : 작성 완료 후 ‘공유’ \n 기능을 통해 공유 대상자에 공유해야, 해당 \n \n 조직원이 미팅메모를 조회할 수 있습니다. \n \n \n \n FAQ \n \n Q. 공유 버튼이 보이지 않습니다. \n 상기 공유 기능은 NDA 거래선 미팅메모에만 적용됩니다. \n A. NDA 거래선 미팅메모의 공유 기능은, \n (일반 거래선 미팅메모 해당 없음) 미팅메모 작성완료 후 노출됩니다. \n \n \n 25",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 14
+    },
+    "char_count": 535,
+    "token_count": 194
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0015",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.6 추가정보 입력 및 기능 활용_취급품목 등록 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. 관련정보 클릭 (상세페이지 기본값) \n \n \n 1 2. 취급 품목 추가 클릭 \n - 미팅에서 논의된 품목을 기재하여 \n 기록 및 관리 가능 \n - Material Group Lv.3, 4 추가 가능 \n \n 3 \n 4 3. 자재 명 검색 및 선택 (복수 선택 가능) \n - 자재 명 부분 검색시에도 Lv.3, 4 기준 \n \n 연관 자재 명 리스트업 \n \n 4. 클릭 시 테이블 형태의 고급 검색 가능 \n 2 \n - 자재 그룹 Lv.1~4까지 확인 가능 \n \n FAQ \n \n Q. 추가정보는 작성완료 후에만 입력 \n 가능한가요? \n \n A. 임시저장상태에서도 언제든 입력 \n 가능하며, 작성완료 후에는 완료 30일 \n (작성완료 후 미팅메모 수정 가능 기간) \n 내에 입력 가능합니다. \n \n 26",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 15
+    },
+    "char_count": 563,
+    "token_count": 202
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0016",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.6 추가정보 입력 및 기능 활용_요약 및 전문 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. 관련정보 클릭 (상세페이지 기본값) \n \n 1 \n 2. 요약 및 전문 섹션 확인 \n - 클로바노트 또는 팀즈 활용 미팅메모 \n 생성 시, 미팅메모 작성 후 임시저장 \n 시점에 조회 중이던 회의록 요약 및 \n \n 전문 저장 \n 2 \n 3. 제목 클릭 시 저장된 회의록 요약 및 \n 3 \n 전문 전체 확인 가능 \n \n \n \n FAQ \n \n Q. 저장된 요약 및 전문이 없습니다. \n \n A. 요약 및 전문은 ‘클로바노트’ 또는 \n ‘팀즈’ 활용 미팅메모 생성 시에만 \n 저장됩니다. \n 또한 미팅메모 임시저장 버튼 클릭 \n 시점에서, 상세보기 (회의록 리스트가 \n 아닌 요약 및 전문 확인 창) 중이던 \n 회의록이 저장되는 점 참고 바랍니다. \n \n 27",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 16
+    },
+    "char_count": 539,
+    "token_count": 199
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0017",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.6 추가정보 입력 및 기능 활용_민감파일 등록 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. 민감정보 클릭 \n \n 2. 민감정보 파일 업로드 \n 1 \n - 텍스트 중심의 민감정보만이 아닌, \n 파일 업로드를 통한 민감정보 공유 \n 방식 확장 \n \n \n ※ 외부망에서도 복호화 및 민감파일 \n 업로드 가능합니다. \n \n \n \n 2 \n \n FAQ \n \n Q. 업로드한 민감정보 파일을 조회할 수 \n 있는 조직원은 누구인가요? \n \n A. 민감정보 파일은 민감정보와 \n 마찬가지로, ‘민감정보 공유 대상’에 \n 등록한 조직원에게만 공유됩니다. \n (그룹장, 실장, 본부장 등 소속 조직의 \n 직속 상사는 공유 대상에 미등록 하여도 \n 조회 가능) \n \n 28\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.6 추가정보 입력 및 기능 활용_To-Do List \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. To-Do List 클릭 \n \n 2. 새 이벤트 클릭 \n \n \n 1 \n 3. 이벤트 제목 입력 \n 2 \n 4. 이벤트 대상(고객) 선택 \n 3 - 미팅메모에 입력하지 않은 거래선에 \n 소속된 고객 선택 시, 저장 불가 \n \n - 저장 시, 선택한 고객의 상세 페이지 \n (연락처 상세 페이지) ‘활동’ 탭 및 해당 \n 4 \n 고객이 소속된 거래선 'Timeline’ 탭에 \n 생성한 이벤트가 노출됨 \n \n \n \n \n \n \n \n \n \n \n \n 29",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 17
+    },
+    "char_count": 917,
+    "token_count": 328
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0018",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.6 추가정보 입력 및 기능 활용_To-Do List \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. 이벤트 시작 / 종료 일시 선택 \n - 시작일 선택/변경 시 종료일도 동일한 \n 날짜로 자동 설정 \n \n - 시작시간 선택 시 종료 시간은 선택한 \n 시간 +1시간으로 자동 설정 \n \n \n 2. (필요 시) 미리 알림 설정 \n - 이벤트 시작 시간 기준으로 미리 알림 \n 설정 가능 \n \n - 미리 알림 : Salesforce 알림 수신 \n \n 3. (필요 시) 이벤트 참석자 등록 \n 1 \n - P-Intl 내부 조직원 등록 가능 \n 2 - 참석자로 등록한 조직원의 Salesforce \n 캘린더에도 이벤트 자동 생성 됨 \n \n \n 3 4. 저장 클릭 \n \n \n \n \n 4 \n \n 30",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 18
+    },
+    "char_count": 506,
+    "token_count": 177
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0019",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.6 추가정보 입력 및 기능 활용_To-Do List \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. 새 과업 클릭 및 제목 입력 \n \n 2. 과업 대상(고객) 선택 \n \n - 미팅메모에 입력하지 않은 거래선에 \n 소속된 고객 선택 시, 저장 불가 \n 1 \n - 저장 시, 선택한 고객의 상세 페이지 \n (연락처 상세 페이지) ‘활동’ 탭 및 해당 \n 고객이 소속된 거래선 'Timeline’ 탭에 \n 1 \n 생성한 과업이 노출됨 \n \n 3. 마감 기한 선택 \n 2 \n \n 4. 담당자 지정 \n 3 4 \n - 과업 생성자가 기본 지정되며, 담당자 \n 변경 가능 \n 5 \n - 담당자 변경 후 저장 시 해당 조직원에 \n 과업 배정 알림 자동 발송 (이메일) \n 6 \n 5. (필요 시) 미리 알림 설정 \n \n 6. 저장 클릭 시 과업 생성 \n \n 31\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.6 추가정보 입력 및 기능 활용_URL 복사 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. URL 복사 클릭 \n 1 - 클릭 시 해당 미팅메모 URL 복사 \n - 출장 정산 보고서 작성 등 미팅메모 \n \n URL 첨부 필요 시 활용 가능 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 32",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 19
+    },
+    "char_count": 848,
+    "token_count": 294
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0020",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 2. 미팅메모 수정 Step (Lv.3) 2.1 미팅메모 목록 화면 수정 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 리스트뷰 필터 > 편집 \n \n 1. 리스트뷰 필터_My Meeting Memo \n (Completed) 선택 \n 1 \n 1 \n 2. 수정하고자 하는 미팅메모의 \n 2 (아래 방향 화살표) 아이콘 클릭 \n \n 3 \n 3. 클릭 시 해당 미팅메모 편집 팝업 오픈 \n 4 \n 4. 작성 정보 수정 가능 \n \n (관련정보 및 민감정보 외) \n - 관련정보 : 추가 거래선, 참석자, \n 선물내역 \n \n \n ※ 미팅메모 제출 후 수정 가능 기한 : 1달 \n - 임시저장 상태의 경우 제한 없음 \n \n \n \n FAQ \n \n Q. 작성 완료 (제출) 후 수정 가능한가요? \n \n A. 완료 후 1달 동안 수정 가능합니다. \n \n 33\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 2. 미팅메모 수정 Step (Lv.3) 2.2 미팅메모 상세 페이지 수정_관련정보 (1/2) \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 > 편집 \n \n 1. 편집 클릭 \n 1 \n 2. 작성 정보 수정 가능 \n \n (관련정보 및 민감정보 외) \n - 관련정보 : 거래선, 참석자, 선물내역 \n 2 \n \n \n \n \n \n \n \n \n \n \n \n \n \n FAQ \n \n Q. 민감정보 수정은 어떻게 하나요? \n \n A. '민감정보’ 탭으로 진입하여 수정이 \n 가능합니다. 자세한 내용은 P.38 참조 \n 부탁 드립니다. \n \n 34",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 20
+    },
+    "char_count": 848,
+    "token_count": 293
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0021",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 2. 미팅메모 수정 Step (Lv.3) 2.2 미팅메모 상세 페이지 수정_관련정보 (2/2) \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 \n \n 1. (연필) 아이콘 클릭 시 수정 가능 \n - 기본 정보, 미팅 정보 수정 가능 \n \n \n 2. ‘관련됨’ 탭 내 ‘추가’ 버튼 클릭 시 \n 1 \n 2 \n 해당하는 영역 정보 추가 가능 \n - 거래선 정보, 참석자 정보, 선물 내역 \n 3 \n 추가 가능 \n 3. (아래 방향 화살표) 아이콘 클릭 시 \n 삭제 가능 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 35\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 2. 미팅메모 수정 Step (Lv.3) 2.2 미팅메모 상세 페이지 수정_민감정보 (1/2) \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 \n \n 1. ‘민감정보’ 탭 클릭 \n \n 2. (연필) 아이콘 클릭 시 민감정보 \n 1 \n 수정 가능 \n 2 \n 3. '민감정보 공유 추가＇ 클릭 시 공유 \n 3 \n 대상 추가 가능 \n \n 4 \n 4. (아래 방향 화살표) 아이콘 클릭 시 \n 5 \n 공유 대상 삭제 가능 \n 5. 파일 업로드 클릭 시 민감정보 파일 \n \n 추가 업로드 가능 \n - 민감정보 파일은 민감정보와 \n 동일하게, ‘민감정보 공유 대상'에 \n \n 등록된 조직원만 조회/다운로드 가능 \n \n \n \n \n \n \n \n 36",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 21
+    },
+    "char_count": 799,
+    "token_count": 279
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0022",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 2. 미팅메모 수정 Step (Lv.3) 2.2 미팅메모 상세 페이지 수정_민감정보 (2/2) \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 \n \n 1. [수정 방법 1] 민감정보 파일 클릭 \n 2 \n 2. (아래 방향 화살표) 아이콘 클릭 시 \n \n 업로드한 파일 삭제 가능 \n \n 3. [수정 방법 2] 모두 보기 클릭 \n \n \n 4. (아래 방향 화살표) 아이콘 클릭 \n 시에도 업로드한 파일 삭제 가능 \n \n \n 1 \n \n 3 \n \n \n \n \n \n \n \n 4 \n \n \n \n \n 37\n\nStep 2. 미팅메모 저장 / 제출 \n \n \n Step (Lv.2) 1. 임시저장 및 제출 Step (Lv.3) 1.1 작성 정보 수정 및 제출 (1/2) \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 리스트뷰 필터 \n \n 1. 리스트뷰 필터_My Meeting Memo \n (Draft) 선택 \n \n 1 - 사용자가 임시저장한 전체 미팅메모 \n 리스트 업로드 \n 2 \n 2. ‘제목’ 칼럼에 기재된 미팅메모명 클릭 \n \n - 클릭 시 미팅메모 상세 화면으로 이동 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 38",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 22
+    },
+    "char_count": 682,
+    "token_count": 229
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0023",
+    "text": "Step 2. 미팅메모 저장 / 제출 \n \n \n Step (Lv.2) 1. 임시저장 및 제출 Step (Lv.3) 1.1 작성 정보 수정 및 제출 (2/2) \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 \n \n 1. 필요 시 작성한 미팅메모 정보 수정 후, \n ‘작성 완료‘ 클릭 \n 1 \n - 수정 방법 : Step 1. 미팅메모 작성_2. \n 미팅메모 수정 참고 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n FAQ \n \n Q. 이메일 발송 버튼이 어디에 있나요? \n \n A. 이메일 발송은 ‘작성 완료’ 후 \n 가능합니다. 작성 완료 후 ‘이메일 발송’ \n 버튼이 기존 작성 완료 버튼과 동일한 \n 자리에 생성됩니다. \n \n 39\n\nStep 2. 미팅메모 저장 / 제출 \n \n \n Step (Lv.2) 2. 이메일 및 알림 메시지 발송 Step (Lv.3) 2.1 수신/참조인 설정 (1/2) \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 > 이메일 발송 \n \n 1. 이메일 발송 버튼 클릭 \n 1 \n 2. 이메일 / 알림 메시지 수신/참조인 설정 \n \n - 조직도 모달 활용하여 부서 단위 등록 \n 가능 \n - 수신/참조인 합산, 1회 발송 시 최대 \n \n 100명까지 발송 가능 \n 2 \n (1) 수신인 \n - 참석자_P-Int’l에 등록한 임직원 자동 \n 업로드 \n (2) 참조인 \n - 참석자_P-Int’l 중 ‘민감정보 공유 \n \n 대상'에만 등록된 조직원 자동 업로드 \n - 예) 참석자_P-Int’l : A, B, C \n 민감정보 공유 대상 : A, B, C, D, E \n \n => 참석자 ‘D와 E’는 참조인에 업로드 \n \n ※ 알림 메시지 (Notification) : 세일즈포스 \n \n 화면 우측 상단에 노출되는 '벨 알림' \n \n \n \n 40",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 23
+    },
+    "char_count": 963,
+    "token_count": 333
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0024",
+    "text": "Step 2. 미팅메모 저장 / 제출 \n \n \n Step (Lv.2) 2. 이메일 및 알림 메시지 발송 Step (Lv.3) 2.1 수신/참조인 설정 (2/2) \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 > 이메일 발송 \n \n 1. 발송 타입 선택 (복수 선택 가능) \n - 이메일은 필수 선택 \n - 알림 메시지는 필요 시 선택 \n \n - 이메일 및 알림 메시지 동시 발송 가능 \n \n 2. 'Send’ 클릭 시 발송 \n \n 1 \n ※ 알림 메시지 (Notification) : 선택한 \n 수신/참조인 중, CRM 사용자 (세일즈포스 \n \n 계정 보유자) 에게만 발송 \n \n \n \n \n \n \n \n \n \n 2 \n \n \n \n \n \n 41\n\nStep 2. 미팅메모 저장 / 제출 \n \n \n Step (Lv.2) 2. 이메일 및 알림 메시지 발송 Step (Lv.3) 2.2 발송 템플릿 및 내역 확인 (1/3) \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation EP > 받은메일함 \n \n 1. 수신된 이메일 확인 \n (1) 제목 템플릿 \n - ‘<대표거래선명>’ + ‘미팅메모 제목’ + \n \n 2 ‘미팅일’ + ‘작성자 부서 Lv.3’로 구성 \n 1 \n - 부서 Lv.3 (그룹) 미존재시 상위 레벨 \n 노출 \n (2) 그 외 거래선, 참석자, 미팅일, 요약, \n 일반정보, F/up 사항, 선물내역으로 \n 확인 가능 \n \n \n 2. 클릭 시 해당 미팅메모 상세 페이지로 \n 3 \n 이동 \n 4 \n - CRM (미팅메모) 계정 보유자만 이동 \n 후 조회 가능 \n \n 3. 민감정보 작성 여부 노출 \n - 민감정보 작성 시 = Y \n - 민감정보 미작성시 = N \n \n \n 4. F/up 사항 및 선물내역은 미작성 시 \n 해당 항목 자체가 노출되지 않음 \n \n 42",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 24
+    },
+    "char_count": 927,
+    "token_count": 320
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0025",
+    "text": "Step 2. 미팅메모 저장 / 제출 \n \n \n Step (Lv.2) 2. 이메일 및 알림 메시지 발송 Step (Lv.3) 2.2 발송 템플릿 및 내역 확인 (2/3) \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 > 이메일 발송 \n \n 1. '이메일 발송' 버튼 클릭 \n 1 \n 2. 이메일 발송 이력 확인 가능 \n \n - 수신자, 유형 (Recipient / CC), \n 발송일시 확인 가능 \n \n \n 3. 이메일 수신인 검색 가능 \n - 이메일 대량 발송 후 발송 대상 검색 \n 시 활용 가능 \n \n \n 4. ‘Send’ 클릭 시 메일 재발송 가능 \n \n 2 \n 3 \n \n \n \n FAQ \n \n Q. 발송 된 이메일 회수도 가능한가요? \n \n A. 발송 완료 된 이메일 회수 불가합니다. \n 다만, 추후 회수 가능하도록 EP 메일 \n 4 \n 연동 작업 계획에 있습니다. \n 43\n\nStep 2. 미팅메모 저장 / 제출 \n \n \n Step (Lv.2) 2. 이메일 및 알림 메시지 발송 Step (Lv.3) 2.2 발송 템플릿 및 내역 확인 (3/3) \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 > 이메일 발송 \n \n 1 1. 세일즈포스 벨 알림 클릭 \n \n 2. 수신된 미팅메모 알림 메시지 \n \n (Notification) 확인 \n - 미팅메모 알림 메시지 ‘제목’ 클릭 시 \n 2 \n 해당 미팅메모 상세 페이지로 이동 \n (1) 제목 템플릿 \n - 작성자 부서 Lv.3 + 작성자명 + \n 미팅메모 제목 \n \n (2) 내용 템플릿 \n - 미팅일, 대표 거래선명, 미팅 유형 \n \n \n ※ 알림 메시지 (Notification) : 선택한 \n 수신/참조인 중, CRM 사용자 (세일즈포스 \n 계정 보유자) 에게만 발송 (자동 필터링) \n \n \n \n \n \n \n \n \n \n 44",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 25
+    },
+    "char_count": 970,
+    "token_count": 337
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0026",
+    "text": "Step 3. 미팅메모 조회 \n \n \n Step (Lv.2) 1. 미팅메모 목록 조회 Step (Lv.3) 1.1 홈 화면 미팅메모 조회 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home \n \n 1 1. 홈 클릭 (세일즈포스 접속 시 최초 화면) \n \n 2 3 \n 2. 조직별 최신 미팅메모 확인 \n - 최근 7일 내 사용자 조직에서 작성된 \n 최신 미팅메모 조회 가능 \n - 조직 : 그룹 기준, 미존재 시 상위 조직 \n \n \n 3. 사용자가 작성한 미팅메모 목록 및 \n 일 / 주 / 월 단위 개수 확인 가능 \n \n - 임시저장 및 작성완료 상태의 전체 \n 4 \n 미팅메모 조회 \n - 임시저장 상태의 미팅메모 상단 노출 \n \n 4. 사용자가 수신 또는 참조된 미팅메모 \n 5 \n 조회 가능 \n \n 5. 사용자가 즐겨찾기 (★) 설정한 \n 거래선에서 작성된 미팅메모 조회 가능 \n \n \n ※ 미팅메모 제목 클릭 시 해당 미팅메모 \n 상세 페이지로 이동 (①~⑤ 공통) \n \n 45\n\nStep 3. 미팅메모 조회 \n \n \n Step (Lv.2) 1. 미팅메모 목록 조회 Step (Lv.3) 1.2 미팅메모 List View 필터 활용 조회 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 리스트뷰 필터 \n \n 1. 화면 좌측 리스트뷰 필터 명 클릭 \n \n \n 1 2. 필터 선택 시, 각 필터에 설정된 \n 조건으로 미팅메모 조회 \n (1) Meeting Memo (Department) \n - 일반 사용자 : 소속 그룹에서 생성한 \n \n 미팅메모 조회 \n - 실장 이상 사용자 : 이하 조직에서 \n 생성한 모든 미팅메모 조회 \n \n (2) My Meeting Memo (Completed) \n - 작성 후 제출 완료한 미팅메모만 조회 \n (3) My Meeting Memo (Draft) \n \n - 제출 전 임시저장 상태의 미팅메모만 \n 조회 \n \n 2 \n \n \n \n \n \n \n \n \n 46",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 26
+    },
+    "char_count": 991,
+    "token_count": 346
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0027",
+    "text": "Step 3. 미팅메모 조회 \n \n \n Step (Lv.2) 2. 미팅메모 상세 내용 조회 Step (Lv.3) 2.1 관련정보 조회 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 \n \n 1. 관련정보 조회 \n - 해당 미팅메모의 거래선, 참석자, \n 취급 품목, 선물내역, 요약 및 전문, \n 1 \n 첨부파일 정보 조회 가능 \n \n 2. 관련정보 섹션 내 ‘모두 보기’ 클릭 시 \n 2 \n 해당하는 항목의 전체 정보 조회 가능 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 47\n\nStep 3. 미팅메모 조회 \n \n \n Step (Lv.2) 2. 미팅메모 상세 내용 조회 Step (Lv.3) 2.2 민감정보 조회 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 > 민감정보 \n \n 1. 민감정보, 파일, 공유 대상 조회 \n - 해당 미팅메모에 작성된 민감정보, \n 파일 및 민감정보 공유 대상 조회 가능 \n \n - 작성된 민감정보가 없는 경우, \n 1 \n 민감정보 내용에 “민감정보가 존재하지 \n 않습니다” 노출 \n - 민감정보는 작성되었으나 조회 \n 권한이 없는 경우 (민감정보 공유 \n 대상에 포함되지 않은 경우) 민감정보 \n \n 내용에 ＂민감정보 조회 권한이 \n 2 없습니다” 노출 \n - 민감정보 조회 권한이 없는 경우, \n \n 민감정보 공유 대상에 리스트업 된 \n 임직원 목록도 확인 불가 \n \n \n 2. ＇모두 보기’ 클릭 시 전체 민감정보 \n 공유 대상 조회 가능 \n - 최대 10명까지는 모두 보기 없이 해당 \n \n 화면에서 확인 가능하며, 11명 이상 시 \n ‘모두 보기’ 통해 전체 인원 확인 가능 \n \n \n 48",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 27
+    },
+    "char_count": 898,
+    "token_count": 327
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0028",
+    "text": "Step 3. 미팅메모 조회 \n \n \n Step (Lv.2) 2. 미팅메모 상세 내용 조회 Step (Lv.3) 2.3 To-Do List 조회 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 > To-Do List \n \n 1. To-Do List 조회 \n - 해당 미팅메모에서 생성한 이벤트 및 \n 과업 확인 가능 \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 49\n\nContents_Mobile \n \n \n \n Step 1 미팅메모 작성 \n \n \n 미팅메모 신규 등록 \n \n 1.1 레코드 유형 선택 \n \n 1.1.1 클로바노트 활용 \n \n 1.1.2 Teams 활용 \n 1.1.3 NDA 거래선 \n \n 1.2 기본정보 입력 \n \n 1.3 미팅정보 입력 \n \n 1.4 참석정보 입력 \n \n 1.5 저장 및 제출 \n \n 1.6 추가정보 입력 및 기능 활용 \n \n 미팅메모 수정 \n \n 2.1 미팅메모 목록 화면 수정 \n \n 2.2 미팅메모 상세 페이지 수정 \n \n \n \n \n \n \n 50\n\nContents_Mobile \n \n \n \n Step 2 미팅메모 저장 / 제출 \n \n \n 임시 저장 및 제출 \n \n 1.1 작성 정보 수정 및 제출 \n \n 이메일 및 알림 메시지 발송 \n \n 2.1 수신/참조인 설정 \n \n 2.2 발송 템플릿 및 내역 확인 \n \n \n \n \n Step 3 미팅메모 조회 \n \n \n 미팅메모 목록 조회 \n \n 1.1 미팅메모 List View 필터 활용 조회 \n \n 미팅메모 상세 내용 조회 \n \n 2.1 관련정보 조회 \n \n 2.2 민감정보 및 공유 대상 조회 \n \n 2.3 To-Do List 조회 \n \n \n \n 51",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 28
+    },
+    "char_count": 874,
+    "token_count": 285
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0029",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.1 클로바노트 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 신규 클릭 \n \n \n 1 2. 클로바노트 활용 미팅메모 선택 \n \n \n 3. 다음 클릭 \n \n \n \n \n \n \n 2 \n \n \n \n \n \n FAQ \n 3 \n Q. AI 솔루션을 활용하지 않고 기존처럼 \n 미팅메모를 작성할 수는 없나요? \n \n A. ‘기본 미팅 메모‘ 선택 시 기존에 \n 사용하시던 방식의 미팅메모 생성이 \n 가능합니다. \n \n 52\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.1 클로바노트 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 생성한 클로바노트 회의록 확인 \n - 최근 30일 내 생성한 회의록 리스트업 \n - 부여 받은 사용자별 업무 계정으로 \n \n 클로바노트에 로그인하여 생성한 \n 회의록만 조회 가능 (개인 계정으로 \n 생성한 회의록은 조회되지 않음) \n \n - 클로바노트 웹, 모바일 관계없이 \n 2 \n 1 생성한 모든 회의록 리스트업 \n 2. 미팅메모 작성에 활용할 회의록의 \n ‘상세보기‘ 클릭 \n - 상세보기 통해 제공하는 회의록 요약 / \n \n 전문 중, 요약은 클로바노트에서 \n 생성하지 않은 경우 조회 불가 \n \n \n FAQ \n \n Q. 조회되는 회의록의 기간 제한이 \n 있나요? \n \n A. 클로바노트 회의록은 미팅일, \n 즉 회의록 생성일로부터 30일까지의 \n 회의록만 조회 가능합니다. \n \n 53",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 29
+    },
+    "char_count": 908,
+    "token_count": 329
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0030",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.1 클로바노트 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 요약 및 전문 확인 \n - 상세보기를 클릭한 회의록의 요약 및 \n 전문 내용 확인 \n \n 2. 불러오기 클릭 시 ‘요약’에 생성된 \n 내용이 우측 미팅메모 ‘일반정보’란에 \n \n 복사 \n 3. 저장 클릭 시, 좌측 화면에 띄워져 있는 \n \n 회의록의 요약 및 전문도 함께 저장 \n 2 - 관련 상세 사항 : P.71 참고 \n 1 1 \n \n \n \n FAQ \n \n Q. 클로바노트 회의록의 요약 내용이, 왜 \n 미팅메모 요약란이 아닌 일반정보란에 \n 복사 되나요? \n \n 3 A. 클로바노트에서 30분, 1시간 이상 \n 녹음 시 생성되는 요약의 분량이, 다수의 \n 미팅메모 작성자분들이 일반정보란에 \n 작성하시는 내용 및 분량과 가장 \n 흡사하여 위와 같이 설계 하였습니다. \n \n 54\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.2 Teams 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 신규 클릭 \n \n \n 1 2. Microsoft Teams 활용 미팅메모 클릭 \n \n \n 3. 다음 클릭 \n \n \n \n \n \n \n \n \n 2 \n \n \n \n 3 FAQ \n \n Q. AI 솔루션을 활용하지 않고 기존처럼 \n 미팅메모를 작성할 수는 없나요? \n \n A. ‘기본 미팅 메모‘ 선택 시 기존에 \n 사용하시던 방식의 미팅메모 생성이 \n 가능합니다. \n \n 55",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 30
+    },
+    "char_count": 912,
+    "token_count": 323
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0031",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.2 Teams 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 생성된 Teams 회의록 확인 \n - 최근 15일 내 생성된 회의록 리스트업 \n - Teams 캘린더에서 새 이벤트 추가 \n \n 또는 캘린더 화면 클릭을 통해 생성된 \n 회의록 조회 가능 (‘지금 모임 시작’ \n 버튼 통해 생성/참가한 미팅 회의록 \n \n 조회 불가) \n - 미팅을 생성하였거나, 미팅 참석자로 \n 1 \n 미리 등록된 경우 회의록 조회 가능 \n (등록되지 않은 참석자는 조회 불가) \n \n \n \n FAQ \n \n Q. 팀즈 미팅 참여 및 녹화하였는데 \n 회의록이 조회되지 않습니다. \n \n A. Teams 캘린더에서 ‘지금 모임 시작’ \n 버튼을 통해 미팅을 즉시 생성/진행한 \n 경우, 또는 미팅 참석자로 등록되지 않은 \n 경우 회의록이 조회되지 않습니다. \n 보다 자세한 사항은 [참고] Teams \n 회의록 생성을 참고 부탁 드립니다. \n \n 56",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 31
+    },
+    "char_count": 591,
+    "token_count": 217
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0032",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.2 Teams 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. (필요 시) 이전 미팅 더보기 클릭 \n - 기본 (미 클릭) : 최근 15일 내 생성한 \n 회의록 최초 리스트업 \n \n - 더보기 클릭을 통해 최대 60일까지의 \n 회의록 조회 가능 \n - 예) 1회 클릭 : 최근 30일 내 생성한 \n \n 회의록 리스트업 (+15일) \n 1 \n \n 2 2. 작성 간 활용할 회의록 ‘상세보기‘ 클릭 \n \n \n 3 3. Agentforce 요약 생성 클릭 \n \n \n \n \n \n \n \n \n \n \n \n \n \n 57\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.2 Teams 활용 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 생성된 요약 확인 \n \n \n 2. 불러오기 클릭 시 ‘요약’에 생성된 \n 내용이 우측 미팅메모 ‘일반정보’란에 \n 복사 \n \n \n 3. 저장 클릭 시, 좌측 화면에 띄워져 있는 \n \n 회의록의 요약 및 전문도 함께 저장 \n - 관련 상세 사항 : P.71 참고 \n \n 2 \n 1 \n \n \n FAQ \n \n Q. 요약 내용이, 왜 미팅메모 요약란이 \n 아닌 일반정보란에 복사 되나요? \n \n A. 30분, 1시간 이상 녹음 시 생성되는 \n 3 \n 요약의 분량이, 다수의 미팅메모 \n 작성자분들이 일반정보란에 작성하시는 \n 내용 및 분량과 가장 흡사하기 \n 때문입니다. \n 58",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 32
+    },
+    "char_count": 893,
+    "token_count": 311
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0033",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.3 NDA 거래선 \n \n 메뉴 미팅메모 사용자 NDA 거래선 관리 권한자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 새로 만들기 클릭 \n \n \n 1 2. NDA 선택 \n - NDA 거래선이 아닌 일반 거래선 대상 \n 미팅메모 작성 시, 일반 선택 \n 2 \n 3 \n 3. 계속 클릭 \n \n \n \n FAQ \n \n Q. 레코드 유형 NDA와 일반 간의 \n 차이가 무엇인가요? \n \n A. [생성]NDA 미팅메모는지정된 관리 \n 권한자만 생성 가능합니다. \n [조회] 작성자, 작성자 직속 상사, \n 작성자가 직접 미팅메모 조회/수정 \n 권한을 공유한 조직원 외에는 \n 미팅메모가 검색 및 조회되지 않습니다. \n [기능] NDA 미팅메모에는별도의 \n 미팅메모 조회 권한 부여 기능이 \n 존재하며, ‘민감정보 작성/공유’ 및 \n ‘이메일 발송‘ 기능은 존재하지 않습니다. \n \n 59",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 33
+    },
+    "char_count": 537,
+    "token_count": 194
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0034",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.2 기본정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 새로 만들기 클릭 \n 2. 제목 작성 (필수) \n \n 1 - 최대 50자까지 작성 가능 \n 3. 대표 거래선 등록 (필수) \n \n - 미팅 참석 거래선 1개일 시, \n 해당 거래선 입력 \n - 미팅 참석 거래선 2개 이상일 시, \n \n 미팅 아젠다 기준 핵심 거래선 입력 \n 2 \n 4. 거래선 추가 \n - 미팅에 참석한 거래선이 2개 이상일 \n 3 때, 추가 등록 가능 \n - 거래선 신규 생성 및 복수 선택 가능 \n 4 \n \n \n ※ 레코드 유형 NDA : 미팅메모 내 NDA \n 거래선이 1개 이상 포함되어야 미팅메모 \n 저장 가능 \n \n - NDA 거래선 등록 시, 일반 거래선은 개수 \n 관계 없이 추가 등록 가능 \n - 레코드 유형에 관계 없이 작성 방식/항목 \n \n 동일함 (민감정보, 이메일 발송 기능 외) \n 60",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 34
+    },
+    "char_count": 553,
+    "token_count": 199
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0035",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.2 기본정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 표준 시간대 선택 (필수) \n - 사용자에 설정된 기본값 Default 설정 \n - 해외 출장 등 기존 근무하던 지역과 \n \n 다른 지역에서 미팅 시에만 해당 지역 \n 표준시간대로 변경 \n (변경 시에도 입력한 미팅일시에 변동 \n \n 없음) \n 2. 시작/종료 일시 설정 (필수) \n 1 \n - 시작일 선택/변경 시 종료일도 동일한 \n 날짜로 자동 설정 \n 2 \n - 시작시간 선택 시 종료 시간은 선택한 \n 시간 +1시간으로 자동 설정 \n - 표준시간대에 관계 없이, 입력한 \n 미팅일시는 글로벌 동일하게 노출됨 \n \n \n \n \n \n \n \n \n \n \n 61\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.2 기본정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 장소 선택 \n - 본사 (송도 / 서울역 / 포스코센터), \n 고객사, 기타 중 선택 \n \n - 본사 : 선택 후 저장 시 대표 본사 주소 \n 자동 입력 \n - 고객사 : 선택 후 저장 시 ‘대표 \n \n 거래선’에 저장된 주소 자동 업로드 \n - 기타 : 선택 시 주소 수기 입력 \n 1 \n \n 2. 온라인 미팅 여부 선택 \n 2 \n - 화상회의, 컨퍼런스 콜 진행 시 선택 \n \n \n \n \n \n FAQ \n \n Q. 장소에서 본사 혹은 고객사 선택 후, \n 일부 상세 주소 수정도 가능한가요? \n \n A. 미팅메모 저장 후 수정 가능합니다. \n \n \n 62",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 35
+    },
+    "char_count": 915,
+    "token_count": 328
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0036",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.3 미팅정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 대표 유형 선택 (필수) \n - 미팅을 가장 대표하는 유형 1개 선택 \n 1) 신사업 제안 \n \n 2) 계약 협의 (계약 전 제반 사항 조율 등) \n 3) 계약 후 관리 (계약 후 관리 전반) \n 4) Claim \n \n 5) 기타(고객동향, 시황교류 등) \n \n 1 \n 2. Claim 유형 \n - 대표 유형 중 “Claim” 선택 시에만 필수 \n 2 \n 선택 \n - Claim 외 유형 선택 시 입력 불가 \n - 수량 부족, 품질 하자, 물류 클레임, \n 생산 지연, 기타 중 복수 선택 가능 \n \n \n \n \n \n \n \n \n \n \n 63\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.3 미팅정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 요약 입력 (필수) \n \n 2. 일반정보 입력 (필수) \n \n - 작성되는 정보는 전사 공유 대상 \n \n 3. 민감정보 입력 \n \n 1 2 3 - 외부 공개 시 이슈가 발생할 수 있는 \n 내용이 있는 경우, 해당 내용 작성 \n - ‘민감정보 공유 대상‘에 설정한 사용자 \n \n 및 소속 조직의 조직장 (HR 조직도 \n 기준)만 민감정보 조회 가능 \n - 예) A본부 – B실 – C그룹 –D섹션 소속 \n \n => 민감정보 공유 대상에 추가한 인원 \n 및 D섹션리더, C그룹장, B실장, \n A본부장 조회 가능 \n \n - 최대 250자까지 작성 가능 \n (일반정보의 과도한 민감정보화 방지 \n 목적 / 단, 가스사업본부 사용자 예외) \n \n - 민감정보 파일은 임시저장 후 업로드 \n 가능 (P.28 참고) \n \n \n 64",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 36
+    },
+    "char_count": 996,
+    "token_count": 350
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0037",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.4 참석정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 고객 참석자 입력 \n - ‘대표 거래선’ 및 ‘추가 거래선‘ 에 \n 등록된 거래선 담당자만 입력 가능 \n \n - 담당자 검색이 안되는 경우 해당 \n 거래선 하위 Contact 등록 여부 확인 \n \n \n 2. 내부 참석자 입력 \n 4 - CRM 계정 보유 여부와 상관없이 모든 \n 1 \n 5 임직원 등록 가능 \n 2 3 \n 3. 조직도 클릭 시 부서 단위 등록 및 \n 임직원 정보 조회 가능 \n \n \n 4. ‘하위부서포함’ 클릭 시 선택한 부서의 \n 하위부서까지 일괄 선택 가능 \n \n \n 5. ‘전체선택’ 클릭 시 선택한 부서원 일괄 \n 선택 가능 \n \n \n \n \n \n 65",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 37
+    },
+    "char_count": 466,
+    "token_count": 166
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0038",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.4 참석정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 민감정보 공유 대상 입력 \n - 민감정보 작성시에만 입력 가능 \n - 입력된 조직원은 민감정보 조회 가능 \n \n - CRM 계정을 보유한 조직원만 검색 \n 및 추가 가능 (계정 보유자만 리스팅) \n \n \n 2. 참석자 (P-Int’l) 가져오기 \n - 클릭 시 선행 입력한 내부 참석자 \n (P-Int’l) 중, CRM 계정을 보유한 \n \n 임직원을 공유 대상에 일괄 등록 \n - 예) 내부 참석자 : A, B, C, D, E \n CRM 계정 보유 내부 참석자 : A, B, C \n 2 \n => A, B, C만 일괄 등록 \n 1 \n FAQ \n \n Q. 민감정보 공유 대상에 일부 임직원이 \n 조회되지 않습니다. \n \n A. 민감정보는 CRM 접속 후 조회 \n 가능한 정보이기에, 민감정보 공유 대상 \n 항목에서 임직원 검색 시 CRM 계정을 \n 보유한 임직원만 조회 됩니다. \n \n 66\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.4 참석정보 입력 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 선물 내역 해당 여부 \n - 미팅 참석자로 등록 된 거래선 \n 담당자에게 선물을 전달한 경우 클릭 \n \n \n 2. 선물 전달 대상 및 선물명 입력 \n - ① 클릭 시 입력 항목 노출 \n \n - 선물 전달 대상 입력 (단, 미팅메모 \n 참석자로 등록 된 대상만 입력 가능) \n - 선물명 수기 입력 \n \n \n 3. 복수 담당자 및 선물 발송 시 클릭 \n 1 3 \n - ‘행 추가‘ 버튼 클릭 후 동일한 \n 2 \n 방식으로 작성 \n \n \n \n \n \n \n \n \n \n \n 67",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 38
+    },
+    "char_count": 994,
+    "token_count": 351
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0039",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.5 저장 및 제출 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 \n \n 1. 클릭 시 임시 저장 \n - 클릭 시 현재 작성한 미팅메모가 임시 \n 저장 된 상태로 상세 페이지 이동 \n \n \n ※ 저장 클릭 시에도 미팅메모가 전사 \n 공유되지 않으며, 작성자 본인만 확인 \n \n 가능한 ‘임시 저장’ 상태로 전환됨 \n \n \n \n \n \n \n \n \n \n \n \n FAQ \n 1 \n Q. 임시 저장은 며칠까지 가능한가요? \n \n A. 임시 저장 기한은 제한 없습니다. 단, \n 미팅 정보 공유의 적시성을 고려하여 \n 가능한 빠르게 작성 완료 부탁드립니다. \n \n 68\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.5 저장 및 제출 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. 작성 완료 클릭 \n 2. 공유 클릭 (전사 공유) \n - 클릭 시 미팅메모 전사 공유 \n \n - 작성 완료 전엔 전사 공유되지 않으며, \n 작성자만 확인 가능 \n 1 - 이메일 발송 및 URL 복사 기능은 \n \n 작성 완료 후 사용 가능 \n \n ※ ‘작성 완료'를 클릭하여야 미팅메모가 \n \n 전사 공유 (제출) 됨 \n - 작성 완료 전엔 전사 공유되지 않아, \n 작성자 외엔 확인 불가함 \n \n \n \n \n FAQ \n \n Q. 작성 완료 후 미팅메모 ‘삭제’ 버튼이 \n 보이지 않습니다. 어떻게 삭제하나요? \n \n A. 작성 완료된 미팅메모는 삭제하실 수 \n 2 \n 없습니다. 메모 수정 기능을 활용하여 \n 주시기 바랍니다. \n 69",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 39
+    },
+    "char_count": 928,
+    "token_count": 336
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0040",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.6 추가정보 입력 및 기능 활용_취급품목 등록 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. 자세히 클릭 \n \n 2. 취급 품목 추가 클릭 \n 4 \n - 미팅에서 논의된 품목을 기재하여 \n 1 3 \n 기록 및 관리 가능 \n 4 - Material Group Lv.3, 4 추가 가능 \n \n 3. 자재 명 검색 및 선택 (복수 선택 가능) \n - 자재 명 부분 검색시에도 Lv.3, 4 기준 \n \n 연관 자재 명 리스트업 \n \n 4. 클릭 시 테이블 형태의 고급 검색 가능 \n \n - 자재 그룹 Lv.1~4까지 확인 가능 \n \n FAQ \n \n Q. 추가정보는 작성완료 후에만 입력 \n 가능한가요? \n 2 \n A. 임시저장상태에서도 언제든 입력 \n 가능하며, 작성완료 후에는 완료 30일 \n (작성완료 후 미팅메모 수정 가능 기간) \n 내에 입력 가능합니다. \n \n 70",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 40
+    },
+    "char_count": 552,
+    "token_count": 197
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0041",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.6 추가정보 입력 및 기능 활용_요약 및 전문 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. 관련정보 클릭 \n \n 2. 요약 및 전문 섹션 확인 \n \n - 클로바노트 또는 팀즈 활용 미팅메모 \n 3 \n 생성 시, 미팅메모 작성 후 임시저장 \n 시점에 조회 중이던 회의록 요약 및 \n 전문 저장 \n \n 3. 제목 클릭 시 저장된 회의록 요약 및 \n \n 전문 전체 확인 가능 \n 2 \n \n 3 \n FAQ \n 1 \n Q. 저장된 요약 및 전문이 없습니다. \n \n A. 요약 및 전문은 ‘클로바노트’ 또는 \n ‘팀즈’ 활용 미팅메모 생성 시에만 \n 저장됩니다. \n 또한 미팅메모 임시저장 버튼 클릭 \n 시점에서, 상세보기 (회의록 리스트가 \n 아닌 요약 및 전문 확인 창) 중이던 \n 회의록이 저장되는 점 참고 바랍니다. \n \n 71\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.6 추가정보 입력 및 기능 활용_To-Do List \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. To-Do List 클릭 \n \n \n 1 3 2. 새 이벤트 클릭 \n \n 3. 이벤트 제목 입력 \n \n \n 4. 이벤트 대상(고객) 선택 \n 4 \n - 미팅메모에 입력하지 않은 거래선에 \n 소속된 고객 선택 시, 저장 불가 \n - 저장 시, 선택한 고객의 상세 페이지 \n (연락처 상세 페이지) ‘활동’ 탭 및 해당 \n 고객이 소속된 거래선 'Timeline’ 탭에 \n \n 생성한 이벤트가 노출됨 \n 2 \n \n \n \n \n \n \n \n \n \n \n 72",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 41
+    },
+    "char_count": 958,
+    "token_count": 342
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0042",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.6 추가정보 입력 및 기능 활용_To-Do List \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. 이벤트 시작 / 종료 일시 선택 \n - 시작일 선택/변경 시 종료일도 동일한 \n 4 \n 날짜로 자동 설정 \n - 시작시간 선택 시 종료 시간은 선택한 \n 시간 +1시간으로 자동 설정 \n 1 \n \n 2. (필요 시) 미리 알림 설정 \n - 이벤트 시작 시간 기준으로 미리 알림 \n 설정 가능 \n 2 \n - 미리 알림 : Salesforce 알림 수신 \n \n 3. (필요 시) 이벤트 참석자 등록 \n \n - P-Intl 내부 조직원 등록 가능 \n - 참석자로 등록한 조직원의 Salesforce \n 캘린더에도 이벤트 자동 생성 됨 \n \n \n 3 4. 저장 클릭 \n \n \n \n \n \n \n 73",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 42
+    },
+    "char_count": 506,
+    "token_count": 177
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0043",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.6 추가정보 입력 및 기능 활용_To-Do List \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. 새 과업 클릭 및 제목 입력 \n \n 6 \n 1 2. 과업 대상(고객) 선택 \n - 미팅메모에 입력하지 않은 거래선에 \n 소속된 고객 선택 시, 저장 불가 \n - 저장 시, 선택한 고객의 상세 페이지 \n 2 \n (연락처 상세 페이지) ‘활동’ 탭 및 해당 \n 3 고객이 소속된 거래선 'Timeline’ 탭에 \n 생성한 과업이 노출됨 \n 4 \n \n 5 3. 마감 기한 선택 \n \n \n 4. 담당자 지정 \n - 과업 생성자가 기본 지정되며, 담당자 \n 1 변경 가능 \n \n - 담당자 변경 후 저장 시 해당 조직원에 \n 과업 배정 알림 자동 발송 (이메일) \n \n \n 5. (필요 시) 미리 알림 설정 \n \n 6. 저장 클릭 시 과업 생성 \n \n 74\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.6 추가정보 입력 및 기능 활용_URL 복사 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 새 미팅 메모 팝업 > 미팅메모 상세 페이지 \n \n 1. 자세히 클릭 \n \n \n 1 2. URL 복사 클릭 \n \n 3. 여기를 클릭해서 URL을 복사하세요 \n 클릭 \n \n - 클릭 시 해당 미팅메모 URL 복사 \n - 출장 정산 보고서 작성 등 미팅메모 \n URL 첨부 필요 시 활용 가능 \n 3 \n \n \n \n \n \n 2 \n \n \n \n \n \n \n \n \n \n \n 75",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 43
+    },
+    "char_count": 888,
+    "token_count": 309
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0044",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 2. 미팅메모 수정 Step (Lv.3) 2.1 미팅메모 목록 화면 수정 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 리스트뷰 필터 > 편집 \n \n 1. 리스트뷰 필터_My Meeting Memo \n (Completed) 선택 \n \n \n 2. 수정하고자 하는 미팅메모를 우측에서 \n 좌측으로 슬라이딩 \n \n 1 \n 3. 클릭 \n 3 \n 4. 편집 클릭 시 작성 정보 수정 가능 \n \n 2 (관련정보 및 민감정보 외) \n - 관련정보 : 추가 거래선, 참석자, \n 선물내역 \n \n \n ※ 미팅메모 제출 후 수정 가능 기한 : 1달 \n - 임시저장 상태의 경우 제한 없음 \n 4 \n \n \n FAQ \n \n Q. 작성 완료 (제출) 후 수정 가능한가요? \n \n A. 완료 후 1달 동안 수정 가능합니다. \n \n 76\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 2. 미팅메모 수정 Step (Lv.3) 2.2 미팅메모 상세 페이지 수정_관련정보 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 > 편집 \n \n 1. 편집 클릭 \n \n \n 2 2. 작성 정보 수정 가능 \n (관련정보 및 민감정보 외) \n 1 \n - 관련정보 : 거래선, 참석자, 선물내역 \n \n \n \n \n \n \n \n \n \n \n \n \n \n FAQ \n \n Q. 민감정보 수정은 어떻게 하나요? \n \n A. '민감정보’ 탭으로 진입하여 수정이 \n 가능합니다. \n \n \n 77",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 44
+    },
+    "char_count": 800,
+    "token_count": 275
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0045",
+    "text": "Step 1. 미팅메모 작성 \n \n \n Step (Lv.2) 2. 미팅메모 수정 Step (Lv.3) 2.2 미팅메모 상세 페이지 수정_관련정보 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 \n \n 1. 각 미팅메모 상세 페이지에서 ‘자세히’ \n 클릭 시 관련정보에 해당하는 영역 \n 정보 수정 가능 \n \n - 거래선 정보, 참석자 정보, 선물 내역 \n 1 2 \n 등 \n \n 2 2. 수정 필요한 영역의 상세 정보를 \n 우측에서 좌측으로 슬라이딩 시 수정/ \n 삭제 가능 \n \n \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n \n 78\n\nStep 1. 미팅메모 작성 \n \n \n Step (Lv.2) 2. 미팅메모 수정 Step (Lv.3) 2.2 미팅메모 상세 페이지 수정_민감정보 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 \n \n 1. ‘민감정보’ 탭 클릭 \n \n 2. (연필) 아이콘 클릭 시 민감정보 \n \n 수정 가능 \n 4 \n 3. '민감정보 공유 추가＇ 클릭 시 공유 \n \n 대상 추가 가능 \n 2 \n 4. 수정하고자 하는 대상을 우측에서 \n 3 \n 좌측으로 슬라이딩 후 편집 \n \n ※ 모바일 환경에서는 민감정보 파일 신규 \n \n 업로드 또는 미리보기/상세 조회가 \n 불가합니다. \n \n 1 \n \n \n \n \n \n \n \n \n 79",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 45
+    },
+    "char_count": 726,
+    "token_count": 255
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0046",
+    "text": "Step 2. 미팅메모 저장 / 제출 \n \n \n Step (Lv.2) 1. 임시저장 및 제출 Step (Lv.3) 1.1 작성 정보 수정 및 제출 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 리스트뷰 필터 \n \n 1. 리스트뷰 필터_My Meeting Memo \n (Draft) 선택 \n \n 3 - 사용자가 임시저장한 전체 미팅메모 \n 리스트 업로드 \n \n 2. 수정 및 제출이 필요한 미팅메모 클릭 \n 2 \n - 클릭 시 미팅메모 상세 화면으로 이동 \n 1 \n 3. 필요 시 작성한 미팅메모 정보 수정 후, \n \n ‘작성 완료‘ 클릭 \n \n \n \n \n \n \n FAQ \n \n Q. 이메일 발송 버튼이 어디에 있나요? \n \n A. 이메일 발송은 ‘작성 완료’ 후 \n 가능합니다. 작성 완료 후 ‘이메일 발송’ \n 버튼이 기존 작성 완료 버튼과 동일한 \n 자리에 생성됩니다. \n \n 80",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 46
+    },
+    "char_count": 468,
+    "token_count": 165
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0047",
+    "text": "Step 2. 미팅메모 저장 / 제출 \n \n \n Step (Lv.2) 2. 이메일 및 알림 메시지 발송 Step (Lv.3) 2.1 수신/참조인 설정 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 > 이메일 발송 \n \n 1. 이메일 발송 버튼 클릭 \n \n \n 1 2. 이메일 / 알림 메시지 수신/참조인 설정 \n - 조직도 모달 활용하여 부서 단위 등록 \n 2 \n 가능 \n - 수신/참조인 합산, 1회 발송 시 최대 \n 100명까지 발송 가능 \n (1) 수신인 \n - 참석자_P-Int’l에 등록한 임직원 자동 \n \n 업로드 \n (2) 참조인 \n - 참석자_P-Int’l 중 ‘민감정보 공유 \n \n 대상'에만 등록된 조직원 자동 업로드 \n - 예) 참석자_P-Int’l : A, B, C \n 민감정보 공유 대상 : A, B, C, D, E \n \n => 참석자 ‘D와 E’는 참조인에 업로드 \n \n ※ 알림 메시지 (Notification) : 세일즈포스 \n \n 화면 우측 상단에 노출되는 '벨 알림' \n \n \n \n 81\n\nStep 2. 미팅메모 저장 / 제출 \n \n \n Step (Lv.2) 2. 이메일 및 알림 메시지 발송 Step (Lv.3) 2.1 수신/참조인 설정 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 > 이메일 발송 \n \n 1. 발송 타입 선택 (복수 선택 가능) \n - 이메일은 필수 선택 \n - 알림 메시지(Notification)는 필요 시 \n \n 선택 \n - 이메일 및 알림 메시지 동시 발송 가능 \n \n \n 2. 'Send’ 클릭 시 발송 \n \n 1 \n ※ 알림 메시지 (Notification) : 선택한 \n 수신/참조인 중, CRM 사용자 (세일즈포스 \n 계정 보유자) 에게만 발송 \n \n \n \n \n \n \n \n \n \n \n 2 \n \n \n \n 82",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 47
+    },
+    "char_count": 963,
+    "token_count": 330
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0048",
+    "text": "Step 2. 미팅메모 저장 / 제출 \n \n \n Step (Lv.2) 2. 이메일 및 알림 메시지 발송 Step (Lv.3) 2.2 발송 템플릿 및 내역 확인 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation EP > 받은메일함 \n \n 1. 수신된 이메일 확인 \n (1) 제목 템플릿 \n - ‘<대표거래선명>’ + ‘미팅메모 제목’ + \n \n ‘미팅일’ + ‘작성자 부서 Lv.3’로 구성 \n 1 \n - 부서 Lv.3 (그룹) 미존재시 상위 레벨 \n 노출 \n 2 (2) 그 외 거래선, 참석자, 미팅일, 요약, \n 일반정보, F/up 사항, 선물내역으로 \n 확인 가능 \n \n \n 2. 클릭 시 해당 미팅메모 상세 페이지로 \n 이동 \n \n - CRM (미팅메모) 계정 보유자만 이동 \n 3 후 조회 가능 \n 4 \n \n 3. 민감정보 작성 여부 노출 \n - 민감정보 작성 시 = Y \n - 민감정보 미작성시 = N \n \n \n 4. F/up 사항 및 선물내역은 미작성 시 \n 해당 항목 자체가 노출되지 않음 \n \n 83\n\nStep 2. 미팅메모 저장 / 제출 \n \n \n Step (Lv.2) 2. 이메일 및 알림 메시지 발송 Step (Lv.3) 2.2 발송 템플릿 및 내역 확인 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 > 이메일 발송 \n \n 1. '이메일 발송' 버튼 클릭 \n \n \n 1 2. 이메일 발송 이력 확인 가능 \n - 수신자, 유형 (Recipient / CC), \n 발송일시 확인 가능 \n \n \n 3. 이메일 수신인 검색 가능 \n - 이메일 대량 발송 후 발송 대상 검색 \n 시 활용 가능 \n \n \n 4. ‘Send’ 클릭 시 메일 재발송 가능 \n 2 \n 3 \n \n \n \n \n FAQ \n \n Q. 발송 된 이메일 회수도 가능한가요? \n \n A. 발송 완료 된 이메일 회수 불가합니다. \n 4 다만, 추후 회수 가능하도록 EP 메일 \n 연동 작업 계획에 있습니다. \n \n 84",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 48
+    },
+    "char_count": 997,
+    "token_count": 349
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0049",
+    "text": "Step 2. 미팅메모 저장 / 제출 \n \n \n Step (Lv.2) 2. 이메일 및 알림 메시지 발송 Step (Lv.3) 2.2 발송 템플릿 및 내역 확인 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 > 이메일 발송 \n \n 1. 세일즈포스 벨 알림 클릭 \n 1 \n \n 2 2. 수신된 미팅메모 알림 메시지 \n (Notification) 확인 \n - 미팅메모 알림 메시지 ‘제목’ 클릭 시 \n 해당 미팅메모 상세 페이지로 이동 \n \n (1) 제목 템플릿 \n - 작성자 부서 Lv.3 + 작성자명 + \n 미팅메모 제목 \n \n (2) 내용 템플릿 \n - 미팅일, 대표 거래선명, 미팅 유형 \n \n \n ※ 알림 메시지 (Notification) : 선택한 \n 수신/참조인 중, CRM 사용자 (세일즈포스 \n 계정 보유자) 에게만 발송 (자동 필터링) \n \n \n \n \n \n \n \n \n \n 85\n\nStep 3. 미팅메모 조회 \n \n \n Step (Lv.2) 1. 미팅메모 목록 조회 Step (Lv.3) 1.1 미팅메모 List View 필터 활용 조회 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 리스트뷰 필터 \n \n 1. 리스트뷰 필터 명 또는 모든 목록 클릭 \n \n 2. 필터 선택 시, 각 필터에 설정된 \n \n 조건으로 미팅메모 조회 \n (1) Meeting Memo (Department) \n 2 \n - 일반 사용자 : 소속 그룹에서 생성한 \n 1 \n 미팅메모 조회 \n - 실장 이상 사용자 : 이하 조직에서 \n 생성한 모든 미팅메모 조회 \n (2) My Meeting Memo (Completed) \n - 작성 후 제출 완료한 미팅메모만 조회 \n (3) My Meeting Memo (Draft) \n \n - 제출 전 임시저장 상태의 미팅메모만 \n 조회 \n \n \n \n \n \n \n \n \n \n \n 86",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 49
+    },
+    "char_count": 967,
+    "token_count": 330
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0050",
+    "text": "Step 3. 미팅메모 조회 \n \n \n Step (Lv.2) 2. 미팅메모 상세 내용 조회 Step (Lv.3) 2.1 관련정보 조회 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 \n \n 1. 미팅메모 상세 페이지 하단 관련정보 \n 클릭 \n \n \n 2. 관련정보 조회 \n 2 - 해당 미팅메모의 거래선, 참석자, \n 취급 품목, 선물내역, 요약 및 전문, \n \n 첨부파일 클릭 시 정보 조회 가능 \n \n \n \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n \n \n 87\n\nStep 3. 미팅메모 조회 \n \n \n Step (Lv.2) 2. 미팅메모 상세 내용 조회 Step (Lv.3) 2.2 민감정보 조회 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 > 민감정보 \n \n 1. 미팅메모 상세 페이지 하단 민감정보 \n 클릭 \n 2. 민감정보, 파일, 공유 대상 조회 \n \n - 해당 미팅메모에 작성된 민감정보, \n 2 파일(제목 및 존재 유무만 확인 가능) \n 및 민감정보 공유 대상 조회 가능 \n \n - 작성된 민감정보가 없는 경우, \n 민감정보 내용에 “민감정보가 존재하지 \n 않습니다” 노출 \n \n - 민감정보는 작성되었으나 조회 \n 권한이 없는 경우 (민감정보 공유 \n 대상에 포함되지 않은 경우) 민감정보 \n \n 내용에 “민감정보 조회 권한이 \n 없습니다” 노출 \n - 민감정보 조회 권한이 없는 경우, \n 1 \n 민감정보 공유 대상에 리스트업 된 \n 임직원 목록도 확인 불가 \n ※ 민감정보 파일의 경우, 모바일 \n \n 환경에서는 업로드 된 파일의 제목 및 존재 \n 유무만 확인 가능합니다 \n - 상세 조회 및 추가 업로드 불가 \n \n 88",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 50
+    },
+    "char_count": 897,
+    "token_count": 329
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0051",
+    "text": "Step 3. 미팅메모 조회 \n \n \n Step (Lv.2) 2. 미팅메모 상세 내용 조회 Step (Lv.3) 2.3 To-Do List 조회 \n \n 메뉴 미팅메모 사용자 전사 사용자 \n \n Navigation Home > 미팅메모 메뉴 > 미팅메모 상세 페이지 > To-Do List \n \n 1. To-Do List 클릭 \n \n 2. To-Do List 조회 \n 3 \n - 해당 미팅메모에서 생성한 이벤트 및 \n 과업을 기한 기준으로 조회 가능 \n 2 \n \n 3. 진행 중인 활동 : 기한, 시작일시가 아직 \n 도래하지 않은 이벤트 및 과업 노출 \n \n \n 4. 활동 내역 : 기한, 시작일시가 경과된 \n 이벤트 및 과업 노출 \n \n \n \n 4 \n \n \n 1 \n \n \n \n \n \n \n \n 89\n\n[참고] Teams 회의록 생성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.2 Teams 활용 \n \n 메뉴 - \n \n Navigation - \n \n 1. '지금 모임 시작'을 통해 미팅 생성 시, \n 1 2 미팅메모에서 회의록 조회 불가 \n \n \n 2. 새 이벤트 또는 캘린더 화면 클릭을 \n 2 통해 미팅 생성 \n - 상기 생성 방식을 통해서만 \n \n 미팅메모에서 회의록 조회 가능 \n \n 3. 참석자 초대 \n \n - 초대받지 못한 참석자는, 미팅 참여 \n (URL 공유로 참여한 경우, 미팅 시작 후 \n 미팅 화면에서 초대받은 경우) 및 회의 \n \n 녹화 시에도 미팅메모에서 회의록을 \n 3 \n 조회할 수 없음 \n - 미팅 생성자 본인은 참석자 초대 \n 여부와 관계없이 회의록 조회 가능 \n \n * ‘지금 모임 시작’을 통해 미팅 생성 시 \n \n 미팅메모에서 회의록 조회 불가합니다. \n 새 이벤트 또는 캘린더 화면 클릭을 통해 \n 미팅을 생성해주세요. \n \n 90",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 51
+    },
+    "char_count": 915,
+    "token_count": 323
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0052",
+    "text": "[참고] Teams 회의록 생성 \n \n \n Step (Lv.2) 1. 미팅메모 신규 등록 Step (Lv.3) 1.1 레코드 유형 선택_1.1.2 Teams 활용 \n \n 메뉴 - \n \n Navigation - \n \n 1. 더 보기 클릭 \n \n 1 \n 2. 녹음/녹화 및 기록 클릭 \n 2 \n 3 \n 3. 녹음/녹화 시작 또는 대화 내용 기록 \n 시작 클릭 \n - 미팅 후 별도의 녹음/녹화 중단 없이 \n 미팅을 종료(나가기)하여도, 회의록은 \n 정상 생성 됨 \n \n - 화면/음성 녹화가 필요한 경우 외에는, \n 미팅메모에서 보다 빠른 회의록 조회를 \n 위해 ‘대화 내용 기록 시작‘ 추천 \n \n (녹음/녹화 시 대화 내용 기록 대비 전문 \n 변환 등에 더 많은 시간 소요) \n \n \n * 녹음/녹화 또는 대화 내용 기록 시작 \n 선택시에만 회의록이 생성됩니다. \n \n \n \n \n \n \n 91",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 52
+    },
+    "char_count": 443,
+    "token_count": 158
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0053",
+    "text": "[참고] 모바일 개발 미제공 기능 List \n \n \n 영역 기능명 기능 상세 설명 모바일 제외 사유 \n • 포스코 인터내셔널 보안 정책에 따라 파일 다운로드는 \n 파일 다운로드 기능 • 세일즈 포스상에 업로드된 파일을 다운로드 \n 원천적으로 제한됨 \n • 모바일 Layout 상에서 사용성 확보가 어려우며, \n 공통 \n • 홈화면에 존재하는 조직기준, 개인기준의 조회성 관련된 Needs가 적음 \n 홈 대시보드 \n 대시보드 화면 • 커스텀 화면으로 개발 분량 다수 포함됨 \n (User 기준 Chatter 화면으로 홈화면 대체) \n • 거래선 정보 기준의 고객사 카드(PDF, Word) 문서 \n • 모바일 환경에서 파일 다운로드를 제한 \n 고객사 카드 생성 생성 및 다운로드 \n • 업무 자체가 모바일에서 수행하기에 적합치 않음 \n • 고객사 카드 생성 이력에 따른 과거 버전의 다운로드 \n Account & • BP에 등록되지 않은 세일즈포스의 거래선에서 \n SAP BP 전환 신청 • 모바일 SAP BP 등록의 제공이 불가함 \n Contact SAP BP등록화면을 띄우는 기능 \n • 업무가 모바일에서 수행하기에 적합치 않음 \n 거래선 조직도 정보 • 거래선 별 조직도를 생성하여 \n • 조직도 생성에 대한 부분을 일부 권한자에 한하여 기 \n 생성 및 수정 연락처를 매핑하는 기능 \n 능 제공 예정 \n • 세일즈포스가 모바일 환경에서는 Standard 공유 기능 \n NDA 거래선 \n • 생성한 NDA 거래선 미팅메모를 타 조직원(해당 NDA 을 지원하지 않지만, PC 환경에서는 지원하고 있음 \n 미팅메모 공유 \n 거래선 관리 권한자 등)에 공유하는 기능 • PC 환경에서 기능 활용 가능하며 \n (모바일) \n 개발 완료한 상황 \n Sales Support \n 미팅메모 작성 중 참석자 • 미팅메모 작성 중, 연락처 메뉴로 이동 없이 해당 화면 • 모바일에서 지원하지 않는 기능",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 53
+    },
+    "char_count": 943,
+    "token_count": 366
+  },
+  {
+    "chunk_id": "crm_meeting_ko_v1_0_chunk_0054",
+    "text": "미팅메모 공유 \n 거래선 관리 권한자 등)에 공유하는 기능 • PC 환경에서 기능 활용 가능하며 \n (모바일) \n 개발 완료한 상황 \n Sales Support \n 미팅메모 작성 중 참석자 • 미팅메모 작성 중, 연락처 메뉴로 이동 없이 해당 화면 • 모바일에서 지원하지 않는 기능 \n (연락처) 신규 생성 에서 참석자를 신규 생성하는 기능 • PC 환경에서 기능 활용 가능하며 개발 완료한 상황 \n • 모바일 환경에서 List View 상 복수 건 레코드 선택하 \n • 동일 포스코 고객의 복수 주문 선택 후, BP 매핑하는 \n 는 UI/UX 지원 불가 \n 포스코 고객 매핑 기능 \n Order & → orderline 상세 > 고객매핑 가능 \n (order no. 매핑→orderline 일괄매핑) \n Fulfillment (orderline 매핑 시, order no 매핑) \n • 매트릭스 유형의 레포트로 모바일 환경 지원 불가 \n 월별 출하 레포트 • 출하연도별 월별 출하량 레포트 조회 \n (단, 월별 출하량 상세 정보는 조회 가능) \n 92",
+    "metadata": {
+      "document_id": "crm_meeting_ko_v1_0",
+      "type": "meeting_memo",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "chunk_index": 54
+    },
+    "char_count": 533,
+    "token_count": 196
+  }
+]

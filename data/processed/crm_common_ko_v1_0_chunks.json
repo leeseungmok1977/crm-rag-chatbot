@@ -1,0 +1,156 @@
+[
+  {
+    "chunk_id": "crm_common_ko_v1_0_chunk_0000",
+    "text": "Contents_PC \n \n \n \n Step 1 메뉴 \n \n \n 메뉴 \n \n 1.1 메뉴 선택 \n \n \n \n \n \n \n \n \n \n \n \n \n Step 2 공지 \n \n 공지 조회 \n \n 1.1 팝업 알림 \n \n 1.2 대시보드 화면 \n \n 1.3 리스트 뷰 \n \n \n \n \n \n \n 2\n\nContents_PC \n \n \n \n Step 3 뉴스 \n \n \n 뉴스 관리 \n \n 1.1 뉴스 등록 \n \n 1.2 뉴스 수정 \n \n 뉴스 조회 \n \n 2.1 대시보드 화면 \n \n 2.2 리스트 뷰 \n \n \n \n \n Step 4 Change Owner \n \n 레코드 이관 \n \n 1.1 레코드 이관 \n \n \n \n \n \n \n \n \n \n \n 3\n\nStep 1. 메뉴 \n \n \n Step (Lv.2) 1. 메뉴 Step (Lv.3) 1.1 메뉴 선택 \n \n 메뉴 홈 사용자 전사 사용자 \n \n Navigation 홈 \n \n 1. 홈 화면 좌상단 [⋮⋮⋮] 클릭 \n 1 \n \n 2. [App Launcher]에서 필요한 Apps \n 선택 \n \n 2 철강본부 사용자는 철강 CRM (Steel \n CRM) 사용을, 그 외 사용자는 CRM \n App 사용 권장. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 4\n\nStep 2. 공지 \n \n \n Step (Lv.2) 1. 공지 조회 Step (Lv.3) 1.1 공지사항 팝업 \n \n 메뉴 홈 사용자 전사 사용자 \n \n Navigation 홈 \n \n 1. [홈] 메뉴 클릭 \n 1 \n \n 2. [오늘 하루 이 창을 열지 않기] 옵션 \n 옵션 선택 시점부터 24시간 동안 \n \n 팝업을 열지 않음. \n \n 4 \n 3. 팝업 닫기 \n \n \n 4. 팝업 닫기 \n \n 2 3 \n \n \n \n \n \n \n \n \n \n \n \n \n \n 5",
+    "metadata": {
+      "document_id": "crm_common_ko_v1_0",
+      "type": "common_master",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_공통&Master.pdf",
+      "chunk_index": 0
+    },
+    "char_count": 877,
+    "token_count": 267
+  },
+  {
+    "chunk_id": "crm_common_ko_v1_0_chunk_0001",
+    "text": "Step 2. 공지 \n \n \n Step (Lv.2) 1. 공지 조회 Step (Lv.3) 1.2 대시보드 화면 \n \n 메뉴 홈 사용자 전사 사용자 \n \n Navigation 홈 \n \n 1. [홈] 메뉴 클릭 \n 1 \n \n 2 2. 대시보드에서 공지 확인 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 6\n\nStep 2. 공지 \n \n \n Step (Lv.2) 1. 공지 조회 Step (Lv.3) 1.3 리스트 뷰(1/2) \n \n 메뉴 공지 사용자 전사 사용자 \n \n Navigation 공지 > All \n \n 1. [공지] 메뉴 클릭 \n 1 \n \n 2. 공지 리스트 확인 \n \n \n 2 3. 공지번호 클릭 시 세부 내용 페이지로 \n 3 \n 이동 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 7\n\nStep 2. 공지 \n \n \n Step (Lv.2) 1. 공지 조회 Step (Lv.3) 1.3 리스트 뷰(2/2) \n \n 메뉴 공지 사용자 전사 사용자 \n \n Navigation 공지 > All \n \n 1. 공지 번호 \n \n \n 1 2. 공지 세부 내용 \n \n \n \n 2 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 8\n\nStep 3. 뉴스 \n \n \n Step (Lv.2) 1. 뉴스 관리 Step (Lv.3) 1.1 뉴스 등록(1/2) \n \n 메뉴 뉴스 사용자 전사 사용자 \n \n Navigation 뉴스 > All \n \n 1. [뉴스] 메뉴 클릭 \n 1 \n \n 2. [새로 만들기] 버튼 클릭 \n 2 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 9",
+    "metadata": {
+      "document_id": "crm_common_ko_v1_0",
+      "type": "common_master",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_공통&Master.pdf",
+      "chunk_index": 1
+    },
+    "char_count": 833,
+    "token_count": 249
+  },
+  {
+    "chunk_id": "crm_common_ko_v1_0_chunk_0002",
+    "text": "Step 3. 뉴스 \n \n \n Step (Lv.2) 1. 뉴스 관리 Step (Lv.3) 1.1 뉴스 등록(2/2) \n \n 메뉴 뉴스 사용자 전사 사용자 \n \n Navigation 뉴스 > All \n \n 1. 카테고리 선택 (* 필수) \n 카테고리: 시황 뉴스, 뉴스 클리핑, 해외 \n 실시간 정보 \n \n \n 1 \n 2. 제목 입력 (*필수) \n 2 \n \n 3 3. 제목(영문) 입력 \n \n 4 \n 4. 내용 입력 \n \n \n 5 5. 내용 (영문) 입력 \n \n \n \n 6. 취소, 저장 및 새로 만들기, 저장 \n \n \n \n 6 \n \n \n \n \n 10\n\nStep 3. 뉴스 \n \n \n Step (Lv.2) 1. 뉴스 관리 Step (Lv.3) 1.2 뉴스 수정(1/2) \n \n 메뉴 뉴스 사용자 전사 사용자 \n \n Navigation 뉴스 > All \n \n 1. 뉴스 리스트에서 항목 메뉴 > [편집] \n 클릭 \n 본인이 작성한 뉴스만 편집, 삭제 가능 \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 11\n\nStep 3. 뉴스 \n \n \n Step (Lv.2) 1. 뉴스 관리 Step (Lv.3) 1.2 뉴스 수정(2/2) \n \n 메뉴 뉴스 사용자 전사 사용자 \n \n Navigation 뉴스 > All \n \n 1. 카테고리 선택 (* 필수) \n 카테고리: 시황 뉴스, 뉴스 클리핑, 해외 \n 실시간 정보 \n \n \n 1 \n 2. 제목 입력 (*필수) \n 2 \n \n 3 3. 제목(영문) 입력 \n \n 4 \n 4. 내용 입력 \n \n \n 5 5. 내용 (영문) 입력 \n \n \n \n 6. 취소, 저장 및 새로 만들기, 저장 \n \n \n \n 6 \n \n \n \n \n 12",
+    "metadata": {
+      "document_id": "crm_common_ko_v1_0",
+      "type": "common_master",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_공통&Master.pdf",
+      "chunk_index": 2
+    },
+    "char_count": 842,
+    "token_count": 267
+  },
+  {
+    "chunk_id": "crm_common_ko_v1_0_chunk_0003",
+    "text": "Step 3. 뉴스 \n \n \n Step (Lv.2) 2. 뉴스 조회 Step (Lv.3) 2.1 대시보드 화면 \n \n 메뉴 홈 사용자 전사 사용자 \n \n Navigation 홈 \n \n 1. [홈] 메뉴 클릭 \n 1 \n \n 2 2. 대시보드에서 뉴스 확인 \n 대시보드 내 뉴스 노출 범위: \n \n 국내 임직원: 동 본부 내 \n 해외 임직원: 전 범위 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 13\n\nStep 3. 뉴스 \n \n \n Step (Lv.2) 2. 뉴스 조회 Step (Lv.3) 2.2 리스트 뷰(1/2) \n \n 메뉴 뉴스 사용자 전사 사용자 \n \n Navigation 뉴스 > All \n \n 1. [뉴스] 메뉴 클릭 \n 1 \n \n 2. 뉴스 리스트 확인 \n 리스트 내 뉴스 노출 범위 \n \n 국내 임직원: 전 범위 \n 2 \n 3 해외 임직원: 전 범위 \n \n 3. 뉴스번호 클릭 시 세부 내용 페이지로 \n \n 이동 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 14\n\nStep 3. 뉴스 \n \n \n Step (Lv.2) 2. 뉴스 조회 Step (Lv.3) 2.2 리스트 뷰(2/2) \n \n 메뉴 뉴스 사용자 전사 사용자 \n \n Navigation 뉴스 > All \n \n 1. 뉴스 번호 \n \n \n 1 2. 뉴스 세부 내용 \n \n \n \n 2 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 15",
+    "metadata": {
+      "document_id": "crm_common_ko_v1_0",
+      "type": "common_master",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_공통&Master.pdf",
+      "chunk_index": 3
+    },
+    "char_count": 713,
+    "token_count": 223
+  },
+  {
+    "chunk_id": "crm_common_ko_v1_0_chunk_0004",
+    "text": "Step 3. 뉴스 \n \n \n Step (Lv.2) 2. 뉴스 조회 Step (Lv.3) 2.2 리스트 뷰(2/2) \n \n 메뉴 뉴스 사용자 전사 사용자 \n \n Navigation 뉴스 > All \n \n 1. 뉴스 번호 \n \n \n 1 2. 뉴스 세부 내용 \n \n \n \n 2 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 15\n\nStep 4. Change Owner \n \n \n Step (Lv.2) 1. 레코드 이관 Step (Lv.3) 1.1 레코드 이관 실행 \n \n 메뉴 Change Owner 사용자 전사 사용자 \n \n Navigation Change Owner > Transfer \n \n 1. [Change Owner] 메뉴 클릭 \n 1 \n \n 2. Owner / Change Onwer 설정 \n 3 5 \n Owner: 레코드를 이관할 사용자 \n (기본값: 현재 로그인한 사용자) \n 2 \n Change Owner: 레코드를 이관 받을 \n 사용자(텍스트 박스 클릭 후 사용자 \n 검색 가능) \n 4 \n \n 3. Change Owner 설정 후 [Search] 버튼 \n 클릭하여 이관할 수 있는 레코드 조회 \n \n \n \n 4. 각 카테고리에서 이관할 레코드 선택 \n \n \n 5. [Change] 버튼 클릭하여 선택한 \n 레코드 이관 \n \n \n \n \n \n 16\n\nContents_Mobile \n \n \n \n Step 1 로그인 \n \n \n 앱 로그인 \n \n 1.1 앱 로그인 \n \n \n \n \n \n \n \n \n \n \n \n \n Step 2 메뉴 \n \n 메뉴 \n \n 1.1 메뉴 선택 \n \n \n \n \n \n \n \n \n \n \n 17\n\nContents_Mobile \n \n \n \n Step 3 공지 \n \n \n 공지 조회 \n \n 1.1 리스트 뷰 \n \n \n \n \n \n \n \n \n \n \n \n \n Step 4 뉴스 \n \n 뉴스 조회 \n \n 1.1 리스트 뷰 \n \n \n 뉴스 관리 \n 2.1 뉴스 등록 \n \n 2.2 뉴스 수정 \n \n \n \n \n 18",
+    "metadata": {
+      "document_id": "crm_common_ko_v1_0",
+      "type": "common_master",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_공통&Master.pdf",
+      "chunk_index": 4
+    },
+    "char_count": 982,
+    "token_count": 298
+  },
+  {
+    "chunk_id": "crm_common_ko_v1_0_chunk_0005",
+    "text": "Contents_Mobile \n \n \n \n Step 3 공지 \n \n \n 공지 조회 \n \n 1.1 리스트 뷰 \n \n \n \n \n \n \n \n \n \n \n \n \n Step 4 뉴스 \n \n 뉴스 조회 \n \n 1.1 리스트 뷰 \n \n \n 뉴스 관리 \n 2.1 뉴스 등록 \n \n 2.2 뉴스 수정 \n \n \n \n \n 18\n\nContents_Mobile \n \n \n \n Step 5 Change Owner \n \n \n 레코드 이관 \n \n 1.1 레코드 이관 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 19\n\nStep 1. 로그인 \n \n \n Step (Lv.2) 1. 앱 로그인 Step (Lv.3) 1.1 앱 로그인(1/3) \n \n 메뉴 사용자 전사 사용자 \n \n Navigation \n \n 1. Apple App Store/Google Play Store에서\n ‘Salesforce’ 다운로드 후 실행 \n Apple App Store: \n https://apps.apple.com/kr/app/salesforce/i\n \n d404249815 \n 1 \n Google Play Store: \n https://play.google.com/store/apps/details\n ?id=com.salesforce.chatter&pcampaignid=\n 3 \n web_share \n 4 \n 2. [사용자 정의 도메인 사용] 버튼 클릭 \n 5 \n 2 \n 3. 사용자 정의 도메인 입력 칸에 ‘poscointl’ \n 입력 \n \n \n 4. 하단 도메인이 \n https://poscointl.my.salesforce.com으\n 로 변경됨을 확인 \n \n \n 5. [계속] 버튼 클릭 \n \n \n 20",
+    "metadata": {
+      "document_id": "crm_common_ko_v1_0",
+      "type": "common_master",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_공통&Master.pdf",
+      "chunk_index": 5
+    },
+    "char_count": 847,
+    "token_count": 241
+  },
+  {
+    "chunk_id": "crm_common_ko_v1_0_chunk_0006",
+    "text": "Step 1. 로그인 \n \n \n Step (Lv.2) 1. 앱 로그인 Step (Lv.3) 1.1 앱 로그인(2/3) \n \n 메뉴 사용자 전사 사용자 \n \n Navigation \n \n 1. [로그인 정보 ENTRA ID] 버튼 클릭 \n \n \n 2. Entra ID 입력 \n e.g. EP ID@poscointl.com \n 2 \n 4 \n \n 1 3. [다음] 버튼 클릭 \n 3 \n 5 \n 4. Entra PW 입력 \n e.g. EP PW \n \n \n \n 5. [로그인] 버튼 클릭 \n \n \n \n \n \n \n \n \n \n \n \n 21\n\nStep 1. 로그인 \n \n \n Step (Lv.2) 1. 앱 로그인 Step (Lv.3) 1.1 앱 로그인(3/3) \n \n 메뉴 사용자 전사 사용자 \n \n Navigation \n \n 1. ‘다시 표시하지 않음’ 옵션 선택 시 현재 \n 세션에서 다시 이 화면이 뜨지 않음 \n \n \n 2. [예] 버튼 클릭 시 브라우저를 종료해도 \n \n 세션이 유지됨 \n 1 \n \n 2 \n 3. [허용] 버튼을 클릭하여 Salesforce for \n iOS 액세스 허용 \n [거부] 선택 시 Salesforce for iOS \n 어플리케이션 이용이 불가능. \n \n \n 4. 로그인 완료 \n \n \n 3 \n \n \n \n \n \n \n \n \n 22\n\nStep 2. 메뉴 \n \n \n Step (Lv.2) 1. 메뉴 Step (Lv.3) 1.1 메뉴 선택 \n \n 메뉴 메뉴 사용자 전사 사용자 \n \n Navigation 메뉴 > 앱 시작 관리자 \n \n 1. 하단 내비게이션 바의 [메뉴] 버튼을 \n 클릭하여 메뉴 화면으로 이동 \n \n \n 2 \n 2. [앱 시작 관리자] 선택하여 App \n 3 \n Launcher 선택 가능 \n \n 3. [App Launcher]에서 필요한 Apps \n 선택 \n \n 철강본부 사용자는 철강 CRM (Steel \n CRM) 사용을, 그 외 사용자는 CRM \n App 사용 권장. \n \n \n \n \n 1 \n \n \n \n \n 1 \n \n \n \n 23",
+    "metadata": {
+      "document_id": "crm_common_ko_v1_0",
+      "type": "common_master",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_공통&Master.pdf",
+      "chunk_index": 6
+    },
+    "char_count": 988,
+    "token_count": 310
+  },
+  {
+    "chunk_id": "crm_common_ko_v1_0_chunk_0007",
+    "text": "Step 3. 공지 \n \n \n Step (Lv.2) 1. 공지 조회 Step (Lv.3) 1.1 리스트 뷰(1/3) \n \n 메뉴 공지 사용자 전사 사용자 \n \n Navigation 공지 \n \n 1. 하단 내비게이션 바의 [메뉴] 버튼을 \n 클릭하여 메뉴 화면으로 이동 \n \n \n 2. [모든 항목] 선택하여 모든 메뉴 접근 \n 2 \n 가능 \n \n \n \n \n \n \n \n \n \n \n \n \n 1 \n \n \n \n \n 1 \n \n \n \n 24\n\nStep 3. 공지 \n \n \n Step (Lv.2) 1. 공지 조회 Step (Lv.3) 1.1 리스트 뷰(2/3) \n \n 메뉴 공지 사용자 전사 사용자 \n \n Navigation 공지 \n \n 1. 검색창에 ‘공지’ 검색 \n 1 \n 2 \n 2. [공지] 선택하여 공지 메뉴로 이동 \n \n 4 \n 3. [모든 목록] 클릭 \n \n 3 \n \n 4. [All] 클릭 \n \n \n \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n 25\n\nStep 3. 공지 \n \n \n Step (Lv.2) 1. 공지 조회 Step (Lv.3) 1.1 리스트 뷰(3/3) \n \n 메뉴 공지 사용자 전사 사용자 \n \n Navigation 공지 \n \n 1. 공지 리스트에서 항목 선택 \n \n \n 2. [세부 사항] 버튼 클릭 \n 2 \n \n 1 3. 공지 세부 사항 확인 가능 \n \n \n \n \n \n \n \n \n \n 3 \n \n \n 1 \n \n \n \n \n \n \n \n \n 26\n\nStep 4. 뉴스 \n \n \n Step (Lv.2) 1. 뉴스 조회 Step (Lv.3) 1.1 리스트 뷰(1/3) \n \n 메뉴 뉴스 사용자 전사 사용자 \n \n Navigation 뉴스 \n \n 1. 하단 내비게이션 바의 [메뉴] 버튼을 \n 클릭하여 메뉴 화면으로 이동 \n \n \n 2. [모든 항목] 선택하여 모든 메뉴 접근 \n 2 \n 가능 \n \n \n \n \n \n \n \n \n \n \n \n \n 1 \n \n \n \n \n 1 \n \n \n \n 27",
+    "metadata": {
+      "document_id": "crm_common_ko_v1_0",
+      "type": "common_master",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_공통&Master.pdf",
+      "chunk_index": 7
+    },
+    "char_count": 954,
+    "token_count": 298
+  },
+  {
+    "chunk_id": "crm_common_ko_v1_0_chunk_0008",
+    "text": "Step 4. 뉴스 \n \n \n Step (Lv.2) 1. 뉴스 조회 Step (Lv.3) 1.1 리스트 뷰(2/3) \n \n 메뉴 뉴스 사용자 전사 사용자 \n \n Navigation 뉴스 \n \n 1. 검색창에 ‘뉴스’ 검색 \n 1 \n 2 \n 2. [뉴스] 선택하여 뉴스 메뉴로 이동 \n \n 4 \n 3. [모든 목록] 클릭 \n \n 3 \n \n 4. [All] 클릭 \n \n \n \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n 28\n\nStep 4. 뉴스 \n \n \n Step (Lv.2) 1. 뉴스 조회 Step (Lv.3) 1.1 리스트 뷰(3/3) \n \n 메뉴 뉴스 사용자 전사 사용자 \n \n Navigation 뉴스 \n \n 1. 뉴스 리스트에서 항목 선택 \n \n \n 2. [세부 사항] 버튼 클릭 \n 2 \n \n 1 3. 뉴스 세부 사항 확인 가능 \n \n \n \n \n \n \n \n \n \n 3 \n \n \n 1 \n \n \n \n \n \n \n \n \n 29\n\nStep 4. 뉴스 \n \n \n Step (Lv.2) 1. 뉴스 관리 Step (Lv.3) 2.1 뉴스 등록 \n \n 메뉴 뉴스 사용자 전사 사용자 \n \n Navigation 뉴스 \n \n 1. 뉴스 리스트에서 [새로 만들기] 버튼 \n 3 클릭 \n 1 \n \n 2. 카테고리, 제목, 내용 입력 \n \n 카테고리: 시황 뉴스, 뉴스 클리핑, 해외 \n 실시간 정보 \n 4 \n 2 \n 3. [저장] 버튼 클릭 \n \n \n \n 4. 뉴스 등록 완료 \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n 30",
+    "metadata": {
+      "document_id": "crm_common_ko_v1_0",
+      "type": "common_master",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_공통&Master.pdf",
+      "chunk_index": 8
+    },
+    "char_count": 746,
+    "token_count": 233
+  },
+  {
+    "chunk_id": "crm_common_ko_v1_0_chunk_0009",
+    "text": "Step 4. 뉴스 \n \n \n Step (Lv.2) 1. 뉴스 관리 Step (Lv.3) 2.2 뉴스 수정 \n \n 메뉴 뉴스 사용자 전사 사용자 \n \n Navigation 뉴스 \n \n 1. 뉴스 리스트에서 내가 작성한 뉴스 \n 3 선택 후 [편집] 버튼 클릭 \n 1 \n 본인이 작성한 뉴스만 편집, 삭제 가능 \n \n \n 2. 카테고리, 제목, 내용 입력 \n 4 \n 카테고리: 시황 뉴스, 뉴스 클리핑, 해외 \n 실시간 정보 \n 2 \n \n 3. [저장] 버튼 클릭 \n \n \n 4. 뉴스 수정 완료 \n \n \n \n 1 \n \n \n \n \n \n \n \n \n 31\n\nStep 5. Change Owner \n \n \n Step (Lv.2) 1. 레코드 이관 Step (Lv.3) 1.1 레코드 이관(1/2) \n \n 메뉴 Change Owner 사용자 전사 사용자 \n \n Navigation Change Owner \n \n 1. 하단 내비게이션 바의 [메뉴] 버튼을 \n 클릭하여 메뉴 화면으로 이동 \n \n \n 2. [모든 항목] 선택하여 모든 메뉴 접근 \n 2 \n 가능 \n \n \n \n \n \n \n \n \n \n \n \n \n 1 \n \n \n \n \n 1 \n \n \n \n 32",
+    "metadata": {
+      "document_id": "crm_common_ko_v1_0",
+      "type": "common_master",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_공통&Master.pdf",
+      "chunk_index": 9
+    },
+    "char_count": 581,
+    "token_count": 186
+  },
+  {
+    "chunk_id": "crm_common_ko_v1_0_chunk_0010",
+    "text": "Step 5. Change Owner \n \n \n Step (Lv.2) 1. 레코드 이관 Step (Lv.3) 1.1 레코드 이관(2/2) \n \n 메뉴 Change Owner 사용자 전사 사용자 \n \n Navigation Change Owner \n \n 1. 검색창에 ‘Change Owner’ 검색 \n \n 2 \n 2. [Change Owner] 선택하여 Change \n 4 6 \n Owner 메뉴로 이동 \n \n 3. Owner / Change Onwer설정 \n 3 \n Owner: 레코드를 이관할 사용자 \n (기본값: 현재 로그인한 사용자) \n Change Owner: 레코드를 이관 받을 \n 5 \n 사용자(텍스트 박스 클릭 후 사용자 검색 \n 가능) \n \n 4. Change Owner 설정 후 [Search] 버튼 \n 클릭하여 이관할 수 있는 레코드 조회 \n \n 1 \n \n 5. 각 카테고리에서 이관할 레코드 선택 \n \n \n 6. [Change] 버튼 클릭하여 선택한 레코드 \n 이관 \n \n \n 33",
+    "metadata": {
+      "document_id": "crm_common_ko_v1_0",
+      "type": "common_master",
+      "language": "korean",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_공통&Master.pdf",
+      "chunk_index": 10
+    },
+    "char_count": 504,
+    "token_count": 159
+  }
+]

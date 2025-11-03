@@ -1,0 +1,1220 @@
+[
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0000",
+    "text": "Contents_PC \n \n \n \n Step 1 Account Management \n \n \n Account View \n \n 1. View list of accounts \n \n 2. View detailed account information \n \n Account Update \n \n 1. Update account information \n \n 2. Create Account Card \n 3. Manage account organization chart \n \n \n Account Creation \n 1. Create an account not linked to BP \n \n 2. Convert to a BP-linked account \n \n \n \n \n \n \n \n \n \n \n \n \n 2\n\nContents_PC \n \n \n \n Step 2 Contact Management \n \n \n Contact View \n \n 1. View contact list \n \n 2. View detailed contact information \n \n Contact Update \n \n 1. Update contact information \n \n Contact Creation \n \n 1. Create a single contact \n \n 2. Create multiple contacts \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 3",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 0
+    },
+    "char_count": 685,
+    "token_count": 171
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0001",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.01 View list of accounts \n \n Menu Account \n \n Navigation CRM App > Account > Account List \n \n 11.. C“l거ick래 “선Ac cLoisutn 목t L록ist”” 클릭\n --W클he릭n c시lic, k조ed회, a 기lis준t o별f a c거co래un선ts i리s 스트를\n displayed based on the selected search\n 표기하여 줌 \n 1 criteria. \n 2. List View Types \n 2. List View 종류에 따른 조회 기준 \n -My Accounts: Accounts created by the\n - 내 거래선: 본인이 생성한 거래선 \n user \n - 모든 거래선: 전체 등록 거래선 \n -All Accounts: All registered accounts\n - 최근 조회 항목 \n -Recently Searched Items: Accounts\n : 최근 조회한 거래선(정렬 불가/최신순) \n recently searched (Unsortable) \n --R최ec근en에tly 본Vie 거we래d 선Accounts: Accounts\n re:c 최en근tly에 vie 본we 거d (래So선rta(정ble렬) 가능)\n --AAccccoouuntn (tC (Cusutosmtoemr)e: rA)ccounts\n 2 ca: tCeguosrtiozemde ar s유 C형us의tom 거er래 ty선pe\n -Account (Vendor): Accounts categorized\n -Account (Vendor) \n as Vendor type \n : Vendor 유형의 거래선 \n -Account (Department): Accounts \n -Account (Department)",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 1
+    },
+    "char_count": 974,
+    "token_count": 271
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0002",
+    "text": "-Account (Vendor): Accounts categorized\n -Account (Vendor) \n as Vendor type \n : Vendor 유형의 거래선 \n -Account (Department): Accounts \n -Account (Department) \n managed based on the user's organization\n : 내 조직 기준으로 관리 중인 거래선 \n -Account (Non BP): Accounts not yet\n -Account (Non BP) \n linked to a Business Partner (BP)\n : BP 연결 전 거래선 \n 4",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 2
+    },
+    "char_count": 330,
+    "token_count": 89
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0003",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 11.. 상To단p K 주ey요 In 정for보m a영tio역n Area\n Displays key Account information at the top\n - 거래선 정보 중 주요한 정보가 상단에 \n of the screen. \n 노출 진행 됨 \n 2. View Detailed Information by Tab\n -Detail Tab: Shows company basic \n 1 2. 탭별 세부 정보 조회 \n information, SAP integration details, and\n - 기본정보탭: \n Nice D&B data. \n -C기r업ed의it/A 기R 본Ta b정: 보Dis와pl aSyAs Pcr e연d계it a n정d 보,\n 2 receivables information based on the\n 나이스 D&B 연계 정보가 노출됨 \n Account. \n - 여신/채권탭: \n -Sales Tab: Shows sales data based on\n th거e A래c선cou 기nt.준의 여신, 채권 정보 노출 \n --A매c출co정un보t C:a거rd래 T선ab :기 A준llow 매s 출doc노um출ent\n creation and information entry based on\n - 고객사 카드: 거래선 정보 기준 문서 \n Account details. \n 생-P성ro j기ec능t T a및b: 정Di보sp la작ys성 in 탭formation on\n -pr관oje련ct정s a보nd: 연lon결g-된ter m연 c락on처tra, c미ts팅 lin메ke모d t,o\n the account.",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 3
+    },
+    "char_count": 997,
+    "token_count": 282
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0004",
+    "text": "- 고객사 카드: 거래선 정보 기준 문서 \n Account details. \n 생-P성ro j기ec능t T a및b: 정Di보sp la작ys성 in 탭formation on\n -pr관oje련ct정s a보nd: 연lon결g-된ter m연 c락on처tra, c미ts팅 lin메ke모d t,o\n the account. \n 선물 정보 노출 \n -Related Tab: Displays linked contacts,\n - 출하/재고: 거래선별 출하/재고 노출 \n meeting notes, and gift information.\n --OTirmdeerl/iSnhei:p 거me래nt선 Ta 기b:준 Sh 이ow벤s 트shi/p업m무en t\n and order data per Account. \n 등록 및 조회 화면 \n -ETC Tab: Displays additional information\n - Chatter: 거래선 기준 게시판 \n such as handled items and responsible\n -or기ga타niz정at보ion:s취. 급품목 정보, 담당조직\n 정보 등 부가적인 정보가 노출됨 \n 5",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 4
+    },
+    "char_count": 559,
+    "token_count": 167
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0005",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (General Information) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Account Information Section \n 4 -This section contains the most basic and\n essential information about the account.\n -Most fields in this section are mandatory.\n 1 \n \n 2. Description Section \n -This area displays a text-based description\n of the company. \n \n \n 3. SAP I/F Information \n -Shows data retrieved from the SAP system\n during integration. \n -This information is read-only and cannot be\n 2 \n edited in Salesforce. \n \n 4. NiceD&B Information Tab \n 3 -When clicked, this tab displays company\n data integrated from NiceD&B. \n \n -Users can view a company overview and\n financial information for the past three years.\n -This information is also read-only and\n cannot be modified. \n \n \n 6",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 5
+    },
+    "char_count": 928,
+    "token_count": 232
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0006",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Related) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Connected Contacts List \n -Displays name, job title, mobile phone\n number, email, and marks key contacts.\n 4 \n -Clicking the “New” button allows you to add\n 1 a new contact. \n 2. Connected Meeting Notes List \n -Shows meeting note title, key account\n status, type, meeting date, department that\n created it, and summary information.\n 2 -Clicking the “New” button allows you to\n create a new meeting note. \n \n 3. Meeting Gift History List \n -Displays the list of “Meeting Gift History”\n recorded in the connected meeting notes.\n -Shows recipient, gift name, and meeting\n date. \n \n 4. Clicking the ‘My Organization’ Tab\n 3 -Filters content based on the organization of\n the logged-in user. \n -For upper-level organizations, includes\n content from subordinate organizations.",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 6
+    },
+    "char_count": 995,
+    "token_count": 248
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0007",
+    "text": "4. Clicking the ‘My Organization’ Tab\n 3 -Filters content based on the organization of\n the logged-in user. \n -For upper-level organizations, includes\n content from subordinate organizations.\n \n \n \n \n 7",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 7
+    },
+    "char_count": 202,
+    "token_count": 50
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0008",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Credit/ A/R) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Credit Information Section \n -Displays credit information of business\n partners based on the corporation the user\n 1 \n belongs to. \n -Clicking “View Details” switches to the\n Credit Monitoring Dashboard screen.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 8",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 8
+    },
+    "char_count": 484,
+    "token_count": 121
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0009",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Order/Shipment) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Shipment Status Information Section\n -Displays shipment information of business\n 1 partners based on the organization the user\n belongs to (Only Steel Division).\n -Clicking “Details” switches to the\n Order/Shipment Monitoring Dashboard\n screen. \n 2 \n 2. Order Information Section \n -A list of order information linked to the\n related Account. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 9",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 9
+    },
+    "char_count": 612,
+    "token_count": 153
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0010",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Sales) (1/2) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Sales by Account \n 5 -Displays annual sales, gross profit, and\n pre-tax profit (shown for the past 3 years).\n \n 1 2. Currency/Unit Selection Filter for Amount\n 2 \n Display \n -Provides 4 options: KRW (Won / million\n Won), USD (Dollar / thousand Dollar).\n 3 \n 3. Organization Selection Filter \n -For users with department head level or\n key roles, \n sales data can be viewed based on their\n affiliated department/division. \n 4. Sales by Item per Account \n -Displays annual sales by item. \n -Quantity, sales, and profit are shown per\n item. \n \n 4 \n 5. Sales Data Reference Standard \n -Based on SAP Billing. \n -Can be viewed by both Sold-To and Ship-\n To. \n \n \n \n 10",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 10
+    },
+    "char_count": 891,
+    "token_count": 222
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0011",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Project) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Contract/Project Management Section\n 1 -To be filled out when there is a long-term\n contract or project-based transaction with the\n customer \n -Can only be modified or deleted if created\n by your own organization \n -Duplicate registration with the same\n contract/project name is not allowed\n -Can be created regardless of the\n customer’s managing organization and can\n be mapped to order(Only Steel Division)\n information \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 11",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 11
+    },
+    "char_count": 683,
+    "token_count": 170
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0012",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Timeline) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Click “New Event” \n 1 2 -Allows you to create a schedule related to\n the account. \n \n 2. Click “New Task” \n 3 \n -Allows you to create a to-do item related to\n the account. \n 3. Timeline History Section \n TO-DO List -Includes a TO-DO List area showing\n registered tasks and upcoming events,\n and a History area showing past events.\n \n \n \n \n \n \n \n \n Timeline history \n \n \n \n \n \n \n \n 12",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 12
+    },
+    "char_count": 609,
+    "token_count": 152
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0013",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Chatter) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Post Creation Section \n -Allows users to write work-related posts or\n 1 questions based on the account. \n -All created posts are visible to everyone.\n \n 2 2. Sorting and Searching Created Posts\n -Posts can be sorted and searched.\n 3 \n 3. Created Posts \n -Posts are displayed in reverse \n chronological order by default, and all posts\n allow comments. \n 4 \n 4. Created Events/Tasks \n -When an event or task is created, it\n appears in the chatter feed similar to a post,\n and comments can be added. \n \n \n \n \n \n \n \n \n \n \n \n 13",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 13
+    },
+    "char_count": 748,
+    "token_count": 187
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0014",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Etc. Information) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Responsible Organization Display\n 4 Section for the Account \n 1 \n -Shows the organization that has \n permission to edit the account information.\n 2. Exposed Items Handled by the Account\n -Items that can be added based on the\n responsible organization. \n -Follows the Material Group standard in\n SAP. \n 2 \n 3. Account Code Information Display\n Section \n -If the account is linked as a BP or extended\n to an overseas entity, the relevant corporate\n 5 information is shown. \n 4. Legacy Business Trip Report Display\n Section \n -Shows older business trip reports managed\n in the Interzone system, linked by account.\n 5. File Upload Section Based on Account\n 6 -Allows file uploads with optional decryption\n 3 \n settings. \n 6. Account Modification History Section",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 14
+    },
+    "char_count": 991,
+    "token_count": 247
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0015",
+    "text": "in the Interzone system, linked by account.\n 5. File Upload Section Based on Account\n 6 -Allows file uploads with optional decryption\n 3 \n settings. \n 6. Account Modification History Section\n -Displays the history of changes made to\n the account. \n \n 14",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 15
+    },
+    "char_count": 253,
+    "token_count": 63
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0016",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.02. Account Update Step (Lv.3) 01.02.01 Update account information(1/2)\n \n Menu Account \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Click “Edit” Button \n -Opens a popup that allows editing of the\n account. \n -Only editable data fields can be modified.\n 1 3 \n (* Fields like basic information can also be\n edited by clicking the pencil icon.)\n \n 2. After Filling Out the Edit Popup, Click\n “Save” \n -Upon saving, the account information is\n updated. \n -Duplicate checks are performed during\n editing as well \n (e.g., when modifying business registration\n number or VAT ID). \n \n 3. Organization Chart Setup for the Account\n -Not a mandatory section; can be configured\n if needed. \n -Clicking the organization chart opens the\n setup screen. \n -Detailed organization chart settings are\n 2 \n available. \n \n \n \n 15",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 16
+    },
+    "char_count": 891,
+    "token_count": 222
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0017",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.02. Account Update Step (Lv.3) 01.02.01 Update account information(2/2)\n \n Menu Account \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Click “Manage Department” Button\n -Opens a popup where responsible \n Departments can be added or removed.\n -This button is only visible to the owner of\n 1 \n the account and its responsible \n Departments. \n 2. After Selecting a Department, Click the\n Right Arrow \n -Adds the selected Department (from the\n left) as a responsible Department for the\n 3 \n account. \n -The added Department gains editing\n permissions. \n -By default, group-level Departments can be\n added, and direct groups/sections under the\n 2 division or department can also be added.\n 3. Clicking the Delete Icon \n -Removes the selected Department from the\n editable list. \n \n 4. Clicking “Save” \n -Applies the changes made to the \n responsible Department settings. \n 4 \n \n \n 16",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 17
+    },
+    "char_count": 958,
+    "token_count": 239
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0018",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.02. Account Update Step (Lv.3) 01.02.02 Manage account Organization Chart\n \n Menu Account \n \n Navigation CRM App > Account > Account List > Organization chart \n \n 1. Click “Add” for Organization \n -Opens a popup to register an organization,\n allowing you to set the organization name\n and its parent organization. \n -If no parent organization is entered, it will\n be registered as a top-level organization.\n After selecting an organization, clicking the\n Add button will set it as the parent\n Switching pages organization. \n 2. Click “Edit” for Organization \n -After selecting a saved organization and\n clicking \"Edit\", you can change its name\n and parent organization information.\n 3. Click “Delete” for Organization \n 1 2 3 4 5 6 \n -Deletes the selected organization.\n 4. Click “Add” in the Contact List \n -You can link contacts to an organization\n -The contact must be associated with an\n Account to be related.",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 18
+    },
+    "char_count": 963,
+    "token_count": 240
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0019",
+    "text": "1 2 3 4 5 6 \n -Deletes the selected organization.\n 4. Click “Add” in the Contact List \n -You can link contacts to an organization\n -The contact must be associated with an\n Account to be related. \n 5. Click “Edit” in the Contact List\n -Modify the organization information linked\n to the contact. \n 6. Click “Delete” in the Contact List\n -Unlinks the contact from the organization.\n \n \n \n 17",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 19
+    },
+    "char_count": 389,
+    "token_count": 97
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0020",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.02. Account Update Step (Lv.3) 01.02.02 Create Account Card \n \n Menu Account \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. When Clicking “Preview Account Card”\n -Opens a popup preview of the Account\n Card document, based on the account’s\n basic information and the card details\n entered below. \n -From the preview popup, the card can be\n downloaded as a PDF or DOC file. \n \n 2. Card Information Entry Section \n 1 -A description input area where both text\n and images can be pasted. \n \n 3. Download History Section \n 3 -Allows users to view the history of\n previously generated Account Cards.\n 2 \n \n \n \n \n \n \n \n \n \n \n \n \n 18",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 20
+    },
+    "char_count": 704,
+    "token_count": 176
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0021",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.03. Account Creation Step (Lv.3) 01.03.01 Create an account not linked to BP\n \n Menu Account (1/3) \n \n Navigation CRM App > Account > Account List > New Create Pop-up \n \n 1. Click “New” button \n -Opens a popup to create a new Account.\n You can check existing records through\n 1 \n search. \n 2. Search Account Information Based on\n External Data \n -Provides popups for Nice BizLine and\n Hoovers to pre-search company \n information. \n 2 3. Account Name-Based Search Result\n Area \n -Allows initial judgment on duplicate\n Accounts based on the Account name.\n 4. Search Result List Provided \n 3 -Displays information to help determine\n duplication. \n -Criteria for duplication: \n 4 \n Business Registration Number \n VAT Identification Number \n 5. Click “New” in the popup page \n -When clicked, transitions to the next\n popup. \n -In the next popup, you can enter detailed\n Account information. \n 5 \n \n 19",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 21
+    },
+    "char_count": 945,
+    "token_count": 236
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0022",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.03. Account Creation Step (Lv.3) 01.03.01 Create an account not linked to BP\n \n Menu Account (2/3) \n \n Navigation CRM App > Account > Account List > New Create Pop-up \n \n 1. Select Country Classification \n -Choose between Domestic or Overseas\n -Domestic: Business Registration Number\n is required \n -Overseas: VAT ID is required \n (DUNS Number is provided as an optional)\n 2. Select Country Type \n -For Domestic, South Korea is \n 1 3 automatically set \n -For Overseas, search and select the\n country manually \n 2 4 \n 3. Select Relationship Type \n -Choose one of the following: Account,\n Partner, or Government Relations \n -If Account is selected, additional selection\n of Account Type is required \n 4. Select Account Type \n -Choose one: Customer, Vendor, or Both\n -If Customer is selected, Tax Type\n selection is required \n \n \n \n \n \n \n \n 20",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 22
+    },
+    "char_count": 889,
+    "token_count": 222
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0023",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.03. Account Creation Step (Lv.3) 01.03.01 Create an account not linked to BP\n \n Menu Account (3/3) \n \n Navigation CRM App > Account > Account List > New Create Pop-up \n \n 1. Enter Additional Information \n 1 -This area is for entering supplementary\n information for management purposes.\n 2. Enter Description Text for the Account\n -Write descriptive information about the\n Account. \n 3. Address Information \n -Address data will be linked when\n converting to SAP BP later. \n 4. Click “Cancel” \n -Returns to the previous popup. \n 5. Click “Save and New” \n -Saves the current entry and reopens the\n popup. \n 2 \n 6. Click “Save” \n -Checks for duplicates before saving.\n After saving, navigates to the screen of the\n newly created Account. \n (* Once saved, a summary will be displayed\n 3 \n on the home screen.) \n \n \n 5 6 \n 4 \n \n \n 21",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 23
+    },
+    "char_count": 876,
+    "token_count": 219
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0024",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.03. Account Creation Step (Lv.3) 01.03.02 Convert to a BP-linked account\n \n Menu Account \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Click “Register in SAP” \n -This button is only visible for Accounts not\n yet linked to a BP. \n -When clicked, a popup for BP registration\n 1 \n in SAP will appear. \n \n ※Access is not available in external\n networks, and only users who have been\n 2 assigned an SAP ID can use it. \n \n 2. The BP registration screen will open after\n the SSO login popup appears (about 5–10\n seconds) \n -After saving BP information, the\n subsequent procedures must be carried out\n in SAP \n (e.g., approval request submission, BP\n approval, etc.) \n \n \n \n \n \n \n \n \n \n 22",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 24
+    },
+    "char_count": 762,
+    "token_count": 190
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0025",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.01. Contact View Step (Lv.3) 02.01.01 View contact list \n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List \n \n 1. Click “Contact List” \n -When clicked, a list of contacts is\n displayed based on the selected search\n 1 \n criteria. \n 2. Search Conditions by List View \n -All Contacts: All Registered Contacts\n -Contact (Department): Contacts \n managed based on the user’s organization\n -My Contacts: Contacts created by the\n user \n -Recently Viewed Contacts: Contacts\n recently viewed (sortable) \n 2 Contact Access Permissions Are Based on\n the Following Groups: \n 1) Steel Division, Materials & Bio Division,\n Overseas Division \n 2) Gas Business Division, Energy Business\n Division \n 3) Corporate Support, Corporate Planning,\n Partners, Others \n (* According to company’s internal Privacy\n Policy, email addresses and mobile phone\n numbers are masked in the list view.)\n \n \n \n \n 23",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 25
+    },
+    "char_count": 942,
+    "token_count": 235
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0026",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.01. Contact View Step (Lv.3) 02.01.02 View detailed contact information\n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List > Contact Detail View \n \n 1. Contact Detail Area \n -Displays key information such as Account\n name, mobile phone number, and email.\n \n (*For the “Department” field in Additional\n Information: if the contact is linked to the\n Account’s organizational chart, the\n 1 department will be updated to match the\n mapped department in the chart. \n Department info can be modified within the\n organizational chart.) \n \n 2. Related Meeting Notes Display Area\n 2 \n -Shows a list of meeting notes in which the\n contact participated. \n 3 \n 3. Responsible Organization Display Area\n -Displays the organization responsible for\n the contact, which has permission to edit\n the contact information. \n 4. File Upload Area Based on Contact\n -Files can be uploaded with an option to\n select whether decryption is required.\n 4",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 26
+    },
+    "char_count": 988,
+    "token_count": 247
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0027",
+    "text": "the contact, which has permission to edit\n the contact information. \n 4. File Upload Area Based on Contact\n -Files can be uploaded with an option to\n select whether decryption is required.\n 4 \n \n \n \n 24",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 27
+    },
+    "char_count": 202,
+    "token_count": 50
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0028",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.02. Contact Update Step (Lv.3) 02.02.01 Update contact information(1/3)\n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List > Contact Detail View \n \n 1. Click “Edit” \n -Opens a popup that allows editing of the\n contact. \n 1 -Only fields that are editable can be\n modified. \n (*You can also edit fields like contact\n information by clicking the pencil icon next\n to each field.) \n \n \n 2. Click “Save” After Filling Out the Edit\n Popup \n -When saved, the contact information will\n be updated. \n \n \n \n \n \n \n \n \n \n \n 2 \n \n \n \n 25",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 28
+    },
+    "char_count": 586,
+    "token_count": 146
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0029",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.02. Contact Update Step (Lv.3) 02.02.01 Update contact information(2/3)\n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List > Contact Detail View \n \n 1. Click “Duplicate” \n -Opens a popup to create a new contact\n with the same information as the currently\n 1 viewed contact. \n 2. Click “Save” After Filling Out the Form\n -Saves the entry as a new contact and\n navigates to the newly saved contact\n screen. \n -During saving, duplication is checked, so\n make sure the entered contact information\n is different from existing records.\n \n \n \n \n \n \n \n \n \n \n \n \n \n 2 \n \n \n \n 26",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 29
+    },
+    "char_count": 631,
+    "token_count": 157
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0030",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.02. Contact Update Step (Lv.3) 02.02.01 Update contact information(3/3)\n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List > Contact Detail View \n \n 1. Click “Manage Department” \n -Opens a popup where responsible \n departments can be added or removed.\n 1 -This button is only visible to the owner of\n the contact or the responsible organization.\n 2. Click the Right Arrow After Selecting a\n Department \n -The selected Department will be set as the\n responsible Department for the contact and\n 3 will have permission to edit the contact.\n -By default, group-level Departments can\n be added, and direct group/section under\n headquarters or direct section under a\n division can also be added. \n 3. Click the Delete Icon \n 2 -Removes the selected Department from\n the editable list. \n 4. Click “Save” \n -Applies the responsible Department\n settings. \n \n \n \n \n \n 4 \n \n \n 27",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 30
+    },
+    "char_count": 930,
+    "token_count": 232
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0031",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.01 Create a single contact (1/3) \n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List > New Create Pop-up \n \n 1. Click “New” \n -Opens the contact creation window. You\n can check existing records through search.\n 1 \n 2. Name-Based Search Result Area \n -Allows initial judgment on whether\n duplicate contacts exist based on the\n entered name. \n 3. Search Result List Provided \n -Displays information to help determine\n duplication. \n -Duplication criteria: \n 2 Same Account–Name–Email combination\n or Same Account–Name–Phone Number\n combination \n 3 \n 4. Click “New” Within the Popup \n -Transitions to the next popup. \n In the next popup, you can enter detailed\n contact information. \n \n 4 \n \n \n \n \n \n \n 28",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 31
+    },
+    "char_count": 803,
+    "token_count": 200
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0032",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.01 Create a single contact (2/3) \n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List > New Create Pop-up \n \n 1. Enter the Account Linked to the Contact\n -Search by name to select an Account.\n If no results are found, register a new\n Account. \n 2. Enter Name \n 4 -Enter the last name and first name\n separately. \n 1 \n -For domestic contacts, use Korean.\n -For overseas contacts, use English.\n 3. Enter Alias \n 2 \n -Examples include: English name for\n Korean contacts, Korean name for foreign\n 5 contacts, or names based on the local\n language. \n 4. Mark as Key Person \n 6 -If checked, the contact will appear at the\n top of the contact list in the Account detail\n 3 screen. \n 5. Check Business Card / Face-to-Face\n Status \n -If checked, the contact will be visible to all\n users within the same access group.\n -If unchecked, the contact will only be\n visible to the creator’s assigned group.",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 32
+    },
+    "char_count": 991,
+    "token_count": 247
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0033",
+    "text": "Status \n -If checked, the contact will be visible to all\n users within the same access group.\n -If unchecked, the contact will only be\n visible to the creator’s assigned group.\n 6. Enter Country / Phone Number \n -Selecting a country automatically applies\n the country code, so manual entry is not\n required. \n 29",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 33
+    },
+    "char_count": 312,
+    "token_count": 78
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0034",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.01 Create a single contact (3/3) \n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List > New Create Pop-up \n \n 1. Search Address \n -When an address is selected through\n search, it is automatically filled in.\n 2. Edit Address Information \n -You can manually enter address \n information without using search, and you\n 1 \n can also modify auto-filled data from\n search. \n 2 \n 3. Enter Additional Description \n -Add supplementary notes or comments.\n 4. Messenger ID Entry Area \n -Enter the contact’s messenger ID\n information. \n -Example format: \n Messenger Type: Messenger ID \n 5. Click “Cancel” \n -Returns to the previous popup. \n 6. Click “Save and New” \n -Saves the current entry and reopens the\n 3 \n popup. \n 7. Click “Save” \n 4 -Closes the popup and navigates to the\n contact detail screen. \n (* Once saved, a summary will be displayed\n 5 6 7 on the home screen.) \n 30",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 34
+    },
+    "char_count": 969,
+    "token_count": 242
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0035",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu Contact Excel Form (1/2) \n \n Navigation CRM App > Contact > Contact List > Excel Upload Pop-up \n \n 1. Click “Upload Contact” \n -Opens the contact upload popup. \n 2. Select Template \n -Choose a contact template to proceed.\n 1 -Based on mobile contacts: Android, iOS\n -Based on business card apps: Remember\n -Based on email address book: Outlook\n -Based on Excel: Excel Template \n \n (*Refer to the guide slides for each contact\n extraction method.) \n \n 3. Click “Download Template” \n 2 4 Download the Excel file and enter contact\n information according to the format.\n 4. Upload Completed Contact Excel File\n Once the upload is complete, an upload\n button will appear at the bottom.\n \n \n 3 \n \n \n \n \n \n \n \n 31",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 35
+    },
+    "char_count": 830,
+    "token_count": 207
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0036",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu Contact Excel Form (2/2) \n \n Navigation CRM App > Contact > Contact List > Excel Upload Pop-up \n \n 1. Display Uploaded Excel Data \n -When clicking Upload, the system checks\n for missing required fields in both the\n registered contacts and the Excel data.\n 2. Click “Upload” \n -Saves the contacts to Salesforce.\n Account information is not included.\n (*Mapping must be performed using the\n Unmapped Account List.) \n 3. Click “Download Result” \n -Allows you to download the upload result\n as an Excel file. \n -You can check upload failures and\n reasons in columns I and J of the\n downloaded Excel. \n -After modifying the content in the “Upload”\n sheet of the Excel file, you can re-upload\n the same file. \n \n 1 \n 2 \n 3 \n \n \n \n \n \n \n 32",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 36
+    },
+    "char_count": 857,
+    "token_count": 214
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0037",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu Contact Mapping Accounts \n \n Navigation CRM App > Contact > Contact List > Contact Without Account Pop-up \n \n 1. Click the Account Name Field \n -Opens the Account search window.\n -Allows entry of Account information per\n row. \n \n 2. Click “Save” \n -Saves the changes made in the list.\n -By selecting rows using checkboxes, you\n can assign the same client to all selected\n rows at once \n \n \n \n \n 1 \n \n \n \n 2 \n \n \n \n \n \n \n \n \n \n 33\n\nContents_Mobile \n \n \n \n Step 1 Account Management \n \n \n Account View \n \n 1. View list of accounts \n \n 2. View detailed account information \n \n Account Update \n \n 1. Update account information \n \n 2. Create Account Card \n 3. Manage account organization chart \n \n \n Account Creation \n 1. Create an account not linked to BP \n \n 2. Convert to a BP-linked account \n \n \n \n \n \n \n \n \n \n \n \n \n 34",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 37
+    },
+    "char_count": 942,
+    "token_count": 235
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0038",
+    "text": "Contents_Mobile \n \n \n \n Step 2 Contact Management \n \n \n Contact View \n \n 1. View contact list \n \n 2. View detailed contact information \n \n Contact Update \n \n 1. Update contact information \n \n Contact Creation \n \n 1. Create a single contact \n \n 2. Create multiple contacts \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 35",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 38
+    },
+    "char_count": 306,
+    "token_count": 76
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0039",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.01 View list of accounts \n \n Menu Account \n \n Navigation CRM App > Account > Account List \n \n 1. Click “Account List” \n -When clicked, a list of accounts is\n displayed based on the selected search\n criteria. \n \n 2. List View Types \n -My Accounts: Accounts created by the\n 2 \n user \n -All Accounts: All registered accounts\n -Recently Searched Items: Accounts\n recently searched (Unsortable) \n 1 \n -Recently Viewed Accounts: Accounts\n recently viewed (Sortable) \n -Account (Customer): Accounts \n categorized as Customer type \n -Account (Vendor): Accounts categorized\n as Vendor type \n -Account (Department): Accounts \n managed based on the user's organization\n \n -Account (Non BP): Accounts not yet\n linked to a Business Partner (BP)\n \n \n \n \n 36",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 39
+    },
+    "char_count": 827,
+    "token_count": 206
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0040",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1.Top Key Information Area \n Displays key Account information at the top of\n the screen. \n 2.View Detailed Information by Tab \n -Detail Tab: Shows company basic \n information, SAP integration details, and Nice\n D&B data. \n -Credit/AR Tab: Displays credit and\n 2 \n receivables information based on the Account.\n -Sales Tab: Shows sales data based on the\n 1 Account. \n -Account Card Tab: Allows document\n creation and information entry based on\n Account details. \n -Project Tab: Displays information on\n projects and long-term contracts linked to the\n account. \n -Related Tab: Displays linked contacts,\n meeting notes, and gift information.\n -Order/Shipment Tab: Shows Order and\n Shipment data per Account. \n -Chatter Tab: Bulletin board for Account-\n related discussions.",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 40
+    },
+    "char_count": 982,
+    "token_count": 245
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0041",
+    "text": "meeting notes, and gift information.\n -Order/Shipment Tab: Shows Order and\n Shipment data per Account. \n -Chatter Tab: Bulletin board for Account-\n related discussions. \n -ETC Tab: Displays additional information\n such as handled items and responsible\n organizations. \n \n 37",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 41
+    },
+    "char_count": 274,
+    "token_count": 68
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0042",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (General Information) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Account Information Section \n -This section contains the most basic and\n essential information about the account.\n -Most fields in this section are mandatory.\n 1 2 4 \n \n 2. Description Section \n -This area displays a text-based description\n of the company. \n 3 \n \n 3. SAP I/F Information \n -Shows data retrieved from the SAP system\n during integration. \n -This information is read-only and cannot be\n \n edited in Salesforce. \n \n 4. NiceD&B Information Tab \n -When clicked, this tab displays company\n data integrated from NiceD&B. \n \n -Users can view a company overview and\n financial information for the past three years.\n -This information is also read-only and\n cannot be modified. \n \n \n 38",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 42
+    },
+    "char_count": 929,
+    "token_count": 232
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0043",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Related) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Connected Contacts List \n -Displays name, job title, mobile phone\n number, email, and marks key contacts.\n -Clicking the “New” button allows you to add\n a new contact. \n \n 2. Connected Meeting Notes List \n -Shows meeting note title, key account\n 1 \n status, type, meeting date, department that\n created it, and summary information.\n 2 \n -Clicking the “New” button allows you to\n 3 create a new meeting note. \n 3. Meeting Gift History List \n -Displays the list of “Meeting Gift History”\n recorded in the connected meeting notes.\n -Shows recipient, gift name, and meeting\n date. \n \n \n \n \n \n \n \n \n \n 39",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 43
+    },
+    "char_count": 824,
+    "token_count": 206
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0044",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Credit/ A/R) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Credit Information Section \n -Displays credit information of business\n partners based on the corporation the user\n belongs to. \n -Clicking “View Details” switches to the\n Credit Monitoring Dashboard screen.\n 1 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 40",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 44
+    },
+    "char_count": 485,
+    "token_count": 121
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0045",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Order/Shipment) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Shipment Status Information Section\n -Displays shipment information of business\n partners based on the organization the user\n belongs to (Only Steel Division).\n -Clicking “Details” switches to the\n Order/Shipment Monitoring Dashboard\n screen. \n 1 \n 2. Order Information Section \n -A list of order information linked to the\n related Account. \n \n \n \n \n \n \n \n \n 2 \n \n \n \n \n \n \n \n \n 41",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 45
+    },
+    "char_count": 613,
+    "token_count": 153
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0046",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Sales) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 11.. S거al래es선 Da별ta 매 Re출fe 영ren역ce Standard\n -Based on SAP Billing. \n - 연단위의 매출, 매출총익, 세전이익 \n -Can be viewed by both Sold-To and Ship-\n 조회됨 (총 3개년 표기) \n To. \n 5 \n 2. Currency/Unit Selection Filter for Amount\n 2. 금액 표기 통화/단위 선택 필터 \n 1 Display \n 2 \n - KRW (원/백만원), USD(달러/천달러) \n -Provides 4 options: KRW (Won / million\n 3 W총o n4)개, U의SD 통 (D화ol별lar 단/ th위ou 제sa공nd Dollar).\n 3. Organization Selection Filter \n 4 3. 조직 선택 필터 \n -For users with department head level or\n k-e실y r장ole s이, 상 직급 혹은 주무의 경우에 \n s소ale속s d실at/a본 c부an이 be하 v의iew 조ed직 ba 기se준d o으n 로the ir\n affiliated department/division. \n 매출 조회 가능 \n 4. Sales by Account \n 4. -거Di래sp선lay의s a 품nn목ua별l s a매le출s, g영ro역ss profit, and\n pre-tax profit (shown for the past 3 years).\n - 품목 단위의 연간 매출이 표기됨 \n - 수량/매출/이익이 품목단위로 노출",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 46
+    },
+    "char_count": 994,
+    "token_count": 283
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0047",
+    "text": "매출 조회 가능 \n 4. Sales by Account \n 4. -거Di래sp선lay의s a 품nn목ua별l s a매le출s, g영ro역ss profit, and\n pre-tax profit (shown for the past 3 years).\n - 품목 단위의 연간 매출이 표기됨 \n - 수량/매출/이익이 품목단위로 노출 \n 5. Sales by Item per Account \n -Displays annual sales by item. \n -Quantity, sales, and profit are shown per\n 5. 매출 조회 기준은 SAP Billing 기준 \n item. \n - Sold-To, Ship-To로 각각 조회 가능 \n 42",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 47
+    },
+    "char_count": 363,
+    "token_count": 105
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0048",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Project) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Contract/Project Management Section\n -To be filled out when there is a long-term\n 1 \n contract or project-based transaction with\n + 2 the Account. \n -Can only be modified or deleted if created\n by your own organization. \n -Can be created regardless of the\n Account’s managing organization, and can\n be mapped to order information via the\n \n Order Dashboard (Only Steel Division).\n \n 2. Contract/Project Creation Popup \n -Duplicate Creation with the same\n contract/project name is not allowed.\n \n \n \n \n \n \n \n \n \n \n \n \n 43",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 48
+    },
+    "char_count": 745,
+    "token_count": 186
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0049",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Timeline) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. When Clicking “New Event” \n -Allows you to create a schedule related to\n the account. \n \n 2. When Clicking “New Task” \n -Allows you to create a to-do item related to\n the account. \n \n 3. Timeline History Section \n -Includes a TO-DO List area showing\n registered tasks and upcoming events,\n and a History area showing past events.\n 3 \n \n \n \n \n \n \n Activity history \n \n 1 \n \n 2 \n \n \n \n \n 44",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 49
+    },
+    "char_count": 614,
+    "token_count": 153
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0050",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Chatter) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Post Creation Section \n -Allows users to write work-related posts or\n questions based on the account. \n 1 2 \n -All created posts are visible to everyone.\n 2. Sorting and Searching Created Posts\n -Posts can be sorted and searched.\n \n 3. Created Posts \n -Posts are displayed in reverse \n chronological order by default, and all posts\n allow comments. \n \n 4. Created Events/Tasks \n -When an event or task is created, it\n appears in the chatter feed similar to a post,\n and comments can be added. \n \n \n \n \n \n \n \n \n \n \n \n 45",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 50
+    },
+    "char_count": 744,
+    "token_count": 186
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0051",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.01. Account View Step (Lv.3) 01.01.02 View detailed account information\n \n Menu Account (Etc. Information) \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. Responsible Organization Display\n Section for the Account \n -Shows the organization that has \n permission to edit the account information.\n \n 2. Company Code Information Display\n Section \n -If the account is linked as a BP or extended\n 1 \n to an overseas entity, the relevant corporate\n information is shown. \n 2 \n 3 3. Exposed Items Handled by the \n Organization \n 4 -Items that can be added based on the\n responsible organization. \n -Follows the Material Group standard in\n SAP. \n 4. Account Modification History Section\n -Displays the history of changes made to\n the account. \n \n \n \n \n \n \n \n 46",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 51
+    },
+    "char_count": 831,
+    "token_count": 207
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0052",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.02. Account Update Step (Lv.3) 01.02.01 Update account information(1/2)\n \n Menu Account \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. When Clicking the “Edit” Button \n -Opens a popup that allows editing of the\n account. \n 2 \n -Only editable data fields can be modified.\n 1 (* Fields like basic information can also be\n edited by clicking the pencil icon.)\n \n 2. After Filling Out the Edit Popup, Click\n “Save” \n -Upon saving, the account information is\n updated. \n -Duplicate checks are performed during\n editing as well \n (e.g., when modifying business registration\n number or VAT ID). \n \n \n \n \n \n \n \n \n \n \n \n \n 47",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 52
+    },
+    "char_count": 696,
+    "token_count": 174
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0053",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.02. Account Update Step (Lv.3) 01.02.01 Update account information(2/2)\n \n Menu Account \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 1. When Clicking the “Manage Responsible\n Organization” Button \n -Opens a popup where responsible \n organizations can be added or removed.\n 1 -This button is only visible to the owner of\n the account and its responsible \n organizations. \n 2 \n 2. After Selecting an Organization, Click the\n Right Arrow \n -Adds the selected organization (from the\n left) as a responsible organization for the\n account. \n -The added organization gains editing\n permissions. \n -By default, group-level organizations can\n be added, and direct groups/sections under\n the division or department can also be\n added. \n \n 3 3. Clicking the Delete Icon \n -Removes the selected organization from\n the editable list. \n \n 4 4. Clicking “Save” \n -Applies the changes made to the \n responsible organization settings.",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 53
+    },
+    "char_count": 996,
+    "token_count": 249
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0054",
+    "text": "3 3. Clicking the Delete Icon \n -Removes the selected organization from\n the editable list. \n \n 4 4. Clicking “Save” \n -Applies the changes made to the \n responsible organization settings.\n \n 48",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 54
+    },
+    "char_count": 194,
+    "token_count": 48
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0055",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.02. Account Update Step (Lv.3) 01.02.02 Create Account Card \n \n Menu Account \n \n Navigation CRM App > Account > Account List > Account Details View \n \n 11.. “A고cc객ou사nt 카Ca드rd 미In리for보m기ati”o n클 V릭iewing\n -Se거c래tio선n 의 기본정보와 하단에 작성된 \n -Displays the customer description\n 카드정보 기준으로 고객사 카드 문서의 \n information that has been entered.\n 미리보기 팝업 생성 \n (* Creation is not supported due to solution\n - 미리보기 팝업 상에서 PDF, DOC \n 1 limitations.) \n 파일로 다운로드 가능 \n (** File download is not available due to\n security restrictions.) \n 2. 카드 정보 작성 영역 \n - 설명 정보의 입력 란으로 텍스트와 \n 이미지의 붙여넣기가 가능함 \n 3. 다운로드 이력 영역 \n - 과거 생성된 고객사 카드의 이력을 \n 확인 할 수 있으며, 본인 조직(그룹)의 \n 다운로드 이력만 다운로드 가능 \n \n \n \n \n \n \n \n \n \n 49",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 55
+    },
+    "char_count": 724,
+    "token_count": 218
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0056",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.03. Account Creation Step (Lv.3) 01.03.01 Create an account not linked to BP\n \n Menu Account (1/3) \n \n Navigation CRM App > Account > Account List > New Create Pop-up \n \n 1. Click “New” \n -Opens a popup to create a new Account.\n 1 You can check existing records through\n search. \n 2. Search Account Information Based on\n 2 External Data \n -Provides popups for Nice BizLine and\n Hoovers to pre-search company \n information. \n 3 3. Account Name-Based Search Result\n Area \n -Allows initial judgment on duplicate\n Accounts based on the Account name.\n 4. Search Result List Provided \n 4 -Displays information to help determine\n duplication. \n -Criteria for duplication: \n Business Registration Number \n VAT Identification Number \n 5. Click “New” \n 5 \n -When clicked, transitions to the next\n popup. \n -In the next popup, you can enter detailed\n Account information. \n \n \n \n 50",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 56
+    },
+    "char_count": 920,
+    "token_count": 230
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0057",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.03. Account Creation Step (Lv.3) 01.03.01 Create an account not linked to BP\n \n Menu Account (2/3) \n \n Navigation CRM App > Account > Account List > New Create Pop-up \n \n 1. Select Country Classification \n -Choose between Domestic or Overseas\n -Domestic: Business Registration Number\n is required \n -Overseas: VAT ID is required \n (DUNS Number is provided as an optional)\n 3 \n 2. Select Relationship Type \n -Choose one of the following: Account,\n Partner, or Government Relations \n 4 \n -If Account is selected, additional selection\n of Account Type is required \n 3. Select Country Type \n -For Domestic, South Korea is \n 1 automatically set \n -For Overseas, search and select the\n country manually \n 4. Select Account Type \n 2 \n -Choose one: Customer, Vendor, or Both\n -If Customer is selected, Tax Type\n selection is required \n \n \n \n \n \n 51",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 57
+    },
+    "char_count": 889,
+    "token_count": 222
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0058",
+    "text": "Step 01. Account Management \n \n \n Step (Lv.2) 01.03. Account Creation Step (Lv.3) 01.03.01 Create an account not linked to BP\n \n Menu Account (3/3) \n \n Navigation CRM App > Account > Account List > New Create Pop-up \n \n 1. Enter Additional Information \n -This area is for entering supplementary\n 1 \n 4 5 information for management purposes.\n 2. Enter Description Text for the Account\n -Write descriptive information about the\n 2 Account. \n 3. Address Information \n -Address data will be linked when\n converting to SAP BP later. \n 4. Click “Cancel” \n 3 -Returns to the previous popup. \n 5. Click “Save” \n -Checks for duplicates before saving.\n After saving, navigates to the screen of the\n newly created Account. \n (* Once saved, a summary will be displayed\n on the home screen.) \n \n \n \n \n \n \n \n \n \n \n 52",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 58
+    },
+    "char_count": 803,
+    "token_count": 200
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0059",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.01. Contact View Step (Lv.3) 02.01.01 View contact list \n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List \n \n 1. Click “Contact List” \n -When clicked, a list of contacts is\n displayed based on the selected search\n criteria. \n 2. Search Conditions by List View \n 2 -My Contacts: Contacts created by the\n user \n -Recently Searched Items: Contacts\n recently searched (unsortable / latest first)\n -Recently Viewed Contacts: Contacts\n 1 recently viewed (sortable) \n -Contact without Account: Contacts\n uploaded via “Contact Upload” that are not\n mapped to any Account \n -Contact (Department): Contacts \n managed based on the user’s organization\n Contact Access Permissions Are Based on\n the Following Groups: \n 1) Steel Division, Materials & Bio Division,\n Overseas Division \n 2) Gas Business Division, Energy Business\n Division \n 3) Corporate Support, Corporate Planning,\n Partners, Others \n (* According to company’s internal Privacy",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 59
+    },
+    "char_count": 994,
+    "token_count": 248
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0060",
+    "text": "Overseas Division \n 2) Gas Business Division, Energy Business\n Division \n 3) Corporate Support, Corporate Planning,\n Partners, Others \n (* According to company’s internal Privacy\n Policy, email addresses and mobile phone\n numbers are masked in the list view.)\n \n 53",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 60
+    },
+    "char_count": 265,
+    "token_count": 66
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0061",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.01. Contact View Step (Lv.3) 02.01.02 View detailed contact information\n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List > Contact Detail View \n \n 1. Contact Detail Area \n -Displays key information such as Account\n name, mobile phone number, and email.\n \n 2. Related Meeting Notes Display Area\n -Shows a list of meeting notes in which the\n contact participated. \n 3. Responsible Organization Display Area\n -Displays the organization responsible for\n 3 the contact, which has permission to edit\n the contact information. \n 4. File Upload Area Based on Contact\n -Files can be uploaded with an option to\n select whether decryption is required.\n \n 1 \n \n 2 \n \n \n \n \n \n \n \n \n \n \n 54",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 61
+    },
+    "char_count": 740,
+    "token_count": 185
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0062",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.02. Contact Update Step (Lv.3) 02.02.01 Update contact information(1/3)\n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List > Contact Detail View \n \n 1. Click “Edit” \n 2 -Opens a popup that allows editing of the\n 1 contact. \n -Only fields that are editable can be\n modified. \n (*You can also edit fields like contact\n information by clicking the pencil icon next\n to each field.) \n \n \n 2. Click “Save” After Filling Out the Edit\n Popup \n -When saved, the contact information will\n be updated. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 55",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 62
+    },
+    "char_count": 586,
+    "token_count": 146
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0063",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.02. Contact Update Step (Lv.3) 02.02.01 Update contact information(2/3)\n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List > Contact Detail View \n \n 1. Click “Duplicate” \n 2 -Opens a popup to create a new contact\n 1 with the same information as the currently\n viewed contact. \n 2. Click “Save” After Filling Out the Form\n -Saves the entry as a new contact and\n navigates to the newly saved contact\n screen. \n -During saving, duplication is checked, so\n make sure the entered contact information\n is different from existing records.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 56",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 63
+    },
+    "char_count": 631,
+    "token_count": 157
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0064",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.02. Contact Update Step (Lv.3) 02.02.01 Update contact information(3/3)\n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List > Contact Detail View \n \n 1. Click “Manage Responsible \n Organization” \n 1 -Opens a popup where responsible \n organizations can be added or removed.\n -This button is only visible to the owner of\n the contact or the responsible organization.\n 2. Click the Right Arrow After Selecting an\n 2 \n Organization \n -The selected organization will be set as\n the responsible organization for the contact\n and will have permission to edit the contact.\n -By default, group-level organizations can\n be added, and direct group/section under\n headquarters or direct section under a\n division can also be added. \n 3. Click the Delete Icon \n -Removes the selected organization from\n the editable list. \n 4. Click “Save” \n -Applies the responsible organization\n settings. \n 3 \n \n 4 \n \n \n \n 57",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 64
+    },
+    "char_count": 959,
+    "token_count": 239
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0065",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.01 Create a single contact (1/3) \n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List > New Create Pop-up \n \n 1. Click “New” \n -Opens the contact creation window. You\n 1 can check existing records through search.\n 2. Name-Based Search Result Area \n -Allows initial judgment on whether\n duplicate contacts exist based on the\n entered name. \n 3. Search Result List Provided \n -Displays information to help determine\n 2 \n duplication. \n -Duplication criteria: \n Same Account–Name–Email combination\n Same Account–Name–Phone Number \n 3 \n combination \n 4. Click “New” Within the Popup \n -Transitions to the next popup. \n In the next popup, you can enter detailed\n contact information. \n 4 \n \n \n \n \n \n \n \n 58",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 65
+    },
+    "char_count": 801,
+    "token_count": 200
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0066",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.01 Create a single contact (2/3) \n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List > New Create Pop-up \n \n 1. Enter the Account Linked to the Contact\n -Search by name to select an Account.\n If no results are found, register a new\n Account. \n 5 2. Enter Name \n -Enter the last name and first name\n 1 separately. \n 6 \n -For domestic contacts, use Korean.\n -For overseas contacts, use English.\n 3. Enter Alias \n -Examples include: English name for\n Korean contacts, Korean name for foreign\n 2 \n contacts, or names based on the local\n language. \n 4. Enter Country / Phone Number \n -Selecting a country automatically applies\n the country code, so manual entry is not\n required. \n 3 \n 5. Check Business Card / Face-to-Face\n Status \n 4 -If checked, the contact will be visible to all\n users within the same access group.\n -If unchecked, the contact will only be",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 66
+    },
+    "char_count": 957,
+    "token_count": 239
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0067",
+    "text": "required. \n 3 \n 5. Check Business Card / Face-to-Face\n Status \n 4 -If checked, the contact will be visible to all\n users within the same access group.\n -If unchecked, the contact will only be\n visible to the creator’s assigned group.\n 6. Mark as Key Person \n -If checked, the contact will appear at the\n top of the contact list in the Account View.\n 59",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 67
+    },
+    "char_count": 352,
+    "token_count": 88
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0068",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.01 Create a single contact (3/3) \n \n Menu Contact \n \n Navigation CRM App > Contact > Contact List > New Create Pop-up \n \n 1. Search Address \n -When an address is selected through\n search, it is automatically filled in.\n 5 6 \n 2. Edit Address Information \n -You can manually enter address \n information without using search, and you\n can also modify auto-filled data from\n 1 search. \n 3. Enter Additional Description \n -Add supplementary notes or comments.\n 2 \n 4. Messenger ID Entry Area \n -Enter the contact’s messenger ID\n information. \n -Example format: \n Messenger Type: Messenger ID \n 5. Click “Cancel” \n -Returns to the previous popup. \n 6. Click “Save” \n -Closes the popup and navigates to the\n contact detail screen. \n 3 \n (* Once saved, a summary will be displayed\n on the home screen.) \n 4 \n \n \n 60",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 68
+    },
+    "char_count": 896,
+    "token_count": 224
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0069",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu Contact Excel Form (1/2) \n \n Navigation CRM App > Contact > Contact List > Excel Upload Pop-up \n \n 1. Click “Upload Contact” \n -Opens the contact upload popup. \n 1 2. Select Template \n -Choose a contact template to proceed.\n -Based on mobile contacts: Android, iOS\n -Based on business card apps: Remember\n -Based on email address book: Outlook\n -Based on Excel: Excel Template \n \n (*Refer to the guide slides for each contact\n extraction method.) \n 2 4 \n 3. Click “Download Template” \n Download the Excel file and enter contact\n information according to the format.\n 4. Upload Completed Contact Excel File\n Once the upload is complete, an upload\n button will appear at the bottom.\n 3 \n \n \n \n \n \n \n \n \n \n 61",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 69
+    },
+    "char_count": 830,
+    "token_count": 207
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0070",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu Contact Excel Form (2/2) \n \n Navigation CRM App > Contact > Contact List > Excel Upload Pop-up \n \n 1. Display Uploaded Excel Data \n -When clicking Upload, the system checks\n for missing required fields in both the\n registered contacts and the Excel data.\n 2. Click “Upload” \n -Saves the contacts to Salesforce.\n Account information is not included.\n (*Mapping must be performed using the\n Unmapped Account List.) \n 3. Click “Download Result” \n -Allows you to download the upload result\n as an Excel file. \n -You can check upload failures and\n reasons in columns I and J of the\n downloaded Excel. \n -After modifying the content in the “Upload”\n sheet of the Excel file, you can re-upload\n 1 \n the same file. \n 2 3 \n \n \n \n \n \n \n \n \n 62",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 70
+    },
+    "char_count": 857,
+    "token_count": 214
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0071",
+    "text": "Step 02. Contact Management \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu Contact Mapping Accounts \n \n Navigation CRM App > Contact > Contact List > Contact With Missing Information List \n \n 1. Accessing “Contact without Account”\n \n 3 \n 2. Click on a contact that does not have\n associated Account information. \n \n 2 3. Click the “Edit” button to proceed with\n adding an Account. \n 1 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 63",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 71
+    },
+    "char_count": 476,
+    "token_count": 119
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0072",
+    "text": "[Appendix] Accounts Permission Settings \n \n \n \n Function Create Access View Access Edit Access \n \n \n All Users Can View Only Assigned Team \n Accounts Create All Users \n All Accounts Can Edit Account \n \n \n View Sales Data for Own \n Sales Read Only Read Only \n and Subordinate Teams \n \n \n View Credit and AR \n Credit/AR Read Only Read Only \n for Own Company \n \n \n Order/ \n Read Only Steel Division Only Read Only \n Shipment \n \n \n All Users Can View Only Assigned Team \n Project Create All Users \n All Projects Can Edit Project \n \n \n Only users Only users \n NDA Accounts Create Admin User with access permission with access permission \n can view the account can Edit Account \n \n \n 64",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 72
+    },
+    "char_count": 680,
+    "token_count": 170
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0073",
+    "text": "[Appendix] Contact Permission Settings \n \n \n Default Contact View Access View Access Based on Biz Card / F2F Contact Edit Access \n \n Check UnCheck \n View Access Granted Based on Edit Access Granted to \n View Access Granted View Access Granted \n Separate Organizational Classification Creator’s Organization (Group) \n for Same Organizational Only to the Creator’s \n (Changes according to personal data protection review) Classification Organization and Responsible Department\n Check Biz Card / F2F Steel, Materials & Bio, Overseas Group A \n Steel, Materials & Bio, \n Creator \n s Overseas Division Data View Available \n n \n o \n it Data Edit Restrictions \n c tn \n ir \n t s \n e \n Steel, Materials & Bio, Overseas \n e \n m tra \n R p \n e Group B \n w Gas Business, d \n d \n e e \n iV Energy Business Group A n g \n a t \n is \n s a Group C \n a Creator n \n D a \n la Data View Restrictions d d \n a \n u t u M Management Support, Group B o t ts e Other Groups \n Business Planning, u \n q \n e",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 73
+    },
+    "char_count": 973,
+    "token_count": 243
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0074",
+    "text": "a t \n is \n s a Group C \n a Creator n \n D a \n la Data View Restrictions d d \n a \n u t u M Management Support, Group B o t ts e Other Groups \n Business Planning, u \n q \n e \n Partners, Others Group C R \n Other Divisions \n Identify the Contact for Access Grant Request to Add Assigned Department Re-request Assigned Department\n Access \n Addition Access is not allowed when Request to add your own group If you only have view access,\n only the URL is shared as the assigned department forward the request to a member\n Process \n of the assigned department. \n Creator Sharing Target Creator Owner Team \n 65",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 74
+    },
+    "char_count": 599,
+    "token_count": 149
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0075",
+    "text": "[Appendix] List of Functions Not Supported on Mobile \n \n \n Area Feature Feature Details Reason for Mobile Exclusion \n \n • File download is fundamentally restricted by POSCO\n File Download • Download files uploaded to Salesforce. \n International security policy. \n Common \n • Organization-based and personal-based views on • Difficult to ensure usability in mobile layout; low\n Home Dashboard \n the home screen. demand; requires heavy custom development.\n \n Customer Card • Generate customer cards (PDF, Word) based on • File download restricted on mobile; task unsuitable\n \n Generation account info; includes history. for mobile execution. \n \n Account & • Display SAP BP registration screen for accounts not \n SAP BP Request • SAP BP registration is not supported on mobile.\n Contact registered in BP. \n \n Account Organization • Task unsuitable for mobile; feature limited to\n • Create and edit organization charts; map contacts. \n Chart authorized users.",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 75
+    },
+    "char_count": 955,
+    "token_count": 238
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0076",
+    "text": "Contact registered in BP. \n \n Account Organization • Task unsuitable for mobile; feature limited to\n • Create and edit organization charts; map contacts. \n Chart authorized users. \n \n \n NDA Account Meeting • Share NDA meeting notes with other team • Standard sharing not supported on mobile; available\n Sales Support \n Notes Sharing members. on PC only. \n \n \n POSCO Customer • Select multiple orders for same POSCO customer • Mobile UI does not support multi-record selection\n Mapping and map BP. in List View. \n Order & \n Fulfillment \n Monthly Shipment • View monthly shipment volume report by shipment • Matrix-type report not supported on mobile; only\n Report year. detailed info viewable. \n 66",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 76
+    },
+    "char_count": 697,
+    "token_count": 174
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0077",
+    "text": "[Appendix] Download iOS Contacts(1/3) \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu - iOS Contact(1/3) \n \n Navigation - \n \n 1. Open the “Contacts” App on iPhone\n 1 (iOS) \n Tap the “Add List” button at the top right.\n 2. Tap the “iPhone” Option \n Create a list to export specific contacts.\n 2 3. Tap the Created Contact List, Then Tap\n “Add Contacts” \n Add contacts to the newly created list.\n \n If you export all contacts, personal contacts\n may be included. \n Please make sure to create a separate group\n for work-related contacts before exporting.\n \n 3 \n 4 \n \n \n \n \n \n \n \n \n \n \n \n \n 67",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 77
+    },
+    "char_count": 637,
+    "token_count": 159
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0078",
+    "text": "[Appendix] Download iOS Contacts(2/3) \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu - iOS Contact(2/3) \n \n Navigation - \n \n 1. Search for Desired Contacts \n 1 3 Search and select contacts to add to the\n export list. \n 2 5 2. Add to Export List \n After selecting, add the contacts to the\n export list. \n 3. Click the “List” Button After Adding\n Contacts \n Tap the list to proceed with export.\n 4. Long Press the Export Contact List\n From the displayed menu, tap “Export”.\n \n \n If you export all contacts, personal contacts\n 4 may be included. \n Please make sure to create a separate group\n for work-related contacts before exporting.\n \n \n \n \n \n \n \n \n \n \n \n 68",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 78
+    },
+    "char_count": 708,
+    "token_count": 177
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0079",
+    "text": "[Appendix] Download iOS Contacts(3/3) \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu - iOS Contact(3/3) \n \n Navigation - \n \n 1. Select Fields to Share, Then Click\n “Done” \n -The fields shown may vary depending on\n the contact information. \n 2. Save the Generated Contact File (.vcf)\n 1 You can either save the file to your phone\n or select an email app to send it to yourself,\n 2 \n then download it on your desktop.\n \n \n If you export all contacts, personal contacts\n may be included. \n Please make sure to create a separate group\n for work-related contacts before exporting.\n \n \n \n \n \n \n \n \n \n \n \n \n \n 69",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 79
+    },
+    "char_count": 654,
+    "token_count": 163
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0080",
+    "text": "[Appendix] Download AOS Contacts(1/3) \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu - AOS Contact(1/3) \n \n Navigation - \n \n 1. Open the “Contacts” App and Tap \n 2 \n “Groups” \n 2. Tap the “+” button at the top right of the\n 3 \n screen. \n 3. Enter Group Name \n For example: Work Contacts for Export.\n 4. Tap “Add Members to Group” \n Add contacts to the newly created group.\n 4 \n If you export all contacts, personal contacts\n may be included. \n Please make sure to create a separate group\n for work-related contacts before exporting.\n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n 70",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 80
+    },
+    "char_count": 613,
+    "token_count": 153
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0081",
+    "text": "[Appendix] Download AOS Contacts(2/3) \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu - AOS Contact(2/3) \n \n Navigation - \n \n 1. Select Contacts to Add to the Group\n 2. Tap the “Done” Button at the Bottom of\n the Screen \n 3. After Verifying the Added Contacts, Tap\n the “Save” Button at the Bottom Right\n Saves the group with the selected contacts.\n 4. Long Press Any Contact to Activate the\n Selection List \n Allows multiple contacts to be selected for\n further actions. \n 1 4 \n \n If you export all contacts, personal contacts\n may be included. \n Please make sure to create a separate group\n for work-related contacts before exporting.\n \n \n \n \n \n 2 3 \n \n \n \n \n \n \n 71",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 81
+    },
+    "char_count": 716,
+    "token_count": 179
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0082",
+    "text": "[Appendix] Download AOS Contacts(3/3) \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu - AOS Contact(3/3) \n \n Navigation - \n \n 1. Select Contacts to Export \n -Select the desired contacts (select all if\n 3 needed). \n 2. Tap the “Share” Button at the Bottom\n Left of the Screen \n 3. Select Fields to Share, Then Tap “Done”\n 1 at the Bottom \n -Name, phone number, and email must be\n selected. \n (The fields shown may vary depending on\n the contact information entered.)\n 4. Send the Generated Contact File (.vcf)\n -Choose your email app and send the file\n to yourself. \n -Download it on your desktop or mobile\n device. \n \n \n If you export all contacts, personal contacts\n 4 may be included. \n 2 Please make sure to create a separate group\n for work-related contacts before exporting.\n \n Note:On Android devices, saving contact files\n directly to the phone is not supported.\n You must send the file to your email and\n download it from there. \n \n 72",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 82
+    },
+    "char_count": 991,
+    "token_count": 247
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0083",
+    "text": "[Appendix] Download Remember Contacts(1/2) \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu - Remember(1/2) \n \n Navigation - \n \n 1. Open the Remember App and Tap “My\n Profile” at the Bottom \n 2 \n 2. Tap the menu icon at the top right.\n 3 3. Tap the Settings Button at the Top\n Opens the settings screen. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 1 \n \n \n \n 73\n\n[Appendix] Download Remember Contacts(2/2) \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu - Remember(2/2) \n \n Navigation - \n \n 1. Click the “Export to File” Menu \n 2. Select the file type as “Excel File (.xlsx)”\n and send it to your email address.\n 2 \n For exporting business cards from the\n Remember app (iOS/Android), the file will be\n sent to your own email address for download.\n \n \n \n \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n \n \n \n 74",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 83
+    },
+    "char_count": 882,
+    "token_count": 220
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0084",
+    "text": "[Appendix] Download Outlook Contacts \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu - Outlook \n \n Navigation - \n \n 1. Access MS Outlook (Web Version) and\n Click the “Contacts” Icon on the Left\n -Navigate to the Contacts section.\n 2 2. Click the “Manage Contacts” Menu\n -Opens the contact management options.\n 3. Click the “Export Contacts” Menu\n -Opens the export interface. \n 4. Click the “Export” Button and Download\n 3 \n 1 the File \n 4 \n -Check your Downloads folder for the\n exported file. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 75",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 84
+    },
+    "char_count": 577,
+    "token_count": 144
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0085",
+    "text": "[Appendix] Explanation Excel Template(1/2) \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu - Excel(1/2) \n \n Navigation - \n \n 1. Last Name, Email, and Phone Number\n 업로드 엑셀 서식 \n Are Required Fields \n -If not entered, the contact will be excluded\n from the Excel upload. \n 1 1 2 \n 2. Company Information \n -This is temporarily saved as plain text,\n unrelated to actual registered Accounts, and\n can be used as reference during Account\n mapping. \n * Do not delete rows 1–3 or remove columns\n from the Excel file, as this will cause errors.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 76",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 85
+    },
+    "char_count": 617,
+    "token_count": 156
+  },
+  {
+    "chunk_id": "crm_account_en_v1_0_chunk_0086",
+    "text": "[Appendix] Explanation Excel Template(2/2) \n \n \n Step (Lv.2) 02.03. Contact Creation Step (Lv.3) 02.03.02 Create multiple contact \n \n Menu - Excel(2/2) \n \n Navigation - \n \n 1. Status and Failure Reason Area for\n 업로드 결과 엑셀 서식 \n Upload Results \n 1 \n -You can check the reason for failure, and if\n the contact is already registered in\n Salesforce, the reason will be indicated\n separately. \n 2. After Editing the Content, Move the Main\n Fields (Last Name, First Name, Mobile\n Phone, Email, etc.) to the Upload Sheet\n and Re-upload \n -You can correct the data and re-upload the\n Excel file using the modified “Upload” sheet.\n \n 2 \n \n \n \n \n \n \n \n \n \n \n \n \n 77",
+    "metadata": {
+      "document_id": "crm_account_en_v1_0",
+      "type": "account_contact",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "chunk_index": 86
+    },
+    "char_count": 654,
+    "token_count": 165
+  }
+]

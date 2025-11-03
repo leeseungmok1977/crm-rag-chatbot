@@ -1,0 +1,97 @@
+{
+  "timestamp": "2025-11-03 17:30:08",
+  "total_documents": 8,
+  "successful": 8,
+  "failed": 0,
+  "statistics": [
+    {
+      "document_id": "crm_account_en_v1_0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Account&Contact.pdf",
+      "type": "account_contact",
+      "language": "english",
+      "total_pages": 77,
+      "total_chunks": 87,
+      "total_chars": 60977,
+      "processing_time_seconds": 7.26,
+      "collection_name": "crm_account_en"
+    },
+    {
+      "document_id": "crm_common_en_v1_0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "type": "common_master",
+      "language": "english",
+      "total_pages": 33,
+      "total_chunks": 14,
+      "total_chars": 11323,
+      "processing_time_seconds": 2.97,
+      "collection_name": "crm_common_en"
+    },
+    {
+      "document_id": "crm_meeting_en_v1_0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "type": "meeting_memo",
+      "language": "english",
+      "total_pages": 91,
+      "total_chunks": 89,
+      "total_chars": 63649,
+      "processing_time_seconds": 10.33,
+      "collection_name": "crm_meeting_en"
+    },
+    {
+      "document_id": "crm_order_en_v1_0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "type": "order_fulfillment",
+      "language": "english",
+      "total_pages": 40,
+      "total_chunks": 35,
+      "total_chars": 24513,
+      "processing_time_seconds": 6.7,
+      "collection_name": "crm_order_en"
+    },
+    {
+      "document_id": "crm_order_ko_v1_0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_Order&Fulfillment.pdf",
+      "type": "order_fulfillment",
+      "language": "korean",
+      "total_pages": 44,
+      "total_chunks": 21,
+      "total_chars": 16668,
+      "processing_time_seconds": 5.07,
+      "collection_name": "crm_order_ko"
+    },
+    {
+      "document_id": "crm_account_ko_v1_0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_거래선&연락처.pdf",
+      "type": "account_contact",
+      "language": "korean",
+      "total_pages": 77,
+      "total_chunks": 43,
+      "total_chars": 33479,
+      "processing_time_seconds": 8.56,
+      "collection_name": "crm_account_ko"
+    },
+    {
+      "document_id": "crm_common_ko_v1_0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_공통&Master.pdf",
+      "type": "common_master",
+      "language": "korean",
+      "total_pages": 33,
+      "total_chunks": 11,
+      "total_chars": 8518,
+      "processing_time_seconds": 2.22,
+      "collection_name": "crm_common_ko"
+    },
+    {
+      "document_id": "crm_meeting_ko_v1_0",
+      "source_file": "P_INTL_CRM 매뉴얼(국문)_미팅메모.pdf",
+      "type": "meeting_memo",
+      "language": "korean",
+      "total_pages": 92,
+      "total_chunks": 55,
+      "total_chars": 42559,
+      "processing_time_seconds": 11.6,
+      "collection_name": "crm_meeting_ko"
+    }
+  ],
+  "errors": []
+}

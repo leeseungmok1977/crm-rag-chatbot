@@ -1,0 +1,1248 @@
+[
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0000",
+    "text": "Contents_PC \n \n \n \n Step 1 Meeting Memo Creation \n \n \n Register New Meeting Memo \n \n 1.1 Select Record Type \n \n 1.1.1 Use CLOVA Note \n 1.1.2 Use Teams \n \n 1.1.3 NDA Account \n \n 1.2 Enter Basic Information \n \n 1.3 Enter Meeting Details \n \n 1.4 Enter Attendance Information \n \n 1.5 Save and Submit \n 1.6 Add Additional Information and Utilize Features \n \n \n Meeting Memo Editing \n \n 2.1 Editing from the Meeting Memo List View \n \n 2.2 Editing from the Meeting Memo Detail Page \n \n \n \n \n \n \n 2",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 0
+    },
+    "char_count": 490,
+    "token_count": 122
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0001",
+    "text": "Contents_PC \n \n \n \n Step 2 Meeting Memo Saving / Submission \n \n \n Temporary Save and Submit \n \n 1.1 Edit Draft Information and Submit \n \n Email and Notification Delivery \n \n 2.1 Set Recipients / CC \n \n 2.2 Review Sending Template and History \n \n \n \n \n Step 3 Meeting Memo View \n \n \n View Meeting Memo List \n 1.1 View from Home Screen \n \n 1.2 Use Filters in List View to Search Meeting Memos \n \n \n View Detailed Meeting Memo \n \n 2.1 View Related Information \n \n 2.2 View Sensitive Information and Sharing Targets \n \n 2.3 View To-Do List \n \n 3",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 1
+    },
+    "char_count": 541,
+    "token_count": 135
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0002",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.1 Use CLOVA Note\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Click Create New \n 1 2. Select Create Meeting Memo Using\n \n CLOVA Note \n 3. Click Next \n \n \n \n 2 \n \n \n \n \n 3 \n \n \n \n \n \n FAQ \n \n Q. Can I create a Meeting Memo \n without using the AI solution, as before?\n A. Yes. By selecting Basic Meeting\n Memo, you can create a Meeting Memo\n using the previous method. \n \n \n 4",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 2
+    },
+    "char_count": 557,
+    "token_count": 139
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0003",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.1 Use CLOVA Note\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Click Go to CLOVA Note \n Authentication \n -Authentication is required when \n \n creating a Meeting Memo using \n CLOVA Note for the first time. \n - Re-authentication is required every\n \n 90 days (the same authentication \n request screen will appear). \n \n \n 1 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 5",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 3
+    },
+    "char_count": 535,
+    "token_count": 133
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0004",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.1 Use CLOVA Note\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Click Allow Access \n -Authentication is required when \n creating a Meeting Memo using \n \n CLOVA Note for the first time. \n - Re-authentication is required every\n 90 days (the same authentication \n 1 \n request screen will appear) \n 2. CLOVA Note Account Login \n \n -A separate request and issuance are\n required to obtain a CLOVA Note \n account. (Responsible Department: IT\n \n Planning Group). \n 2 \n 3. Click Confirm \n \n FAQ \n \n Q. I can’t log in with my usual intranet\n (EP, etc.) account. How can I log in?\n Login \n 3 A. You can request and receive a \n CLOVA Note account from the IT \n Planning Group. \n \n 6",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 4
+    },
+    "char_count": 852,
+    "token_count": 213
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0005",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.1 Use CLOVA Note\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Check Created CLOVA Note Meeting\n Records \n - Lists meeting records created within\n \n the last 30 days \n - Only records created using the \n assigned business account are \n 1 \n viewable after logging into CLOVA\n 2 \n Note (records created with personal\n accounts are not accessible) \n -All records are listed regardless of\n whether they were created via CLOVA\n Note web or mobile \n \n 2. Click View Details for the record you\n want to use when creating a \n \n Meeting Memo \n -Among the summary and full \n transcript provided in View Details, the\n \n summary will not be available if it was\n not generated in CLOVA Note \n \n \n \n 7",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 5
+    },
+    "char_count": 868,
+    "token_count": 217
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0006",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.1 Use CLOVA Note\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Review Summary and Full \n Transcript \n - Review the summary and full \n \n transcript of the meeting record \n selected in View Details \n 1 2 \n 2. Click Get Summary to copy the \n summary into the Details section on\n the right-hand side of the Meeting\n \n Memo \n 3. When clicking Save, both the \n \n summary and full transcript \n displayed on the left screen are \n saved together \n \n - For detailed information, refer to P.29\n 3 \n \n \n \n \n \n \n \n \n 8",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 6
+    },
+    "char_count": 687,
+    "token_count": 171
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0007",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.2 Use Teams \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Click Create New \n 1 \n \n 2. Select Create Meeting Memo Using\n Microsoft Teams \n \n \n 3. Click Next \n \n \n 2 \n \n \n 3 \n \n \n \n \n \n FAQ \n \n Q. Can I still create a Meeting Memo\n without using the AI solution? \n A. Yes. By selecting Basic Meeting\n Memo, you can create a Meeting Memo\n using the previous method. \n \n \n 9",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 7
+    },
+    "char_count": 553,
+    "token_count": 138
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0008",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.2 Use Teams \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Check Created Teams Meeting \n Records \n - Lists meeting records created within\n \n the last 15 days \n - Meeting records can be viewed only if\n \n 1 the meeting was created via “New \n Event” or from the Teams calendar\n screen (records from meetings started\n or joined via the “Start Meeting Now”\n \n button are not retrievable) \n - Records are accessible only if you\n created the meeting or were pre- \n \n registered as an attendee \n (unregistered participants cannot view\n the record) \n \n - For details, refer to P.90 \n \n \n \n \n \n \n \n 10",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 8
+    },
+    "char_count": 773,
+    "token_count": 193
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0009",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.2 Use Teams \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. (If needed) Click View More \n Previous Meetings \n - Lists meetings created within the last\n \n 15 days \n - By clicking View More, you can view\n 1 meetings created up to the past 60\n \n 2 days \n 2. Click View Details for the meeting\n \n record you wish to use in the memo\n \n \n \n \n \n \n \n FAQ \n \n Q. I attended and recorded a Teams\n meeting, but the record doesn’t appear.\n A. Using the “Start Meeting Now” button\n will not appear in the Meeting Memo.\n For details, refer to [Appendix] Teams\n Meeting Record Creation. \n \n 11",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 9
+    },
+    "char_count": 759,
+    "token_count": 189
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0010",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.2 Use Teams \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Click Generate Agentforce Summary\n \n \n \n \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 12",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 10
+    },
+    "char_count": 334,
+    "token_count": 83
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0011",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.2 Use Teams \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Review Generated Summary \n 2. Click Get Summary to copy the \n \n summary into the Details section of\n the Meeting Memo \n \n 3. When clicking Save, both the \n 1 \n 2 \n summary and full transcript \n displayed on the left screen are \n saved together \n - For detailed information, refer to P.29\n \n \n \n \n FAQ \n \n Q. Why is the summary copied to the\n Details section instead of the Summary\n section? \n A. The summaries generated from \n recordings longer than 30–60 minutes\n are most similar in length and detail to\n what users typically write in the Details\n section. \n \n 13",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 11
+    },
+    "char_count": 806,
+    "token_count": 201
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0012",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.3 NDA Account\n \n Menu Meeting Memo User NDA Account Memo Access Manager \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Click Create New \n \n 1 2. Select NDA \n - Select “General” when creating a\n Meeting Memo for non-NDA accounts\n \n 3. Click Next \n 2 \n \n \n 3 FAQ \n \n Q. What’s the difference between NDA\n and General record types? \n \n A. [Creation] NDA Meeting Memos can\n only be created by designated access\n managers. \n [Access] Only the author, their direct\n The NDA record type selection input is visible only to \n supervisor, and members explicitly\n designated NDA account access managers. granted view/edit permissions by the\n author can search or view the memo.\n (It is not displayed to general users) \n [Features] NDA Meeting Memos include\n a separate permission setting for memo\n access, but do not support Sensitive",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 12
+    },
+    "char_count": 964,
+    "token_count": 241
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0013",
+    "text": "author can search or view the memo.\n (It is not displayed to general users) \n [Features] NDA Meeting Memos include\n a separate permission setting for memo\n access, but do not support Sensitive\n Info writing/sharing or Email Send\n functions. \n 14",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 13
+    },
+    "char_count": 245,
+    "token_count": 61
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0014",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.2 Entering Basic Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Click Create New \n 1 2. Enter Title (Required) \n \n - Up to 50 characters allowed \n 3. Register Primary Account (Required)\n \n - If only one client participated, enter\n that account \n - If multiple clients participated, enter\n \n 2 the key account based on the agenda\n 4. Add Additional Accounts \n 3 \n - You can register additional clients if\n two or more attended \n 4 - New client entries and multiple\n \n selections are supported \n ※ Record Type NDA : Meeting Memo \n \n can only be saved if it includes at least\n one NDA account. Once an NDA \n account is registered, any number of\n \n general accounts can be added. \n Regardless of record type, the memo\n structure and fields remain the same\n \n 15",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 14
+    },
+    "char_count": 926,
+    "token_count": 231
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0015",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.2 Entering Basic Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Select Time Zone (Required) \n - Defaults to the user’s configured\n standard time zone \n \n - Change only when attending a \n meeting in a different region (e.g.,\n business trip); meeting date/time\n \n entered will not be affected by the\n change \n \n 2. Set Start/End Date and Time \n 1 (Required) \n - Selecting or changing the start date\n \n automatically sets the end date to the\n 2 \n same day \n - Selecting a start time automatically\n sets the end time to one hour later\n - Meeting date/time appears the same\n globally, regardless of time zone\n \n \n \n \n \n \n 16",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 15
+    },
+    "char_count": 788,
+    "token_count": 197
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0016",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.2 Entering Basic Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Select Location \n - Choose from Headquarters, Client, or\n Other \n \n - Headquarters: Automatically fills in\n the main office address upon saving\n - Client: Automatically uploads the\n \n saved address of the registered \n Primary Account \n - Other: Enter address manually \n \n 2. Select Online Meeting Option \n - Choose if the meeting was conducted\n via video conference or conference call\n \n \n \n 1 \n \n FAQ \n 2 \n Q. Can I modify part of the address\n after selecting Headquarters or Client?\n A. Yes. The address can be modified\n after saving the Meeting Memo. \n \n \n 17",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 16
+    },
+    "char_count": 795,
+    "token_count": 198
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0017",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.3 Entering Meeting Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Select Meeting Type (Required) \n - Choose one primary type that best\n represents the meeting: \n \n 1) New Business Proposal \n 2) Contract Discussion \n 3) Post-Contract Management \n \n 4) Claim \n 1 2 5) Others (e.g. Market trends) \n 2. Select Claim Type (Required) \n \n - Only required if “Claim” is selected as\n the meeting type \n - Not available for other meeting types\n \n - Multiple selections allowed: Quantity\n Shortage, Quality Defect, Logistics\n Claim, Production Delay, Others \n \n \n \n \n \n \n \n \n \n 18",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 17
+    },
+    "char_count": 738,
+    "token_count": 184
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0018",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.3 Entering Meeting Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Enter Summary (Required) \n 2. Enter Details (Required) \n - Information entered here is shared\n \n company-wide \n 3. Enter Sensitive Information \n 1 \n - Enter any content that could pose\n issues if disclosed externally \n - Only users specified in “Sensitive Info\n 2 Access” and their organization heads\n \n (per HR org chart) can view this \n information \n - Example: If belonging to A Division –\n \n 3 B Department – C Group – D Section,\n both the designated users and leaders\n (D Section Head, C Group Head, B \n \n Department Head, A Division Head)\n can view \n - Up to 250 characters allowed (to\n \n prevent excessive sensitive data in\n Details; images/tables are not counted)\n \n \n 19",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 18
+    },
+    "char_count": 914,
+    "token_count": 228
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0019",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.4 Entering Attendance Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Enter Client Attendees \n - Only contacts registered under \n Primary Account or Additional \n \n Accounts can be added \n - If a contact is not searchable, check\n whether they are registered under the\n 1 2 \n 3 client account \n 2. Enter Internal Attendees \n -All employees can be registered \n \n regardless of CRM account ownership\n 4 5 3. Click Organization Chart to add \n department-level participants or \n \n view employee info \n 4. Click Include Sub-departments to\n select all sub-levels of the chosen\n \n department \n 5. Click Select All to add all members\n of the chosen department \n \n \n \n \n \n 20",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 19
+    },
+    "char_count": 832,
+    "token_count": 208
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0020",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.4 Entering Attendance Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Enter Sensitive Info Access List\n -Available only when sensitive \n information is entered \n \n - Registered members can view \n sensitive information \n - Only users with CRM accounts can\n \n be searched and added \n 2. Import Attendees (P-Int’l) \n - Click to bulk register internal\n \n 1 2 2 attendees (with CRM accounts) as \n sensitive info viewers \n - Example: Internal attendees A, B, C,\n 2 \n D, E (only A, B, C have CRM \n accounts)→ A, B, C are registered\n \n FAQ \n \n Q. Some employees don’t appear in the\n Sensitive Info Access search. \n A. Sensitive information can only be\n viewed in CRM; therefore, only users\n with CRM accounts appear in the \n search list. \n \n 21",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 20
+    },
+    "char_count": 904,
+    "token_count": 226
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0021",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.4 Entering Attendance Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Gift Record Applicable \n - Select if any client attendees \n received gifts \n \n 2. Enter Gift Recipients and Gift \n Details \n - Click (①) to open input fields \n \n - Enter recipients (only those \n registered as attendees can be \n selected) \n \n - Manually enter the gift name \n 3. Multiple Recipients or Gifts \n - Click Add Row to add more recipients\n \n or gifts in the same manner \n 1 \n \n 3 \n 2 \n \n \n \n \n \n \n \n 22",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 21
+    },
+    "char_count": 649,
+    "token_count": 162
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0022",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.5 Save and Submit \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Click to Temporarily Save and \n Create New \n - Saves the current Meeting Memo as\n \n a draft and opens a new creation \n screen \n 2. Click to Temporarily Save \n \n - Saves the current Meeting Memo as\n a draft and opens the detail view\n \n \n ※ Even after saving, the Meeting Memo\n is not shared company-wide; it remains\n visible only to the author in Draft\n \n status. \n \n \n \n FAQ \n \n Q. How long can I keep a draft saved?\n A. There is no time limit for drafts, but\n for timely sharing, please complete and\n 1 2 submit as soon as possible. \n \n \n 23",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 22
+    },
+    "char_count": 764,
+    "token_count": 191
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0023",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.5 Save and Submit \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Click Complete to finalize and \n register the Meeting Memo \n 1 \n (Company-wide Sharing) \n - Clicking completes and shares the\n Meeting Memo company-wide \n - Until completion, only the author can\n \n view it \n - Email delivery and URL copy features\n become available after completion\n \n \n ※A Meeting Memo is only shared \n company-wide when Complete is \n \n clicked. Before completion, it is visible\n only to the author. \n \n \n FAQ \n \n Q. The Delete button is not visible after\n completion. How can I delete it? \n A. Completed Meeting Memos cannot\n be deleted. Please use the Edit function\n instead. \n \n 24",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 23
+    },
+    "char_count": 839,
+    "token_count": 209
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0024",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.5 Save and Submit \n \n Menu Meeting Memo User NDA Account Memo Access Manager \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Click Sharing \n \n 1 \n 2. Search and register members to \n share the NDA account Meeting \n Memo with \n \n \n 3. Select Meeting Memo Access Level\n 2 \n - Default: Read-only \n - If Read/Write is selected, shared\n members can edit the Meeting Memo\n 3 \n ※ Record Type NDA : After completion,\n \n the memo must be shared via the \n Share function for registered members\n to access it \n \n FAQ \n \n The above Sharing function applies only to Q. I don’t see the Share button. \n \n Meeting Memos for NDA accounts. \n A. The Share function for NDA account\n Meeting Memos becomes available \n (It is not available for general account Meeting Memos) \n only after the memo is completed.\n 25",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 24
+    },
+    "char_count": 923,
+    "token_count": 230
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0025",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.6 Add Additional Information and Utilize Features\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Click Related Information (default\n view on detail page) \n 2. Click Add Product Item \n 1 \n - Record and manage items discussed\n 3 \n during the meeting \n 4 \n - Can add Material Group Lv. 3 or 4\n 3. Search and select material name \n (multiple selections allowed) \n 2 - Even partial keyword searches will\n display related items under Lv.3 or 4\n 4. Click to open Advanced Search in\n table view \n \n - Check Material Groups from Level 1\n to 4 \n \n FAQ \n \n Q. Can I add this information only after\n completion? \n A. It can be added anytime during Draft\n status and within 30 days after \n completion (the period allowed for\n editing Meeting Memos). \n \n 26",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 25
+    },
+    "char_count": 915,
+    "token_count": 228
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0026",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.6 Add Additional Information and Utilize Features\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Click Related Information (default\n view on detail page) \n 2. Review Summary and Full \n 1 \n Transcript Section \n - When creating a Meeting Memo via\n CLOVA Note or Teams, summaries \n \n and transcripts viewed during \n temporary save are automatically \n stored \n \n 3. Click the title to view the full saved\n 2 summary and transcript \n \n \n 3 \n FAQ \n Q. The summary and transcript are\n missing. \n A. Summaries and transcripts are only\n saved when the Meeting Memo is \n created using CLOVA Note or Teams.\n Please note that the specific record\n being viewed in Detail View at the time\n of clicking Temporary Save is the one\n that gets stored. \n \n 27",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 26
+    },
+    "char_count": 911,
+    "token_count": 227
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0027",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.6 Add Additional Information and Utilize Features\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Click Sensitive Information \n 2. Upload Sensitive Information File\n - Expands sharing method beyond \n \n text-based sensitive information to\n 1 \n include file uploads \n \n \n \n 2 \n \n \n \n \n \n FAQ \n \n Q. Who can view uploaded sensitive\n information files? \n A. Files are shared only with members\n registered in the “Sensitive Info Access\n List,” same as text-based sensitive\n information. (Direct supervisors such as\n Group Heads, Team Leaders, and \n Division Heads can view even if not\n registered) \n \n 28",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 27
+    },
+    "char_count": 770,
+    "token_count": 192
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0028",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.6 Add Additional Information and Utilize Features\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Click To-Do List \n 2. Click New Event \n 3. Enter Event Title \n \n 4. Select Event Target (Client)Cannot\n 1 save if selecting a client not \n 2 \n registered in the Meeting Memo \n - Once saved, the event appears in the\n 3 client’s Contact Detail page under\n “Activity” and in the client’s Account\n \n “Timeline” tab \n 4 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 29",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 28
+    },
+    "char_count": 616,
+    "token_count": 154
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0029",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.6 Add Additional Information and Utilize Features\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Select Event Start/End Date and \n Time \n - Changing the start date automatically\n \n sets the end date to the same day\n - Selecting a start time automatically\n sets the end time to one hour later\n \n 2. (Optional) Set Reminder \n - Reminder can be set based on event\n 1 \n start time \n 2 - Reminder: Salesforce notification\n 3. (Optional) Register Event Attendees\n - Internal P-Intl members can be added\n \n - Event is automatically added to\n 3 \n attendees’ Salesforce calendars \n 4. Click Save \n \n 4 \n \n \n \n \n \n \n 30",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 29
+    },
+    "char_count": 781,
+    "token_count": 195
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0030",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.6 Add Additional Information and Utilize Features\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Click New Task and Enter Title \n 2. Select Task Target (Client) \n - Cannot save if selecting a client not\n \n registered in the Meeting Memo \n - Once saved, the task appears in the\n 1 \n client’s Contact Detail page under\n “Activity” and in the client’s Account\n “Timeline” tab \n 1 \n 3. Select Due Date \n 4. Assign Responsible Person \n - Creator is assigned by default; can\n 2 \n be changed \n - Upon reassignment and saving, email\n 3 4 \n notification is sent to the new assignee\n 5. (Optional) Set Reminder \n 5 \n 6. Click Save to create the task \n \n 6 \n \n \n \n \n 31",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 30
+    },
+    "char_count": 830,
+    "token_count": 207
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0031",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.6 Add Additional Information and Utilize Features\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Click Copy URL \n - Copies the Meeting Memo URL \n 1 \n - Useful for attaching to travel expense\n reports, etc. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 32",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 31
+    },
+    "char_count": 428,
+    "token_count": 107
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0032",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 2. Meeting Memo Editing Step (Lv.3) 2.1 Editing from the Meeting Memo List View\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Listview Filter > Edit \n \n 1. Select List View Filter: My Meeting\n Memo (Completed) \n 1 \n 2. Click the down arrow icon of the\n memo to edit \n 2 \n 4 3 3. Opens edit popup for the selected\n Meeting Memo \n 4. Editable fields: all except Related\n Info and Sensitive Info \n - Related Info includes additional\n \n accounts, attendees, and gift records\n \n ※ Editable for 1 month after \n \n submission \n - No time limit for drafts \n \n \n \n \n FAQ \n \n Q. Can I edit after submission? \n A. Yes, edits are allowed for 1 month\n after completion \n \n 33",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 32
+    },
+    "char_count": 745,
+    "token_count": 186
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0033",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 2. Meeting Memo Editing Step (Lv.3) 2.2 Editing from the Meeting Memo Detail Page\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page > Edit \n \n 1. Click Edit \n 2. Editable fields: all except Related\n 1 \n Info and Sensitive Info \n - Related Info includes accounts,\n 2 \n attendees, and gift records \n \n \n \n \n \n \n \n \n \n \n \n \n \n FAQ \n \n Q. How do I edit Sensitive Information?\n A. Go to the “Sensitive Info” tab. See\n P.38for details. \n \n \n \n 34",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 33
+    },
+    "char_count": 547,
+    "token_count": 136
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0034",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 2. Meeting Memo Editing Step (Lv.3) 2.2 Editing from the Meeting Memo Detail Page\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page \n \n 1. Click pencil icon to edit \n - Basic and meeting information can be\n modified \n \n 2. In “Related” tab, click Add to \n 1 \n 2 include additional info \n - Can add account, attendee, and gift\n 3 \n details \n 3. Click down arrow icon to delete \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 35",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 34
+    },
+    "char_count": 521,
+    "token_count": 130
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0035",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 2. Meeting Memo Editing Step (Lv.3) 2.2 Editing from the Meeting Memo Detail Page\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page \n \n 1. Click Sensitive Info tab \n 2. Click pencil icon to edit sensitive\n information \n \n 1 \n 3. Click Add Sensitive Info Access to\n add viewers \n 2 \n 4. Click down arrow icon to remove \n 3 viewers \n 5. Click Upload File to add sensitive\n 4 \n info files \n - Files are viewable/downloadable only\n by registered Sensitive Info Access\n 5 \n members \n \n \n \n \n \n \n \n \n \n \n \n 36",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 35
+    },
+    "char_count": 610,
+    "token_count": 152
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0036",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 2. Meeting Memo Editing Step (Lv.3) 2.2 Editing from the Meeting Memo Detail Page\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page \n \n 1. [Edit Method 1] Click Sensitive Info\n 2 File \n 2. Click down arrow icon to delete \n \n uploaded file \n 3. [Edit Method 2] Click View All \n 4. Click down arrow icon to delete \n \n uploaded file \n \n \n \n \n \n \n 1 \n \n 3 \n \n \n \n \n \n \n \n 4 \n \n \n 37\n\nStep 2. Meeting Memo Saving / Submission \n \n \n Step (Lv.2) 1. Temporary Save and Submit Step (Lv.3) 1.1 Edit Draft Information and Submit \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Listview Filter \n \n 1. Select List View Filter: My Meeting\n Memo (Draft) \n - Displays all Meeting Memos saved as\n \n 1 drafts \n 2. Click the title in the “Title” column\n - Opens the Meeting Memo detail page\n 2 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 38",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 36
+    },
+    "char_count": 961,
+    "token_count": 240
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0037",
+    "text": "Step 2. Meeting Memo Saving / Submission \n \n \n Step (Lv.2) 1. Temporary Save and Submit Step (Lv.3) 1.1 Edit Draft Information and Submit \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page \n \n 1. If needed, edit Meeting Memo and\n click Complete \n 1 \n - For editing steps, refer to Step 1:\n Create Meeting Memo → Step 2: Edit\n Meeting Memo \n \n \n \n \n \n \n \n \n \n \n \n \n \n FAQ \n \n Q. Where is the Send Email button?\n A. Available after clicking Complete. It\n appears in the same location as the\n Complete button. \n \n \n \n 39",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 37
+    },
+    "char_count": 576,
+    "token_count": 144
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0038",
+    "text": "Step 2. Meeting Memo Saving / Submission \n \n \n Step (Lv.2) 2. Email and Notification Delivery Step (Lv.3) 2.1 Set Recipients / CC \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page > Sending Email \n \n 1. Click Send Email \n 2. Set recipients/CC for \n 1 \n email/notification \n - Use org chart modal to register by\n department \n - Up to 100 recipients per send (1)\n \n Recipients \n 2 - Internal attendees registered in P-Int’l\n are auto-added (2) CC \n \n - Only members registered in Sensitive\n Info Access are auto-added \n - Example: Attendees_P-Int’l: A, B, C;\n \n Sensitive Info Access: A, B, C, D, E →\n D and E are added as CC \n \n \n ※ Notification: Bell alert in top-right of\n Salesforce \n \n \n \n \n \n \n 40",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 38
+    },
+    "char_count": 761,
+    "token_count": 190
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0039",
+    "text": "Step 2. Meeting Memo Saving / Submission \n \n \n Step (Lv.2) 2. Email and Notification Delivery Step (Lv.3) 2.1 Set Recipients / CC \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page > Sending Email \n \n 1. Select Send Type (multiple options\n allowed) \n - Email is mandatory \n \n - Notification is optional \n - Can send both simultaneously \n 2. Click Send \n \n \n 1 \n ※ Notification: Sent only to CRM users\n (Salesforce account holders) among \n selected recipients/CC \n \n \n \n \n \n \n 2 \n \n \n \n \n \n \n \n \n 41",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 39
+    },
+    "char_count": 557,
+    "token_count": 139
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0040",
+    "text": "Step 2. Meeting Memo Saving / Submission \n \n \n Step (Lv.2) 2. Email and Notification Delivery Step (Lv.3) 2.2 Review Sending Template and History\n \n Menu Meeting Memo User All Employees \n \n Navigation EP > Inbox \n \n 1. Check received email \n (1) Subject Template \n - \"<Main Account Name> + Meeting \n \n 2 Memo Title + Meeting Date + Author’s\n 1 \n Department Lv.3“ \n - If Lv.3 doesn’t exist, higher level is\n shown \n (2) Also includes account, attendees,\n meeting date, summary, general info,\n \n follow-up items, and gift records\n 2. Click to open Meeting Memo detail\n 3 \n page \n 4 \n - Only accessible to CRM account \n holders \n 3. Sensitive Info status displayed \n - If written = Y \n - If not written = N \n 4. Follow-up and gift sections are \n \n hidden if not filled \n \n \n \n 42",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 40
+    },
+    "char_count": 776,
+    "token_count": 194
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0041",
+    "text": "Step 2. Meeting Memo Saving / Submission \n \n \n Step (Lv.2) 2. Email and Notification Delivery Step (Lv.3) 2.2 Review Sending Template and History\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page > Sending Email \n \n 1. Click Send Email \n 2. View email send history \n 1 \n - Shows recipients, type (To/CC), and\n send time \n 3. Search email recipients \n - Useful for tracking after bulk sends\n \n 4. Click Send to resend email \n \n \n \n 2 3 \n \n \n \n \n \n \n \n FAQ \n \n Q. Can I recall a sent email? \n 4 \n A. No, recall is not possible. EP mail\n integration is planned for future recall\n support. \n \n 43",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 41
+    },
+    "char_count": 651,
+    "token_count": 162
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0042",
+    "text": "Step 2. Meeting Memo Saving / Submission \n \n \n Step (Lv.2) 2. Email and Notification Delivery Step (Lv.3) 2.2 Review Sending Template and History\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page > Sending Email \n \n 1 1. Click Salesforce Bell Notification\n 2. Check received Meeting Memo \n notification \n \n - Click title to open Meeting Memo\n 2 \n detail page \n (1) Title Template : Author’s \n Department Lv.3 + Author Name + \n Meeting Memo Title \n (2) Content Template : Meeting Date,\n \n Main Account Name, Meeting Type \n \n ※ Notification: Sent only to CRM users\n \n (Salesforce account holders) among \n selected recipients/CC \n \n \n \n \n \n \n \n \n \n \n 44",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 42
+    },
+    "char_count": 709,
+    "token_count": 177
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0043",
+    "text": "Step 3. Meeting Memo View \n \n \n Step (Lv.2) 1. View Meeting Memo List Step (Lv.3) 1.1 View from Home Screen \n \n Menu Meeting Memo User All Employees \n \n Navigation Home \n \n 1 1. Click Home (default Salesforce \n landing page) \n 2 3 \n 2. View latest Meeting Memos by \n organization \n - Shows memos created in user’s org\n within last 7 days \n \n - Org: Based on group; if unavailable,\n shows higher org \n 3. View user-created memos by \n \n day/week/month \n 4 \n - Includes both draft and completed\n memos \n - Drafts appear at the top \n 4. View memos where user is recipient\n 5 \n or CC \n 5. View memos created under user’s \n starred accounts \n \n \n ※ Click Meeting Memo title to open \n detail page (applies to ①–⑤) \n \n \n 45",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 43
+    },
+    "char_count": 715,
+    "token_count": 178
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0044",
+    "text": "Step 3. Meeting Memo View \n \n \n Step (Lv.2) 1. View Meeting Memo List Step (Lv.3) 1.2 Use Filters in List View to Search Meeting Memos\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Listview Filter \n \n 1. Click List View Filter on left panel\n 2. Select filter to view memos based\n 1 on conditions \n \n (1) Meeting Memo (Department) \n - Regular users: View memos created\n in their group \n \n - Team Leaders and above: View all\n memos created in subordinate orgs\n (2) My Meeting Memo (Completed) \n \n - View only submitted memos \n 2 \n (3) My Meeting Memo (Draft) \n - View only draft memos \n \n \n \n \n \n \n \n \n \n \n \n \n 46",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 44
+    },
+    "char_count": 647,
+    "token_count": 161
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0045",
+    "text": "Step 3. Meeting Memo View \n \n \n Step (Lv.2) 2. View Detailed Meeting Memo Step (Lv.3) 2.1 View Related Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page \n \n 1. View Related Info \n - Includes account, attendees, product\n items, gift records, summary, transcript,\n \n 1 and attachments \n 2. Click View All in Related Info \n section to see full details \n 2 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 47",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 45
+    },
+    "char_count": 469,
+    "token_count": 117
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0046",
+    "text": "Step 3. Meeting Memo View \n \n \n Step (Lv.2) 2. View Detailed Meeting Memo Step (Lv.3) 2.2 View Sensitive Information and Sharing Targets\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page > Sensitive Information \n \n 1. View Sensitive Info, Files, and \n Access List \n - Shows sensitive info, files, and\n \n access members for the memo \n 1 \n - If no sensitive info written: “No\n sensitive information available” \n - If written but no access: “You do not\n have permission to view sensitive\n information” \n \n 2 - If no access, cannot view access\n member list either \n 2. Click View All to see full access list\n \n - Up to 10 members shown without \n View All; 11+ requires View All \n \n \n \n \n \n \n \n \n \n \n 48",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 46
+    },
+    "char_count": 757,
+    "token_count": 189
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0047",
+    "text": "Step 3. Meeting Memo View \n \n \n Step (Lv.2) 2. View Detailed Meeting Memo Step (Lv.3) 2.3 View To-Do List \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page > To-Do List \n \n 1. View To-Do List \n - Shows events and tasks created from\n the Meeting Memo \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 49\n\nContents_Mobile \n \n \n \n Step 1 Meeting Memo Creation \n \n \n Register New Meeting Memo \n \n 1.1 Select Record Type \n \n 1.1.1 Use CLOVA Note \n 1.1.2 Use Teams \n \n 1.1.3 NDA Account \n \n 1.2 Enter Basic Information \n \n 1.3 Enter Meeting Details \n \n 1.4 Enter Attendance Information \n \n 1.5 Save and Submit \n 1.6 Add Additional Information and Utilize Features \n \n \n Meeting Memo Editing \n \n 2.1 Editing from the Meeting Memo List View \n \n 2.2 Editing from the Meeting Memo Detail Page \n \n \n \n \n \n \n 50",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 47
+    },
+    "char_count": 863,
+    "token_count": 215
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0048",
+    "text": "Contents_Mobile \n \n \n \n Step 2 Meeting Memo Saving / Submission \n \n \n Temporary Save and Submit \n \n 1.1 Edit Draft Information and Submit \n \n Email and Notification Delivery \n \n 2.1 Set Recipients / CC \n \n 2.2 Review Sending Template and History \n \n \n \n \n Step 3 Meeting Memo View \n \n \n View Meeting Memo List \n 1.1 Use Filters in List View to Search Meeting Memos \n \n \n View Detailed Meeting Memo \n \n 2.1 View Related Information \n \n 2.2 View Sensitive Information and Sharing Targets \n \n 2.3 View To-Do List \n \n \n \n 51",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 48
+    },
+    "char_count": 520,
+    "token_count": 130
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0049",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.1 Use CLOVA Note\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Click Create New \n 2. Select Create Meeting Memo Using\n \n CLOVA Note \n 1 \n 3. Click Next \n \n \n \n \n \n 2 \n \n \n \n \n \n \n \n FAQ \n 3 \n Q. Can I create a Meeting Memo \n without using the AI solution, as before?\n A. Yes. By selecting Basic Meeting\n Memo, you can create a Meeting Memo\n using the previous method. \n \n \n 52",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 49
+    },
+    "char_count": 558,
+    "token_count": 139
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0050",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.1 Use CLOVA Note\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Check Created CLOVA Note Meeting\n Records \n - Lists meeting records created within\n \n the last 30 days \n - Only records created using the \n assigned business account are \n \n viewable after logging into CLOVA\n 2 Note (records created with personal\n 1 \n accounts are not accessible) \n -All records are listed regardless of\n whether they were created via CLOVA\n Note web or mobile \n \n 2. Click View Details for the record you\n want to use when creating a \n \n Meeting Memo \n -Among the summary and full \n transcript provided in View Details, the\n \n summary will not be available if it was\n not generated in CLOVA Note \n \n \n \n 53",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 50
+    },
+    "char_count": 869,
+    "token_count": 217
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0051",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.1 Use CLOVA Note\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Review Summary and Full \n Transcript \n - Review the summary and full \n \n transcript of the meeting record \n selected in View Details \n \n 2. Click Get Summary to copy the \n summary into the Details section on\n the right-hand side of the Meeting\n \n Memo \n 3. When clicking Save, both the \n \n 2 1 summary and full transcript \n 1 \n displayed on the left screen are \n saved together \n - For detailed information, refer to P.71\n \n \n \n 3 \n \n \n \n \n \n 54",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 51
+    },
+    "char_count": 690,
+    "token_count": 172
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0052",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.2 Use Teams \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Click Create New \n \n \n 1 2. Select Create Meeting Memo Using\n Microsoft Teams \n \n \n 3. Click Next \n \n \n \n \n \n \n \n 2 \n \n \n \n FAQ \n 3 \n Q. Can I still create a Meeting Memo\n without using the AI solution? \n A. Yes. By selecting Basic Meeting\n Memo, you can create a Meeting Memo\n using the previous method. \n \n \n 55",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 52
+    },
+    "char_count": 554,
+    "token_count": 138
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0053",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.2 Use Teams \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Check Created Teams Meeting \n Records \n - Lists meeting records created within\n \n the last 15 days \n - Meeting records can be viewed only if\n the meeting was created via “New \n \n Event” or from the Teams calendar\n 1 screen (records from meetings started\n or joined via the “Start Meeting Now”\n \n button are not retrievable) \n - Records are accessible only if you\n created the meeting or were pre- \n \n registered as an attendee \n (unregistered participants cannot view\n the record) \n \n \n \n \n \n \n \n \n \n 56",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 53
+    },
+    "char_count": 744,
+    "token_count": 186
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0054",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.2 Use Teams \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. (If needed) Click View More \n Previous Meetings \n - Lists meetings created within the last\n \n 15 days \n - By clicking View More, you can view\n meetings created up to the past 60\n 1 \n days \n 2 2. Click View Details for the meeting\n \n record you wish to use in the memo\n 3 \n \n 3. Click Generate Agentforce Summary\n \n \n \n \n FAQ \n \n Q. I attended and recorded a Teams\n meeting, but the record doesn’t appear.\n A. Using the “Start Meeting Now” button\n will not appear in the Meeting Memo.\n For details, refer to [Appendix] Teams\n Meeting Record Creation. \n \n 57",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 54
+    },
+    "char_count": 797,
+    "token_count": 199
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0055",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.2 Use Teams \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Review Generated Summary \n 2. Click Get Summary to copy the \n \n summary into the Details section of\n the Meeting Memo \n \n 3. When clicking Save, both the \n summary and full transcript \n displayed on the left screen are \n \n saved together \n 2 - For detailed information, refer to P.71\n 1 \n \n \n \n \n FAQ \n \n Q. Why is the summary copied to the\n Details section instead of the Summary\n section? \n A. The summaries generated from \n 3 \n recordings longer than 30–60 minutes\n are most similar in length and detail to\n what users typically write in the Details\n section. \n 58",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 55
+    },
+    "char_count": 808,
+    "token_count": 202
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0056",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Select Record Type_1.1.3 NDA Account\n \n Menu Meeting Memo User NDA Account Memo Access Manager \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Click Create New \n 2. Select NDA \n \n 1 - Select “General” when creating a\n Meeting Memo for non-NDA accounts\n 2 \n 3. Click Continue \n 3 \n \n \n FAQ \n \n Q. What’s the difference between NDA\n and General record types? \n \n A. [Creation] NDA Meeting Memos can\n only be created by designated access\n managers. \n [Access] Only the author, their direct\n supervisor, and members explicitly\n granted view/edit permissions by the\n author can search or view the memo.\n [Features] NDA Meeting Memos include\n a separate permission setting for memo\n access, but do not support Sensitive\n Info writing/sharing or Email Send\n functions. \n \n 59",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 56
+    },
+    "char_count": 885,
+    "token_count": 221
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0057",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.2 Entering Basic Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Click Create New \n 2. Enter Title (Required) \n \n 1 - Up to 50 characters allowed \n 3. Register Primary Account (Required)\n \n - If only one client participated, enter\n that account \n \n 2 - If multiple clients participated, enter\n the key account based on the agenda\n 4. Add Additional Accounts \n \n 3 - You can register additional clients if\n two or more attended \n 4 \n - New client entries and multiple\n selections are supported \n ※ Record Type NDA : Meeting Memo \n \n can only be saved if it includes at least\n one NDA account. Once an NDA \n account is registered, any number of\n \n general accounts can be added. \n Regardless of record type, the memo\n structure and fields remain the same\n \n 60",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 57
+    },
+    "char_count": 926,
+    "token_count": 231
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0058",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.2 Entering Basic Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Select Time Zone (Required) \n - Defaults to the user’s configured\n standard time zone \n \n - Change only when attending a \n meeting in a different region (e.g.,\n business trip); meeting date/time\n \n entered will not be affected by the\n 1 change \n \n 2. Set Start/End Date and Time \n 2 \n (Required) \n - Selecting or changing the start date\n automatically sets the end date to the\n same day \n - Selecting a start time automatically\n \n sets the end time to one hour later\n - Meeting date/time appears the same\n globally, regardless of time zone\n \n \n \n \n \n \n 61",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 58
+    },
+    "char_count": 788,
+    "token_count": 197
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0059",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.2 Entering Basic Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Select Location \n - Choose from Headquarters, Client, or\n Other \n \n - Headquarters: Automatically fills in\n the main office address upon saving\n - Client: Automatically uploads the\n \n saved address of the registered \n 1 \n Primary Account \n 2 - Other: Enter address manually \n 2. Select Online Meeting Option \n - Choose if the meeting was conducted\n via video conference or conference call\n \n \n \n \n \n FAQ \n \n Q. Can I modify part of the address\n after selecting Headquarters or Client?\n A. Yes. The address can be modified\n after saving the Meeting Memo. \n \n \n 62",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 59
+    },
+    "char_count": 795,
+    "token_count": 198
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0060",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.3 Entering Meeting Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Select Meeting Type (Required) \n - Choose one primary type that best\n represents the meeting: \n \n 1) New Business Proposal \n 2) Contract Discussion \n 3) Post-Contract Management \n \n 4) Claim \n 1 \n 5) Others (e.g. Market trends) \n 2 \n 2. Select Claim Type (Required) \n - Only required if “Claim” is selected as\n the meeting type \n - Not available for other meeting types\n - Multiple selections allowed: Quantity\n Shortage, Quality Defect, Logistics\n Claim, Production Delay, Others \n \n \n \n \n \n \n \n \n \n 63",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 60
+    },
+    "char_count": 738,
+    "token_count": 184
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0061",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.3 Entering Meeting Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Enter Summary (Required) \n 2. Enter Details (Required) \n - Information entered here is shared\n \n company-wide \n 3. Enter Sensitive Information \n 1 2 3 - Enter any content that could pose\n \n issues if disclosed externally \n - Only users specified in “Sensitive Info\n Access” and their organization heads\n \n (per HR org chart) can view this \n information \n - Example: If belonging to A Division –\n \n B Department – C Group – D Section,\n both the designated users and leaders\n (D Section Head, C Group Head, B \n \n Department Head, A Division Head)\n can view \n - Up to 250 characters allowed (to\n \n prevent excessive sensitive data in\n Details; images/tables are not counted)\n \n \n 64",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 61
+    },
+    "char_count": 914,
+    "token_count": 228
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0062",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.4 Entering Attendance Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Enter Client Attendees \n - Only contacts registered under \n Primary Account or Additional \n \n Accounts can be added \n - If a contact is not searchable, check\n whether they are registered under the\n \n client account \n 4 2. Enter Internal Attendees \n 1 \n 5 -All employees can be registered \n 2 3 regardless of CRM account ownership\n 3. Click Organization Chart to add \n department-level participants or \n \n view employee info \n 4. Click Include Sub-departments to\n select all sub-levels of the chosen\n \n department \n 5. Click Select All to add all members\n of the chosen department \n \n \n \n \n \n 65",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 62
+    },
+    "char_count": 832,
+    "token_count": 208
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0063",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.4 Entering Attendance Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Enter Sensitive Info Access List\n -Available only when sensitive \n information is entered \n \n - Registered members can view \n sensitive information \n - Only users with CRM accounts can\n \n be searched and added \n 2. Get Attendees (P-Int’l) \n - Click to bulk register internal\n \n attendees (with CRM accounts) as \n sensitive info viewers \n - Example: Internal attendees A, B, C,\n \n D, E (only A, B, C have CRM \n 2 \n 1 accounts)→ A, B, C are registered\n FAQ \n \n Q. Some employees don’t appear in the\n Sensitive Info Access search. \n A. Sensitive information can only be\n viewed in CRM; therefore, only users\n with CRM accounts appear in the \n search list. \n \n 66",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 63
+    },
+    "char_count": 897,
+    "token_count": 224
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0064",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.4 Entering Attendance Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Gift Record Applicable \n - Select if any client attendees \n received gifts \n \n 2. Enter Gift Recipients and Gift \n Details \n - Click (①) to open input fields \n \n - Enter recipients (only those \n registered as attendees can be \n selected) \n \n - Manually enter the gift name \n 1 3 3. Multiple Recipients or Gifts \n - Click Add Row to add more recipients\n 2 \n or gifts in the same manner \n \n \n \n \n \n \n \n \n \n \n \n 67",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 64
+    },
+    "char_count": 649,
+    "token_count": 162
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0065",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.5 Save and Submit \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup \n \n 1. Click to Temporarily Save \n - Saves the current Meeting Memo as\n a draft and opens the detail view\n \n \n ※ Even after saving, the Meeting Memo\n is not shared company-wide; it remains\n \n visible only to the author in Draft\n status. \n \n \n \n \n \n \n \n \n \n \n FAQ \n 1 \n Q. How long can I keep a draft saved?\n A. There is no time limit for drafts, but\n for timely sharing, please complete and\n submit as soon as possible. \n \n \n 68",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 65
+    },
+    "char_count": 643,
+    "token_count": 160
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0066",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.5 Save and Submit \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Click Complete \n 2. Click Save to finalize and register\n the Meeting Memo (Company-wide \n \n Sharing) \n 1 \n - Clicking completes and shares the\n Meeting Memo company-wide \n - Until completion, only the author can\n view it \n - Email delivery and URL copy features\n \n become available after completion\n \n ※A Meeting Memo is only shared \n \n company-wide when Complete is \n clicked. Before completion, it is visible\n only to the author. \n \n FAQ \n \n Q. The Delete button is not visible after\n completion. How can I delete it? \n A. Completed Meeting Memos cannot\n 2 \n be deleted. Please use the Edit function\n instead. \n 69",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 66
+    },
+    "char_count": 854,
+    "token_count": 213
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0067",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.6 Add Additional Information and Utilize Features\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Click Add Material Group \n - Record and manage items discussed\n during the meeting \n 3 \n - Can add Material Group Lv. 3 or 4\n 2 \n 2. Search and select material name \n 3 (multiple selections allowed) \n - Even partial keyword searches will\n display related items under Lv.3 or 4\n 3. Click to open Advanced Search in\n \n table view \n - Check Material Groups from Level 1\n 1 \n to 4 \n \n \n \n FAQ \n \n Q. Can I add this information only after\n completion? \n A. It can be added anytime during Draft\n status and within 30 days after \n completion (the period allowed for\n editing Meeting Memos). \n \n 70",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 67
+    },
+    "char_count": 859,
+    "token_count": 214
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0068",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.6 Add Additional Information and Utilize Features\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Review Summary and Full Text \n Section \n - When creating a Meeting Memo via\n \n CLOVA Note or Teams, summaries \n and transcripts viewed during \n 2 \n temporary save are automatically \n stored \n 2. Click the title to view the full saved\n summary and transcript \n \n 1 \n \n \n 2 \n FAQ \n \n Q. The summary and transcript are\n missing. \n A. Summaries and transcripts are only\n saved when the Meeting Memo is \n created using CLOVA Note or Teams.\n Please note that the specific record\n being viewed in Detail View at the time\n of clicking Temporary Save is the one\n that gets stored. \n \n 71",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 68
+    },
+    "char_count": 847,
+    "token_count": 211
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0069",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.6 Add Additional Information and Utilize Features\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Click New Event \n 2. Enter Event Subject \n \n 2 3. Select Target Contact \n - Cannot save if selecting a client not\n registered in the Meeting Memo \n - Once saved, the event appears in the\n \n client’s Contact Detail page under\n 3 \n “Activity” and in the client’s Account\n “Timeline” tab \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n \n \n 72",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 69
+    },
+    "char_count": 592,
+    "token_count": 148
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0070",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.6 Add Additional Information and Utilize Features\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Select Event Start/End Date and \n Time \n 4 \n - Changing the start date automatically\n sets the end date to the same day\n - Selecting a start time automatically\n 1 \n sets the end time to one hour later\n 2. (Optional) Set Reminder \n - Reminder can be set based on event\n start time \n 2 \n - Reminder: Salesforce notification\n 3. (Optional) Register Event Attendees\n - Internal P-Intl members can be added\n \n - Event is automatically added to\n attendees’ Salesforce calendars \n 4. Click Save \n \n \n 3 \n \n \n \n \n \n \n 73",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 70
+    },
+    "char_count": 781,
+    "token_count": 195
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0071",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.6 Add Additional Information and Utilize Features\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Click New Task and Enter Title \n 2. Select Target Contact (Client) \n 6 \n 1 - Cannot save if selecting a client not\n registered in the Meeting Memo \n - Once saved, the task appears in the\n client’s Contact Detail page under\n 2 \n “Activity” and in the client’s Account\n 3 “Timeline” tab \n 3. Select Due Date \n 4 \n 4. Assign Responsible Person \n 5 - Creator is assigned by default; can\n be changed \n \n - Upon reassignment and saving, email\n notification is sent to the new assignee\n 1 5. (Optional) Set Reminder \n \n 6. Click Save to create the task \n \n \n \n \n \n \n \n 74",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 71
+    },
+    "char_count": 833,
+    "token_count": 208
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0072",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.6 Add Additional Information and Utilize Features\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > New Meeting Memo Popup > Detailed Page \n \n 1. Click Copy URL \n 2. Click “Click here to copy this URL”\n - Copies the Meeting Memo URL \n \n - Useful for attaching to travel expense\n reports, etc. \n \n \n \n \n \n 2 \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n \n \n 75",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 72
+    },
+    "char_count": 468,
+    "token_count": 117
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0073",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 2. Meeting Memo Editing Step (Lv.3) 2.1 Editing from the Meeting Memo List View\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Listview Filter > Edit \n \n 1. Select List View Filter: My Meeting\n Memo (Completed) \n 4 \n 2. Swipe the Meeting Memo from right\n to left. \n 1 \n 3. Click the desired memo. \n 4. Click Edit to modify the entered\n 2 \n information (excluding related \n 3 information and sensitive \n information) \n - Related Info includes additional\n accounts, attendees, and gift records\n \n \n ※ Editable for 1 month after \n submission \n - No time limit for drafts \n 4 \n \n \n FAQ \n \n Q. Can I edit after submission? \n A. Yes, edits are allowed for 1 month\n after completion \n \n 76",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 73
+    },
+    "char_count": 765,
+    "token_count": 191
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0074",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 2. Meeting Memo Editing Step (Lv.3) 2.2 Editing from the Meeting Memo Detail Page\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page > Edit \n \n 1. Click Edit \n 2. Editable fields: all except Related\n \n 2 Info and Sensitive Info \n - Related Info includes accounts,\n 1 \n attendees, and gift records \n \n \n \n \n \n \n \n \n \n \n \n \n \n FAQ \n \n Q. How do I edit Sensitive Information?\n A. Go to the “Sensitive Info” tab. See\n P.31 for details. \n \n \n \n 77",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 74
+    },
+    "char_count": 548,
+    "token_count": 137
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0075",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 2. Meeting Memo Editing Step (Lv.3) 2.2 Editing from the Meeting Memo Detail Page\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page \n \n 1. In each Meeting Memo detail page,\n click Details (자세히) to edit \n information within the related \n \n information section \n 1 \n 2 \n - such as account details, attendee\n information, and gift records. \n 2 \n 2. Swipe the detailed information of\n the section to be edited from right\n to left to edit or delete it. \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n \n 78",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 75
+    },
+    "char_count": 591,
+    "token_count": 148
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0076",
+    "text": "Step 1. Meeting Memo Creation \n \n \n Step (Lv.2) 2. Meeting Memo Editing Step (Lv.3) 2.2 Editing from the Meeting Memo Detail Page\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page \n \n 1. Click pencil icon to edit sensitive\n information \n 2. Click Add Sensitive Info Access \n \n (Meeting Sensitive Share) to edit or\n 3 \n add viewers \n 3. Swipe the detailed information of\n the section to be edited from right\n 1 \n to left to edit or delete it. \n 2 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 79",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 76
+    },
+    "char_count": 541,
+    "token_count": 135
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0077",
+    "text": "Step 2. Meeting Memo Saving / Submission \n \n \n Step (Lv.2) 1. Temporary Save and Submit Step (Lv.3) 1.1 Edit Draft Information and Submit \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Listview Filter \n \n 1. Select List View Filter: My Meeting\n Memo (Draft) \n \n 3 - Displays all Meeting Memos saved as\n drafts \n 1 \n 2. Click the title in the “Title” column\n - Opens the Meeting Memo detail page\n 2 \n 3. If needed, edit Meeting Memo and\n click Complete \n - For editing steps, refer to Step 1:\n Create Meeting Memo → Step 2: Edit\n Meeting Memo \n \n \n \n \n \n FAQ \n \n Q. Where is the Send Email button?\n \n A. Available after clicking Complete. It\n appears in the same location as the\n Complete button. \n \n \n 80",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 77
+    },
+    "char_count": 740,
+    "token_count": 185
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0078",
+    "text": "Step 2. Meeting Memo Saving / Submission \n \n \n Step (Lv.2) 2. Email and Notification Delivery Step (Lv.3) 2.1 Set Recipients / CC \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page > Sending Email \n \n 1. Click Send Email \n 2. Set recipients/CC for \n \n 1 email/notification \n - Use org chart modal to register by\n 2 \n department \n - Up to 100 recipients per send (1)\n Recipients \n - Internal attendees registered in P-Int’l\n are auto-added (2) CC \n \n - Only members registered in Sensitive\n Info Access are auto-added \n - Example: Attendees_P-Int’l: A, B, C;\n \n Sensitive Info Access: A, B, C, D, E →\n D and E are added as CC \n \n \n ※ Notification: Bell alert in top-right of\n Salesforce \n \n \n \n \n \n \n 81",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 78
+    },
+    "char_count": 761,
+    "token_count": 190
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0079",
+    "text": "Step 2. Meeting Memo Saving / Submission \n \n \n Step (Lv.2) 2. Email and Notification Delivery Step (Lv.3) 2.1 Set Recipients / CC \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page > Sending Email \n \n 1. Select Send Type (multiple options\n allowed) \n - Email is mandatory \n \n - Notification is optional \n - Can send both simultaneously \n 2. Click Send \n \n \n ※ Notification: Sent only to CRM users\n 1 \n (Salesforce account holders) among \n selected recipients/CC \n \n \n \n \n \n \n \n \n \n \n \n 2 \n \n \n \n 82",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 79
+    },
+    "char_count": 557,
+    "token_count": 139
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0080",
+    "text": "Step 2. Meeting Memo Saving / Submission \n \n \n Step (Lv.2) 2. Email and Notification Delivery Step (Lv.3) 2.2 Review Sending Template and History\n \n Menu Meeting Memo User All Employees \n \n Navigation EP > Inbox \n \n 1. Check received email \n (1) Subject Template \n - \"<Main Account Name> + Meeting \n \n Memo Title + Meeting Date + Author’s\n 1 \n Department Lv.3“ \n - If Lv.3 doesn’t exist, higher level is\n 2 shown \n (2) Also includes account, attendees,\n meeting date, summary, general info,\n \n follow-up items, and gift records\n 2. Click to open Meeting Memo detail\n page \n \n - Only accessible to CRM account \n 3 holders \n 4 3. Sensitive Info status displayed \n \n - If written = Y \n - If not written = N \n 4. Follow-up and gift sections are \n \n hidden if not filled \n \n \n \n 83",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 80
+    },
+    "char_count": 776,
+    "token_count": 194
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0081",
+    "text": "Step 2. Meeting Memo Saving / Submission \n \n \n Step (Lv.2) 2. Email and Notification Delivery Step (Lv.3) 2.2 Review Sending Template and History\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page > Sending Email \n \n 1. Click Send Email \n 2. View email send history \n \n 1 - Shows recipients, type (To/CC), and\n send time \n 3. Search email recipients \n - Useful for tracking after bulk sends\n \n 4. Click Send to resend email \n \n \n \n \n 2 \n \n 3 \n \n \n \n \n FAQ \n \n Q. Can I recall a sent email? \n A. No, recall is not possible. EP mail\n integration is planned for future recall\n 4 support. \n \n \n 84",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 81
+    },
+    "char_count": 651,
+    "token_count": 162
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0082",
+    "text": "Step 2. Meeting Memo Saving / Submission \n \n \n Step (Lv.2) 2. Email and Notification Delivery Step (Lv.3) 2.2 Review Sending Template and History\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page > Sending Email \n \n 1. Click Salesforce Bell Notification\n 1 2. Check received Meeting Memo \n \n 2 notification \n - Click title to open Meeting Memo\n detail page \n (1) Title Template : Author’s \n \n Department Lv.3 + Author Name + \n Meeting Memo Title \n (2) Content Template : Meeting Date,\n \n Main Account Name, Meeting Type \n \n ※ Notification: Sent only to CRM users\n \n (Salesforce account holders) among \n selected recipients/CC \n \n \n \n \n \n \n \n \n \n \n 85",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 82
+    },
+    "char_count": 709,
+    "token_count": 177
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0083",
+    "text": "Step 3. Meeting Memo View \n \n \n Step (Lv.2) 1. View Meeting Memo List Step (Lv.3) 1.1 Use Filters in List View to Search Meeting Memos\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Listview Filter \n \n 1. Click the List View filter name or All\n Lists. \n 2. Select filter to view memos based\n \n on conditions \n (1) Meeting Memo (Department) \n 2 \n - Regular users: View memos created\n 1 \n in their group \n - Team Leaders and above: View all\n memos created in subordinate orgs\n (2) My Meeting Memo (Completed) \n - View only submitted memos \n (3) My Meeting Memo (Draft) \n \n - View only draft memos \n \n \n \n \n \n \n \n \n \n \n \n 86",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 83
+    },
+    "char_count": 656,
+    "token_count": 164
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0084",
+    "text": "Step 3. Meeting Memo View \n \n \n Step (Lv.2) 2. View Detailed Meeting Memo Step (Lv.3) 2.1 View Related Information \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page \n \n 1. View Related Info \n - Includes account, attendees, Material\n Groups, gift records, summary, \n 2 \n transcript, and attachments \n 1 \n 2. View Related Information \n - You can view details by clicking the\n account, attendees, handled products,\n gift records, summary and full \n transcript, or attachments linked to the\n \n Meeting Memo. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 87",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 84
+    },
+    "char_count": 598,
+    "token_count": 149
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0085",
+    "text": "Step 3. Meeting Memo View \n \n \n Step (Lv.2) 2. View Detailed Meeting Memo Step (Lv.3) 2.2 View Sensitive Information and Sharing Targets\n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page > Sensitive Information \n \n 1. View Sensitive Information, Files,\n and Sharing Targets \n - You can view the sensitive \n \n information, files (only titles and\n 1 existence status), and sharing targets\n recorded in the Meeting Memo. \n \n - When you lack permission to view\n sensitive information, you also cannot\n see the list of employees included in\n \n the sharing target list. \n \n ※ For sensitive information files, only\n \n the file title and existence status can\n be viewed in mobile environments. \n - Detailed viewing and additional \n \n uploads are not available. \n \n \n \n \n \n \n \n 88",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 85
+    },
+    "char_count": 830,
+    "token_count": 207
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0086",
+    "text": "Step 3. Meeting Memo View \n \n \n Step (Lv.2) 2. View Detailed Meeting Memo Step (Lv.3) 2.3 View To-Do List \n \n Menu Meeting Memo User All Employees \n \n Navigation Home > Meeting Memo Menu > Meeting Memo Detailed Page > To-Do List \n \n 1. View To-Do List \n - You can view events and tasks \n created in the Meeting Memo based on\n 2 3 \n their due dates. \n 2. Open Activities: Displays events\n 1 and tasks whose due dates or start\n \n times have not yet arrived. \n 3. Activity History: Displays events\n and tasks whose due dates or start\n \n times have passed. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 89",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 86
+    },
+    "char_count": 587,
+    "token_count": 146
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0087",
+    "text": "[Appendix] Teams Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Meeting Memo Using AI – Teams \n \n Menu - \n \n Navigation - \n \n 1. If meeting is created using “Start\n 1 2 Meeting Now,” transcript cannot be\n retrieved in Meeting Memo \n \n 2. Create meeting via New Event or \n 2 Calendar screen \n - Only these methods allow transcript\n \n retrieval \n 3. Invite Attendees \n -Attendees not invited during meeting\n \n creation cannot view transcript, even if\n they joined via shared URL or \n recording \n \n - Creator can view transcript \n 3 \n regardless of invite status \n \n ※ Transcripts are not retrievable if\n meeting is created via “Start Meeting\n Now.” Please use New Event or \n \n Calendar screen to create meetings.\n \n \n \n 90",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 87
+    },
+    "char_count": 758,
+    "token_count": 189
+  },
+  {
+    "chunk_id": "crm_meeting_en_v1_0_chunk_0088",
+    "text": "[Appendix] Teams Meeting Memo Creation \n \n \n Step (Lv.2) 1. Register New Meeting Memo Step (Lv.3) 1.1 Meeting Memo Using AI – Teams \n \n Menu - \n \n Navigation - \n \n 1. Click More \n 2. Click Record/Transcript \n 1 \n 3. Click Start Recording or Start \n 2 Transcript \n 3 \n - Even if meeting ends without \n manually stopping recording, transcript\n is generated \n - Transcript is generated only when\n recording or transcript is started\n \n \n \n ※ Transcripts are not retrievable if\n \n meeting is created via “Start Meeting\n Now.” Please use New Event or \n Calendar screen to create meetings.\n \n \n \n \n \n \n \n \n \n 91",
+    "metadata": {
+      "document_id": "crm_meeting_en_v1_0",
+      "type": "meeting_memo",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Meeting Memo.pdf",
+      "chunk_index": 88
+    },
+    "char_count": 604,
+    "token_count": 151
+  }
+]

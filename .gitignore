@@ -43,7 +43,7 @@ Thumbs.db
 
 # Project specific
 data/embeddings/*.json
-data/processed/*.json
+# data/processed/*.json  # Keep processed data for deployment
 logs/*.log
 
 # Streamlit

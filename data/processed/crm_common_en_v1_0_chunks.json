@@ -1,0 +1,198 @@
+[
+  {
+    "chunk_id": "crm_common_en_v1_0_chunk_0000",
+    "text": "Contents_PC \n \n \n \n Step 1 Menu \n \n \n Menu \n \n 1.1 Menu Selection \n \n \n \n \n \n \n \n \n \n \n \n \n Step 2 Notice \n \n Notice Inquiry \n \n 1.1 Popup Notification \n \n 1.2 Dashboard View \n \n 1.3 List View \n \n \n \n \n \n \n 2\n\nContents_PC \n \n \n \n Step 3 News \n \n \n News Management \n \n 1.1 News Registration \n \n 1.2 News Modification \n \n News Inquiry \n \n 2.1 Dashboard View \n \n 2.2 List View \n \n \n \n \n Step 4 Change Owner \n \n Record Transfer \n \n 1.1 Record Transfer \n \n \n \n \n \n \n \n \n \n \n 3\n\nStep 1. Menu \n \n \n Step (Lv.2) 1. Menu Step (Lv.3) 1.1 Menu Selection \n \n Menu Home User All Users \n \n Navigation Home \n \n 1. Click [⋮⋮⋮] in the upper left corner of\n 1 the Home screen \n \n \n 1. Select the required Apps from [App\n \n 2 Launcher] \n Steel division users are recommended\n to use Steel CRM, while other users\n \n are recommended to use CRM App. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 4",
+    "metadata": {
+      "document_id": "crm_common_en_v1_0",
+      "type": "common_master",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "chunk_index": 0
+    },
+    "char_count": 865,
+    "token_count": 216
+  },
+  {
+    "chunk_id": "crm_common_en_v1_0_chunk_0001",
+    "text": "Step 2. Notice \n \n \n Step (Lv.2) 1. Notice Inquiry Step (Lv.3) 1.1 Notice Popup \n \n Menu Home User All Users \n \n Navigation Home \n \n 1. Click [Home] menu \n 1 \n \n 2. [Don’t show again today] option \n The popup will not open for 24 hours\n \n from the time the option is selected.\n \n 4 \n 3. Close popup \n \n \n 4. Close popup \n \n 2 3 \n \n \n \n \n \n \n \n \n \n \n \n \n \n 5\n\nStep 2. Notice \n \n \n Step (Lv.2) 1. Notice Inquiry Step (Lv.3) 1.2 Dashboard View \n \n Menu Home User All Users \n \n Navigation Home \n \n 1. Click [Home] menu \n 1 \n \n 2 2. Check announcements on the \n dashboard \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 6\n\nStep 2. Notice \n \n \n Step (Lv.2) 1. Notice Inquiry Step (Lv.3) 1.3 List View (1/2) \n \n Menu Notice User All Users \n \n Navigation Notice > All \n \n 1. Click [Notice] menu \n 1 \n \n 2. View Notice list \n \n \n 2 3. Click notice number to navigate to\n 3 \n detail page \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 7",
+    "metadata": {
+      "document_id": "crm_common_en_v1_0",
+      "type": "common_master",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "chunk_index": 1
+    },
+    "char_count": 919,
+    "token_count": 229
+  },
+  {
+    "chunk_id": "crm_common_en_v1_0_chunk_0002",
+    "text": "Step 2. Notice \n \n \n Step (Lv.2) 1. Notice Inquiry Step (Lv.3) 1.3 List View (2/2) \n \n Menu Notice User All Users \n \n Navigation Notice > All \n \n 1. Notice number \n \n \n 1 2. Details \n \n \n \n 2 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 8\n\nStep 3. News \n \n \n Step (Lv.2) 1. News Management Step (Lv.3) 1.1 News Registration (1/2) \n \n Menu News User All Users \n \n Navigation News > All \n \n 1. Click [News] menu \n 1 \n \n 2. Click [New] button \n 2 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 9\n\nStep 3. News \n \n \n Step (Lv.2) 1. News Management Step (Lv.3) 1.1 News Registration (2/2) \n \n Menu News User All Users \n \n Navigation News > All > New News \n \n 1. Select Type (* Required) \n Category: Market News, News \n Clipping, Global Information \n \n \n 1 \n 2. Enter Title (* Required) \n 2 \n \n 3 3. Enter Title (English) \n \n 4 \n 4. Enter Content \n \n \n 5 5. Enter Content (English) \n \n \n \n 6. Cancel, Save & New, Save \n \n \n \n 6 \n \n \n \n \n 10",
+    "metadata": {
+      "document_id": "crm_common_en_v1_0",
+      "type": "common_master",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "chunk_index": 2
+    },
+    "char_count": 932,
+    "token_count": 233
+  },
+  {
+    "chunk_id": "crm_common_en_v1_0_chunk_0003",
+    "text": "Step 3. News \n \n \n Step (Lv.2) 1. News Management Step (Lv.3) 1.2 News Modification (1/2) \n \n Menu News User All Users \n \n Navigation News > All \n \n 1. Click item menu in news list > [Edit]\n Users can only edit or delete their own\n news \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 11\n\nStep 3. News \n \n \n Step (Lv.2) 1. News Management Step (Lv.3) 1.2 News Modification (2/2) \n \n Menu News User All Users \n \n Navigation News > All \n \n 1. Select Type (* Required) \n Category: Market News, News \n Clipping, Global Information \n \n \n 1 \n 2. Enter Title (* Required) \n 2 \n \n 3 3. Enter Title (English) \n \n 4 \n 4. Enter Content \n \n \n 5 5. Enter Content (English) \n \n \n \n 6. Cancel, Save & New, Save \n \n \n \n 6 \n \n \n \n \n 12",
+    "metadata": {
+      "document_id": "crm_common_en_v1_0",
+      "type": "common_master",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "chunk_index": 3
+    },
+    "char_count": 724,
+    "token_count": 181
+  },
+  {
+    "chunk_id": "crm_common_en_v1_0_chunk_0004",
+    "text": "Step 3. News \n \n \n Step (Lv.2) 2. News Inquiry Step (Lv.3) 2.1 Dashboard View \n \n Menu Home User All Users \n \n Navigation Home \n \n 1. Click [Home] menu \n 1 \n 2. Check news on the dashboard \n Dashboard news visibility scope: \n 2 \n Domestic employees: Within the same\n division \n Overseas employees: All scope \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 13\n\nStep 3. News \n \n \n Step (Lv.2) 2. News Inquiry Step (Lv.3) 2.2 List View (1/2) \n \n Menu News User All Users \n \n Navigation News > All \n \n 1. Click [News] menu \n 1 \n \n 2. View news list \n List news visibility scope: \n \n Domestic employees: All scope \n 2 \n 3 Overseas employees: All scope \n \n 3. Click news number to navigate to\n \n detail page \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 14\n\nStep 3. News \n \n \n Step (Lv.2) 2. News Inquiry Step (Lv.3) 2.2 List View (2/2) \n \n Menu News User All Users \n \n Navigation News > All \n \n 1. News number \n \n \n 1 2. Details \n \n \n \n 2 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 15",
+    "metadata": {
+      "document_id": "crm_common_en_v1_0",
+      "type": "common_master",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "chunk_index": 4
+    },
+    "char_count": 958,
+    "token_count": 239
+  },
+  {
+    "chunk_id": "crm_common_en_v1_0_chunk_0005",
+    "text": "Step 4. Change Owner \n \n \n Step (Lv.2) 1. Record Transfer Step (Lv.3) 1.1 Record Transfer \n \n Menu Change Owner User All Users \n \n Navigation Change Owner > Transfer \n \n 1. Click [Change Owner] menu \n 1 \n \n 2. Set Owner / Change Owner \n 3 5 \n Owner: User who will transfer records\n (Default: Currently logged-in user)\n 2 \n Change Owner: User who will receive\n records (Search users after clicking\n text box) \n 4 \n \n 3. Click [Search] button after setting\n Change Owner to retrieve \n \n transferable records \n \n \n 4. Select records to transfer in each\n category \n \n \n \n 5. Click [Change] button to transfer\n selected records \n \n \n 16\n\nContents_Mobile \n \n \n \n Step 1 Login \n \n \n App Login \n \n 1.1 App Login \n \n \n \n \n \n \n \n \n \n \n \n \n Step 2 Menu \n \n Menu \n \n 1.1 Menu Selection \n \n \n \n \n \n \n \n \n \n \n 17",
+    "metadata": {
+      "document_id": "crm_common_en_v1_0",
+      "type": "common_master",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "chunk_index": 5
+    },
+    "char_count": 798,
+    "token_count": 199
+  },
+  {
+    "chunk_id": "crm_common_en_v1_0_chunk_0006",
+    "text": "Contents_Mobile \n \n \n \n Step 1 Login \n \n \n App Login \n \n 1.1 App Login \n \n \n \n \n \n \n \n \n \n \n \n \n Step 2 Menu \n \n Menu \n \n 1.1 Menu Selection \n \n \n \n \n \n \n \n \n \n \n 17\n\nContents_Mobile \n \n \n \n Step 3 Notice \n \n \n Notice Inquiry \n \n 1.1 List View \n \n \n \n \n \n \n \n \n \n \n \n \n Step 4 News \n \n News Inquiry \n \n 1.1 List View \n \n \n News Management \n 2.1 News Registration \n \n 2.2 News Modification \n \n \n \n \n 18\n\nContents_Mobile \n \n \n \n Step 5 Change Owner \n \n \n Record Transfer \n \n 1.1 Record Transfer \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 19",
+    "metadata": {
+      "document_id": "crm_common_en_v1_0",
+      "type": "common_master",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "chunk_index": 6
+    },
+    "char_count": 551,
+    "token_count": 137
+  },
+  {
+    "chunk_id": "crm_common_en_v1_0_chunk_0007",
+    "text": "Contents_Mobile \n \n \n \n Step 5 Change Owner \n \n \n Record Transfer \n \n 1.1 Record Transfer \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 19\n\nStep 1. Login \n \n \n Step (Lv.2) 1. App Login Step (Lv.3) 1.1 App Login(1/3) \n \n Menu User All Users \n \n Navigation \n \n 1. Download 'Salesforce' from Apple App\n Store/Google Play Store and run \n Apple App Store: \n https://apps.apple.com/kr/app/salesforce/i\n \n d404249815 \n 1 \n Google Play Store: \n https://play.google.com/store/apps/details\n ?id=com.salesforce.chatter&pcampaignid=\n 3 \n web_share \n 4 \n 2. Click [Use Custom Domain] button\n 5 \n 2 \n 3. Enter 'poscointl' in the custom domain\n input field \n \n \n 4. Verify that the domain at the bottom\n changes to \n https://poscointl.my.salesforce.com\n \n \n 5. Click [Continue] button \n \n \n 20",
+    "metadata": {
+      "document_id": "crm_common_en_v1_0",
+      "type": "common_master",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "chunk_index": 7
+    },
+    "char_count": 788,
+    "token_count": 197
+  },
+  {
+    "chunk_id": "crm_common_en_v1_0_chunk_0008",
+    "text": "Step 1. Login \n \n \n Step (Lv.2) 1. App Login Step (Lv.3) 1.1 App Login(2/3) \n \n Menu User All Users \n \n Navigation \n \n 1. Click [Login with ENTRA ID] button\n \n \n 2. Enter Entra ID \n e.g. EP ID@poscointl.com \n 2 \n 4 \n \n 1 3. Click [Next] button \n 3 \n 5 \n 4. Enter Entra PW \n e.g. EP PW \n \n \n \n 5. Click [Sign in] button \n \n \n \n \n \n \n \n \n \n \n \n 21\n\nStep 1. Login \n \n \n Step (Lv.2) 1. App Login Step (Lv.3) 1.1 App Login(3/3) \n \n Menu User All Users \n \n Navigation \n \n 1. When 'Don't show again' option is\n selected, this screen will not appear\n again in the current session \n \n \n \n 2. Clicking [Yes] button maintains the\n session even after closing the \n 1 \n browser \n 2 \n \n 3. Click [Allow] button to allow \n Salesforce for iOS access \n If [Deny] is selected, Salesforce for\n \n iOS application cannot be used. \n \n \n 3 \n 4. Login completed \n \n \n \n \n \n \n \n 22",
+    "metadata": {
+      "document_id": "crm_common_en_v1_0",
+      "type": "common_master",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "chunk_index": 8
+    },
+    "char_count": 856,
+    "token_count": 214
+  },
+  {
+    "chunk_id": "crm_common_en_v1_0_chunk_0009",
+    "text": "Step 2. Menu \n \n \n Step (Lv.2) 1. Menu Step (Lv.3) 1.1 Menu Selection \n \n Menu Menu User All Users \n \n Navigation Menu > App Launcher \n \n 1. Click [Menu] button in the bottom\n navigation bar to navigate to menu\n screen \n \n 2 \n 3 \n 2. Select [App Launcher] to access \n App Launcher \n \n \n 3. Select required Apps from [App \n \n Launcher] \n Steel division users are recommended\n to use Steel CRM, while other users\n \n are recommended to use CRM App. \n \n \n 1 \n \n \n \n \n 1 \n \n \n \n 23\n\nStep 3. Notice \n \n \n Step (Lv.2) 1. Notice Inquiry Step (Lv.3) 1.1 List View(1/3) \n \n Menu Notice User All Users \n \n Navigation Notice \n \n 1. Click [Menu] button in the bottom\n navigation bar to navigate to menu\n screen \n \n \n 2 \n 2. Select [All Items] to access all\n menus \n \n \n \n \n \n \n \n \n \n \n \n 1 \n \n \n \n \n 1 \n \n \n \n 24",
+    "metadata": {
+      "document_id": "crm_common_en_v1_0",
+      "type": "common_master",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "chunk_index": 9
+    },
+    "char_count": 799,
+    "token_count": 199
+  },
+  {
+    "chunk_id": "crm_common_en_v1_0_chunk_0010",
+    "text": "Step 3. Notice \n \n \n Step (Lv.2) 1. Notice Inquiry Step (Lv.3) 1.1 List View(2/3) \n \n Menu Notice User All Users \n \n Navigation Notice \n \n 1. Search 'Announcement' in the \n 1 \n search bar \n 2 \n 2. Select [Announcement] to navigate\n 4 \n to announcement menu \n \n 3 \n 3. Click [All Lists] \n \n \n 4. Click [All] \n \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n 25\n\nStep 3. Notice \n \n \n Step (Lv.2) 1. Notice Inquiry Step (Lv.3) 1.1 List View(3/3) \n \n Menu Notice User All Users \n \n Navigation Notice \n \n 1. Select item from announcement list\n \n \n 2. Click [Details] button \n 2 \n \n 1 3. View announcement details \n \n \n \n \n \n \n \n \n \n 3 \n \n \n 1 \n \n \n \n \n \n \n \n \n 26\n\nStep 4. News \n \n \n Step (Lv.2) 1. News Inquiry Step (Lv.3) 1.1 List View(1/3) \n \n Menu News User All Users \n \n Navigation News \n \n 1. Click [Menu] button in the bottom\n navigation bar to navigate to menu\n screen \n \n \n 2 \n 2. Select [All Items] to access all\n menus \n \n \n \n \n \n \n \n \n \n \n \n 1 \n \n \n \n \n 1 \n \n \n \n 27",
+    "metadata": {
+      "document_id": "crm_common_en_v1_0",
+      "type": "common_master",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "chunk_index": 10
+    },
+    "char_count": 957,
+    "token_count": 239
+  },
+  {
+    "chunk_id": "crm_common_en_v1_0_chunk_0011",
+    "text": "Step 4. News \n \n \n Step (Lv.2) 1. News Inquiry Step (Lv.3) 1.1 List View(2/3) \n \n Menu News User All Users \n \n Navigation News \n \n 1. Search 'News' in the search bar \n 1 \n 2 \n 2. Select [News] to navigate to news\n menu \n 4 \n \n \n 3 3. Click [All Lists] \n \n \n 4. Click [All] \n \n \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n 28\n\nStep 4. News \n \n \n Step (Lv.2) 1. News Inquiry Step (Lv.3) 1.1 List View(3/3) \n \n Menu News User All Users \n \n Navigation News \n \n 1. Select item from news list \n \n \n 2. Click [Details] button \n 2 \n \n 1 3. View news details \n \n \n \n \n \n \n \n \n \n 3 \n \n \n 1 \n \n \n \n \n \n \n \n \n 29\n\nStep 4. News \n \n \n Step (Lv.2) 2. News Management Step (Lv.3) 2.1 News Registration \n \n Menu News User All Users \n \n Navigation News \n \n 1. Click [New] button from news list\n \n 1 \n 2. Enter Category, Title, Content \n Category: Market News, News \n \n Clipping, Global Information \n \n 4 \n 2 3. Click [Save] button \n \n \n 4. News registration completed \n \n \n \n \n \n \n 1 \n \n \n \n \n \n \n \n \n 30",
+    "metadata": {
+      "document_id": "crm_common_en_v1_0",
+      "type": "common_master",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "chunk_index": 11
+    },
+    "char_count": 973,
+    "token_count": 243
+  },
+  {
+    "chunk_id": "crm_common_en_v1_0_chunk_0012",
+    "text": "Step 4. News \n \n \n Step (Lv.2) 2. News Management Step (Lv.3) 2.2 News Modification \n \n Menu News User All Users \n \n Navigation News \n \n 1. Select your news from news list and\n click [Edit] button \n Users can only edit or delete their own\n \n news \n \n \n 4 \n 2. Enter Category, Title, Content \n Category: Market News, News \n 2 \n Clipping, Global Information \n \n 3. Click [Save] button \n \n \n 4. News modification completed \n \n \n 1 \n \n \n \n \n \n \n \n \n 31\n\nStep 5. Change Owner \n \n \n Step (Lv.2) 1. Record Transfer Step (Lv.3) 1.1 Record Transfer(1/2) \n \n Menu Change Owner User All Users \n \n Navigation Change Owner \n \n 1. Click [Menu] button in the bottom\n navigation bar to navigate to menu\n screen \n \n \n 2 \n 2. Select [All Items] to access all\n menus \n \n \n \n \n \n \n \n \n \n \n \n 1 \n \n \n \n \n 1 \n \n \n \n 32",
+    "metadata": {
+      "document_id": "crm_common_en_v1_0",
+      "type": "common_master",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "chunk_index": 12
+    },
+    "char_count": 796,
+    "token_count": 199
+  },
+  {
+    "chunk_id": "crm_common_en_v1_0_chunk_0013",
+    "text": "Step 5. Change Owner \n \n \n Step (Lv.2) 1. Record Transfer Step (Lv.3) 1.1 Record Transfer(2/2) \n \n Menu Change Owner User All Users \n \n Navigation Change Owner \n \n 1. Search 'Change Owner' in the search bar\n \n 2 \n 2. Select [Change Owner] to navigate to\n 4 6 Change Owner menu \n \n \n 3. Set Owner / Change Owner \n 3 Owner: User who will transfer records\n (Default: Currently logged-in user)\n Change Owner: User who will receive\n \n 5 records (Search users after clicking text box)\n \n 4. Click [Search] button after setting\n \n Change Owner to retrieve transferable\n records \n \n 1 \n 5. Select records to transfer in each\n category \n \n \n 6. Click [Change] button to transfer\n selected records \n \n \n 33",
+    "metadata": {
+      "document_id": "crm_common_en_v1_0",
+      "type": "common_master",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Common&Master.pdf",
+      "chunk_index": 13
+    },
+    "char_count": 696,
+    "token_count": 174
+  }
+]

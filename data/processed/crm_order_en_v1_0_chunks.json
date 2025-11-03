@@ -1,0 +1,492 @@
+[
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0000",
+    "text": "Contents_PC \n \n \n \n Step 1 Credit Management \n \n \n Credit Information Overview \n \n 1.1 Customer Credit Information Check \n \n \n \n \n \n Step 2 Order Management \n \n \n POSCO Customer Mapping \n \n 1.1 POSCO End-Customer Mapping \n \n 2. POSCO Confirmed Order List \n \n 2.1 POSCO Sales Order List \n \n Sales Order Fulfillment Monitoring \n \n 3.1 Order/Production Status Tracking \n \n Delivery & Shipment Status Monitoring \n \n 4.1 Delivery and Shipment Status Overview \n \n \n \n \n 2\n\nContents_PC \n \n \n \n Step 3 Reporting & Performance \n \n \n Delivery Performance Report \n \n 1.1 Monthly Delivery Performance Report \n \n 1.2 Delivery Performance Report \n \n \n \n Step 4 User Role Assignment for Sales Order Mgmt. \n \n \n 1. POSCO Manager Identification Control \n \n 1.1 Order Owner Mapping \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 3",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 0
+    },
+    "char_count": 799,
+    "token_count": 199
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0001",
+    "text": "Step 1. Credit Management \n \n \n Step (Lv.2) Credit Information Overview Step (Lv.3) 1.1 Customer Credit Information Check (1/2)\n \n Menu Credit Management User All \n \n Navigation Credit Mgmt. > Credit Mgmt. Tab \n \n 1. Click the \"Credit Management\" \n 1 \n menu \n 2. Click the [Search] button using the\n 2 \n following criteria \n -Company code, BP code, Account Name\n 3 4 \n 3. View credit usage status by group\n and collateral composition by \n customer (Pie Chart) \n -Credit usage and remaining limit ratio by\n group \n -On mouse hover: view amount (ratio, %)\n \n 4. View detailed information based on\n search criteria: \n \n -Total Credit Limit, IusuranceLimit,\n Open orders, … \n ※Credit Currency: USD, \n \n Collateral Currency: KRW \n \n \n \n \n \n 4",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 1
+    },
+    "char_count": 737,
+    "token_count": 184
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0002",
+    "text": "Step 1. Credit Management \n \n \n Step (Lv.2) Credit Information Overview Step (Lv.3) 1.1 Customer Credit Information Check (2/2)\n \n Menu Credit Management User All \n \n Navigation Credit Mgmt. > Credit Mgmt. Tab > View Detail button \n \n 5. Click the [View Detail] button in the\n Group-Level Credit Usage section.\n ※Detailed view is only available when the\n \n user's company code matches. \n 6 \n 5 6. View detailed credit usage amounts\n based on credit group, type, and \n due date \n -Filter by Group \n -Type: A/R, Nego(Factoring), Open billing\n \n ※Prepayments and LC are not included in\n the Group-Level Credit Usage section.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 5",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 2
+    },
+    "char_count": 652,
+    "token_count": 163
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0003",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 1. POSCO Customer Mapping Step (Lv.3) 1.1 POSCO End-Customer Mapping (1/4) \n \n Menu Steel Orders User Steel Sales Representative \n \n Navigation Steel Orders \n \n 1 1. Click the \"Steel Orders\" menu \n -Access POSCO confirmed order \n 2 4 \n Information \n 2. Filter confirmed orders using the\n following options \n \n -All, Mapped Orders, UmmappedOrders,\n My Order_Unmapped, My Order_Mapped,\n My Group_Unampped, \n 3 My Group_Mapped \n \n 3. Select multiple Order Numbers for\n the same POSCO customer using \n checkboxes \n \n 4. Click the [Customer Mapping] \n button \n \n -Customer mapping is only available for\n confirmed order managers or users within\n the same group \n \n ※ \"My Orders –Unmapped\" will be \n displayed under [Home] > Unmapped \n Orders. \n \n \n 6",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 3
+    },
+    "char_count": 788,
+    "token_count": 197
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0004",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 1. POSCO Customer Mapping Step (Lv.3) 1.1 POSCO End-Customer Mapping (2/4) \n \n Menu Steel Orders User Steel Sales Representative \n \n Navigation Steel Orders > CRM Customer Mapping \n \n 5. Select Customer to Map for Each \n Confirmed Order \n \n 7 -(Recommended Mapping): Customers\n 6 \n 5 with existing mapping history \n -((Manual Mapping): Search and select\n customer manually \n -(My Customers): Customers marked as\n favorites (★) in the CRM \"Customer\"\n detail page \n 6. View list of selected Order Numbers\n \n 7. Click the [OrderLine Mapping] \n button \n \n → Opens the POSCO Customer \n Mapping Details popup window \n \n \n \n \n \n \n \n \n \n \n 7",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 4
+    },
+    "char_count": 676,
+    "token_count": 169
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0005",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 1. POSCO Customer Mapping Step (Lv.3) 1.1 POSCO End-Customer Mapping (3/4) \n \n Menu Steel Orders User Steel Sales Representative \n \n Navigation Steel Orders > CRM Customer Mapping button > OrderLine Mapping button \n \n 8. Enter POSCO Customer Mapping \n Details \n -Customer Type selection is mandatory\n \n 8 -Project Customer, Project Name, \n Remarks \n 9. Customer Type (Required) \n \n -Customer Type: Developer, \n 9 \n Manufacturer, EPC, OEM, Distributor,\n Part Supplier, Turbin Supplier \n 10 \n 10. When entering project information,\n link to the \"Project Customer\" \n under Contract/Project tab \n -If the selected Project Customer has\n existing projects, choose from the Project\n Name list \n -If no existing projects are found, click the\n \n [New] button, enter Project Name and\n Remarks, then click [Save] \n ※Project will be linked under the\n Contract/Project tab of the Project\n Customer \n \n \n 8",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 5
+    },
+    "char_count": 935,
+    "token_count": 233
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0006",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 1. POSCO Customer Mapping Step (Lv.3) 1.1 POSCO End-Customer Mapping (4/4) \n \n Menu Steel Orders User Steel Sales Representative \n \n Navigation Steel Orders > CRM Customer Mapping button > OrderLine Mapping button \n \n 11.Upon Completion of POSCO \n Customer Mapping \n -Mapping results are saved in: Account,\n \n 11 BP Number, Mapping Status \n 12.After Order Number Mapping \n \n -To modify BP mapping per Order Line:\n . Select checkboxes for each line\n . Click the [Mapping] button to apply\n changes \n -When Order Number is mapped, all\n \n 12 associated Order Lines are mapped\n together \n -When modifying mapping per Order Line,\n the parent Order Number remains \n unchanged \n \n ※Once POSCO customer mapping for \n confirmed steel orders is completed,\n customer detail view and integrated order\n \n monitoring become available. \n → Therefore, this step is mandatory.\n \n \n \n 9",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 6
+    },
+    "char_count": 910,
+    "token_count": 227
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0007",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 2. POSCO Confirmed Order List Step (Lv.3) 2.1 POSCO Sales Order List (1/3) \n \n Menu Order User Steel Sales Representative \n \n Navigation Order \n \n 1. Click the \"Order\" Menu \n 1 \n -Access My POSCO confirmed orders for\n registration/inquiry \n 2. Click the target Order Number to\n 2 view details \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 10\n\nStep 2. Order Management \n \n \n Step (Lv.2) 2. POSCO Confirmed Order List Step (Lv.3) 2.1 POSCO Sales Order List (2/3) \n \n Menu Order User Steel Sales Representative \n \n Navigation Order \n \n 3. View Order Line List and Details\n from Selected Order Number Screen\n -Click the [Customer Mapping] button to\n \n switch to the POSCO–BP Customer \n 3 4 \n Mapping screen \n 4. View POSCO Customer Mapping \n Information for the Selected Order\n Number \n -PO Number, BP Number, Account, …\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 11",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 7
+    },
+    "char_count": 897,
+    "token_count": 224
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0008",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 2. POSCO Confirmed Order List Step (Lv.3) 2.1 POSCO Sales Order List (3/3) \n \n Menu Order User Steel Sales Representative \n \n Navigation Order \n \n 5. Click the [Details] Tab to View Order\n Details \n \n 6. Order Basic Information List \n 5 \n -Oder no, Order Line no, Product code,\n Order Qty, … \n 6 \n 7. Delivery/Shipment Information List\n -Destination, Confirm date, .. \n \n \n \n \n \n \n \n 7 \n \n \n \n \n \n \n \n \n \n \n 12",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 8
+    },
+    "char_count": 453,
+    "token_count": 113
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0009",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 3. Sales Order Fulfillment Monitoring Step (Lv.3) 3.1 Order/Production Status Tracking (1/2)\n \n Menu Order Monitoring User Steel Sales Representative \n \n Navigation Order Monitoring > Common Tab \n \n 1. Click the \"Order Monitoring\" Menu\n 1 \n 2. Click the [Search] button using the\n 2 \n following criteria \n -My Orders (default) \n 3. View Bar Chart Based on Search \n 3 \n Criteria \n -Click on a bar to filter and view the\n corresponding order/production \n information list \n ※Steel order/production quantities are\n displayed in M/T \n \n 4. View Detailed Order/Production \n Information by Order Line \n 4 \n ※Orders will not be displayed on this\n screen if more than 45 days (domestic) or\n 60 days (export) have passed since the\n Delivery Completion Date \n \n \n \n \n \n \n 13",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 9
+    },
+    "char_count": 807,
+    "token_count": 201
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0010",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 3. Sales Order Fulfillment Monitoring Step (Lv.3) 3.1 Order/Production Status Tracking (2/2)\n \n Menu Order Monitoring User Steel Sales Representative \n \n Navigation Order Monitoring > Delivery/Shipment Tab \n \n 1. Click the \"Order Monitoring\" Menu\n 1 \n 2. Click Delivery/Shipment tab \n 3 \n 3. Click the [Search] button using the\n following criteria \n 2 - My Orders (default) \n 4. View Shipment Status Based on \n 4 \n Search Criteria \n -Pending Shipment Instruction \n -Ready for Shipment \n -Monthly Shipment Totals \n \n (Click the Scorecard to filter and view the\n corresponding shipment list) \n 5 ※Steel shipment quantities are displayed\n in M/T \n \n 5. View Detailed Shipment Information\n by Order Line \n \n - OrderLineNo, Account, … \n ※Both domestic and export shipment data\n are available for inquiry, but only export\n \n shipments are reflected in the Scorecard.\n \n 14",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 10
+    },
+    "char_count": 909,
+    "token_count": 227
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0011",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 4. Delivery & Shipment Status Monitoring Step (Lv.3) 4.1 Delivery&Shipment Status Monitoring (1/2)\n \n Menu Order Shipping User Steel Sales Representative \n \n Navigation Order Shipping \n \n 1. Click ‘Order Shipping’ Menu \n 1 \n -View Shipping Information for My\n POSCO Steel Orders \n 2. Click the target Order Shipping item\n 2 \n -Order Shipping is composed of: Order\n Line Number + Product Code \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 15",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 11
+    },
+    "char_count": 479,
+    "token_count": 119
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0012",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 4. Delivery & Shipment Status Monitoring Step (Lv.3) 4.1 Delivery&Shipment Status Monitoring (2/2)\n \n Menu Order Shipping User Steel Sales Representative \n \n Navigation Order Shipping \n \n 3. Order and Product Information List\n -Order Line no, Account name, Product\n no., Thickness, Length, … \n \n 4. Product Specification and Shipment\n Information List \n 3 5 \n 5. POSCO Customer Mapping \n Information \n -BP code, Customer Name, Customer\n \n Type, Remark, … \n \n \n 4 \n \n \n \n \n \n \n \n \n \n \n \n \n \n 16",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 12
+    },
+    "char_count": 536,
+    "token_count": 134
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0013",
+    "text": "Step 3. Reporting & Performance \n \n \n Step (Lv.2) 1. Delivery Performance Report Step (Lv.3) 1.1 Monthly Delivery Performance Report (1/2)\n \n Menu Report User Steel Sales Representative \n \n Navigation Report > Monthly Delivery Performance Report \n \n 1 1. Click the \"Report\" Menu \n -Select the \"Monthly Shipment \n 2 \n 3 \n Monthly Delivery Performance Report Performance\" report \n 2. View Total Product Weight (kg) and\n Monthly Shipment Summary Table \n -Default view shows shipment totals from\n January to December 2025 \n 3. Click to Save As or Edit Report\n \n Fields \n -Save As: Copy & Paste (Personalized)\n -Subscribe: Add to Favorites \n -Add to Dashboard: Include in the\n \n \"Dashboard\" menu \n \n \n \n \n \n \n \n \n \n \n \n 17",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 13
+    },
+    "char_count": 717,
+    "token_count": 179
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0014",
+    "text": "Step 3. Reporting & Performance \n \n \n Step (Lv.2) 1. Delivery Performance Report Step (Lv.3) 1.1 Monthly Delivery Performance Report (2/2)\n \n Menu Report User Steel Sales Representative \n \n Navigation Report > Monthly Delivery Performance Report \n \n 4. Report Field Editing Screen \n 6 - Fields are structured in a pivot-like\n layout \n 4 5 \n ※Fields can be edited after using\n \"Save As\" \n \n 5. Monthly Shipment Performance \n Report Layout \n -Click the [Execute] button to apply\n changes \n \n ※Excel download for shipment reports\n will be available in the second release\n (December) \n \n \n \n \n \n \n \n \n \n \n \n \n \n 18",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 14
+    },
+    "char_count": 610,
+    "token_count": 152
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0015",
+    "text": "Step 3. Reporting & Performance \n \n \n Step (Lv.2) 1. Delivery Performance Report Step (Lv.3) 1.2 Delivery Performance Report (1/2) \n \n Menu Report User Steel Sales Representative \n \n Navigation Report > Delivery Performance Report \n \n 1 1. Click the \"Report” Menu \n -Select the \"Shipment Performance List\"\n 3 \n Delivery Performance Report report \n 2. View Detailed Shipment List by \n Order Line Based on \n \n 2 Customer/Representative \n 3. // Click to Save As or click the [Edit]\n \n button to open the report field \n configuration screen \n -Save As: Copy & Paste (Personalized)\n -Subscribe: Add to Favorites \n \n -Add to Dashboard: Include in the\n \"Dashboard\" menu \n \n \n \n \n \n \n \n \n \n \n \n 19",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 15
+    },
+    "char_count": 689,
+    "token_count": 172
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0016",
+    "text": "Step 3. Reporting & Performance \n \n \n Step (Lv.2) 1. Delivery Performance Report Step (Lv.3) 1.2 Delivery Performance Report (2/2) \n \n Menu Report User Steel Sales Representative \n \n Navigation Report > Delivery Performance Report \n \n 4. Report Field Editing Screen \n 6 \n - Fields are structured in a pivot-like\n layout \n 4 5 \n ※Fields can be edited after using\n \"Save As\" \n 5. Monthly Shipment Performance \n Report Layout \n -Click the [Execute] button to apply\n changes \n \n ※Excel download for shipment reports\n will be available in the second release\n (December) \n \n \n \n \n \n \n \n \n \n \n \n \n \n 20",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 16
+    },
+    "char_count": 595,
+    "token_count": 148
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0017",
+    "text": "Step 4. User Role Assignment for Sale Order Mgmt. \n \n \n Step (Lv.2) 1. POSCO Manager Identification Control Step (Lv.3) 1.1 Order Owner Mapping \n \n Menu Order Owner Mapping User CRM System Admin \n \n Navigation Order Owner Mapping \n \n 1. Click ‘Order Owner Mapping’ Menu\n 1 \n -Displays the screen for mapping My\n POSCO user accounts with CRM user\n information \n 2. Manage My POSCO Accounts by \n 2 \n CRM User \n 3 \n 3. Click to Edit / Delete / Change\n Owner \n ※This menu is accessible only to CRM\n system users \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 21",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 17
+    },
+    "char_count": 542,
+    "token_count": 135
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0018",
+    "text": "Contents_Mobile \n \n \n \n Step 1 Credit Management \n \n \n Credit Information Overview \n \n 1.1 Customer Credit Information Check \n \n \n \n \n \n Step 2 Order Management \n \n \n POSCO Customer Mapping \n \n 1.1 POSCO End-Customer Mapping \n \n 2. POSCO Confirmed Order List \n \n 2.1 POSCO Sales Order List \n \n Sales Order Fulfillment Monitoring \n \n 3.1 Order/Production Status Tracking \n \n Delivery & Shipment Status Monitoring \n \n 4.1 Delivery and Shipment Status Overview \n \n \n \n \n 22\n\nContents_Mobile \n \n \n \n Step 3 Reporting & Performance \n \n \n Delivery Performance Report \n \n 1.1 Monthly Delivery Performance Report \n \n 1.2 Delivery Performance Report \n \n \n \n Step 4 User Role Assignment for Sales Order Mgmt. \n \n \n 1. POSCO Manager Identification Control \n \n 1.1 Order Owner Mapping \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 23",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 18
+    },
+    "char_count": 809,
+    "token_count": 202
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0019",
+    "text": "Step 1. Credit Management \n \n \n Step (Lv.2) Credit Information Overview Step (Lv.3) 1.1 Customer Credit Information Check (1/3)\n \n Menu Credit Management User All \n \n Navigation Credit Mgmt. > Credit Mgmt. Tab \n \n 1. Click the \"Credit Management\" \n menu \n \n Menu 2. Click the [Search] button using the\n 1 3 \n Credit following criteria \n 2 -Company code, BP code, Account Name\n 3. View credit usage status by group\n Edit and collateral composition by \n \n customer (Pie Chart) \n -Credit usage and remaining limit ratio by\n group \n -On mouse hover: view amount (ratio, %)\n \n ※Credit Currency: USD, \n Collateral Currency: KRW \n \n \n \n \n \n \n \n \n \n \n \n 24",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 19
+    },
+    "char_count": 648,
+    "token_count": 162
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0020",
+    "text": "Step 1. Credit Management \n \n \n Step (Lv.2) Credit Information Overview Step (Lv.3) 1.1 Customer Credit Information Check (2/3)\n \n Menu Credit Management User All \n \n Navigation Credit Mgmt. > Credit Mgmt. Tab \n \n 4. View detailed information based on\n search criteria: \n -Total Credit Limit, IusuranceLimit,\n 4 Open orders, … \n \n ※Credit Currency: USD, \n Collateral Currency: KRW \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 25",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 20
+    },
+    "char_count": 427,
+    "token_count": 106
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0021",
+    "text": "Step 1. Credit Management \n \n \n Step (Lv.2) Credit Information Overview Step (Lv.3) 1.1 Customer Credit Information Check (3/3)\n \n Menu Credit Management User All \n \n Navigation Credit Mgmt. > Credit Mgmt. Tab > View Detail button \n \n 5. Click the [View Detail] button in the\n Group-Level Credit Usage section.\n ※Detailed view is only available when the\n 5 \n user's company code matches. \n 6. View detailed credit usage amounts\n 6 \n based on credit group, type, and \n due date \n -Filter by Group \n -Type: A/R, Nego(Factoring), Open billing\n \n ※Prepayments and LC are not included in\n the Group-Level Credit Usage section.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 26",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 21
+    },
+    "char_count": 653,
+    "token_count": 163
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0022",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 1. POSCO Customer Mapping Step (Lv.3) 1.1 POSCO End-Customer Mapping (1/4) \n \n Menu Steel Orders User Steel Sales Representative \n \n Navigation Steel Orders \n \n 1. Click the \"Steel Orders” menu \n -Access POSCO confirmed orders for\n registration/inquiry \n Menu All \n 2. Filter confirmed orders using the\n 3 \n 2 following options \n -All, Mapped Orders, UmmappedOrders,\n My Order_Unmapped, My Order_Mapped,\n Edit \n My Group_Unampped, \n My Group_Mapped \n 3. Select Order No. for CRM Customer\n Mapping \n \n \n ※ \"My Orders –Unmapped\" will be \n 1 displayed under [Home] > Unmapped \n Steel Orders \n Orders. \n Steel Order Monitoring \n Steel Ordershipping \n \n \n \n \n \n \n 27",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 22
+    },
+    "char_count": 704,
+    "token_count": 176
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0023",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 1. POSCO Customer Mapping Step (Lv.3) 1.1 POSCO End-Customer Mapping (2/4) \n \n Menu Steel Orders User Steel Sales Representative \n \n Navigation Steel Orders > CRM Customer Mapping button \n \n 4. Click the [Customer Mapping] \n button \n 4 5 \n - Customer mapping is only available\n for confirmed order managers or users\n within the same group \n \n 5. Search CRM Customer and Select \n -(Recommended Mapping): Customers\n 6 \n with existing mapping history \n -((Manual Mapping): Search and select\n customer manually \n Scroll \n -(My Customers): Customers marked as\n Swipe \n favorites (★) in the CRM \"Customer\"\n detail page \n 6. Click the [Customer Mapping] \n Swipe button \n - Customer mapping is only available\n for confirmed order managers or users\n within the same group \n \n \n \n \n \n 28",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 23
+    },
+    "char_count": 820,
+    "token_count": 205
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0024",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 1. POSCO Customer Mapping Step (Lv.3) 1.1 POSCO End-Customer Mapping (3/4) \n \n Menu Steel Orders User Steel Sales Representative \n \n Navigation Steel Orders > CRM Customer Mapping button > OrderLine Mapping button \n \n 7. Enter POSCO Customer Mapping \n Details \n -Customer Type selection is mandatory\n \n -Project Customer, Project Name, \n Remarks \n \n 9 8. Customer Type (Required) \n 7 -Customer Type: Developer, \n Manufacturer, EPC, OEM, Distributor,\n Part Supplier, Turbin Supplier \n \n 9. When entering project information,\n 8 \n link to the \"Project Customer\" \n under Contract/Project tab \n -If the selected Project Customer has\n existing projects, choose from the Project\n Name list \n -If no existing projects are found, click the\n \n [New] button, enter Project Name and\n Remarks, then click [Save] \n ※Project will be linked under the\n Contract/Project tab of the Project\n Customer \n \n \n 29",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 24
+    },
+    "char_count": 934,
+    "token_count": 233
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0025",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 1. POSCO Customer Mapping Step (Lv.3) 1.1 POSCO End-Customer Mapping (4/4) \n \n Menu Steel Orders User Steel Sales Representative \n \n Navigation Steel Orders > CRM Customer Mapping button > OrderLine Mapping button > [Save] \n \n 10. Upon Completion of POSCO \n Customer Mapping \n -Mapping results are saved in: Account,\n \n BP Number, Mapping Status \n 11. After Order Number Mapping \n \n -To modify BP mapping per Order Line:\n 10 . Select checkboxes for each line\n OrderLineBulk Mapping OrderLineBulk Mapping . Click the [Mapping] button to apply\n changes \n -When Order Number is mapped, all\n \n associated Order Lines are mapped\n together \n 11 \n -When modifying mapping per Order Line,\n the parent Order Number remains \n Mapping Mapping \n unchanged \n ※Once POSCO customer mapping for \n confirmed steel orders is completed,\n customer detail view and integrated\n \n order monitoring become available.\n → Therefore, this step is mandatory.\n \n \n 30",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 25
+    },
+    "char_count": 981,
+    "token_count": 245
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0026",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 2. POSCO Confirmed Order List Step (Lv.3) 2.1 POSCO Sales Order List (1/1) \n \n Menu Steel Orders User Steel Sales Representative \n \n Navigation Steel Orders \n \n 1. Click the “Steel Order\" Menu \n -Access My POSCO confirmed orders for\n registration/inquiry \n Menu \n 2. Click the target Order Number to\n 2 \n view details \n 3 \n Order Info. 3. View Order Information \n Edit \n \n \n \n Scroll \n \n \n \n 1 \n Steel Orders \n \n Steel Order Monitoring \n Steel Ordershipping \n \n \n \n \n \n \n 31",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 26
+    },
+    "char_count": 517,
+    "token_count": 129
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0027",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 3. Sales Order Fulfillment Monitoring Step (Lv.3) 3.1 Order/Production Status Tracking (1/3)\n \n Menu Steel Order Monitoring User Steel Sales Representative \n \n Navigation Steel Order Monitoring > Common Tab \n \n 1. Click the “Steel Order Monitoring”\n Menu \n \n Menu 2. Click the [Search] button using the\n 2 \n following criteria \n -My Orders (default) \n \n Edit \n \n \n \n \n \n \n \n \n \n Steel Orders \n 1 \n Steel Order Monitoring \n Steel Ordershipping \n \n \n \n \n \n \n 32",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 27
+    },
+    "char_count": 502,
+    "token_count": 125
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0028",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 3. Sales Order Fulfillment Monitoring Step (Lv.3) 3.1 Order/Production Status Tracking (2/3)\n \n Menu Steel Order Monitoring User Steel Sales Representative \n \n Navigation Steel Order Monitoring > Common Tab \n \n 3. View Bar Chart Based on Search \n Criteria \n -Click on a bar to filter and view the\n \n corresponding order/production \n information list \n ※Steel order/production quantities are\n 3 \n displayed in M/T \n 4. View Detailed Order/Production \n Information by Order Line \n \n \n Swipe ※Orders will not be displayed on this\n 4 \n Swipe screen if more than 45 days (domestic)\n or 60 days (export) have passed since\n the Delivery Completion Date \n \n \n \n \n \n \n \n \n \n \n 33",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 28
+    },
+    "char_count": 713,
+    "token_count": 178
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0029",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 3. Sales Order Fulfillment Monitoring Step (Lv.3) 3.1 Order/Production Status Tracking (3/3)\n \n Menu Order Monitoring User Steel Sales Representative \n \n Navigation Order Monitoring > Delivery/Shipment Tab \n \n 5. Click Delivery/Shipment tab \n 6. Click the [Search] button using the\n \n following criteria \n 6 \n - My Orders (default) \n 5 \n 7. View Shipment Status Based on \n Search Criteria \n -Pending Shipment Instruction \n 7 -Ready for Shipment \n -Monthly Shipment Totals \n 8 \n (Click the Scorecard to filter and view the\n corresponding shipment list) \n Swipe \n ※Steel shipment quantities are displayed\n in M/T \n 8. View Detailed Shipment Information\n by Order Line \n - OrderLineNo, Account, … \n ※Both domestic and export shipment data\n \n are available for inquiry, but only export\n shipments are reflected in the Scorecard.\n \n \n \n 34",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 29
+    },
+    "char_count": 877,
+    "token_count": 219
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0030",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 4. Delivery & Shipment Status Monitoring Step (Lv.3) 4.1 Delivery&Shipment Status Monitoring (1/2)\n \n Menu Steel Order Shipping User Steel Sales Representative \n \n Navigation Steel Order Shipping \n \n 1. Click ‘Order Shipping’ Menu \n -View Shipping Information for My\n POSCO Steel Orders \n Menu \n 2. Click the target Order Shipping item\n -Order Shipping is composed of: Order\n Line Number + Product Code \n \n 2 \n Edit \n \n \n \n \n \n \n \n \n Steel Orders \n \n Steel Order Monitoring \n 1 \n Steel Ordershipping \n \n \n \n \n \n 35",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 30
+    },
+    "char_count": 557,
+    "token_count": 139
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0031",
+    "text": "Step 2. Order Management \n \n \n Step (Lv.2) 4. Delivery & Shipment Status Monitoring Step (Lv.3) 4.1 Delivery&Shipment Status Monitoring (2/2)\n \n Menu Steel Order Shipping User Steel Sales Representative \n \n Navigation Steel Order Shipping \n \n 3. Order and Product Information List\n -Order Line no, Account name, Product\n \n 3 no., Thickness, Length, … \n 4 \n 4. Product Specification and Shipment\n Information List \n \n \n \n \n \n Scroll \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 36",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 31
+    },
+    "char_count": 466,
+    "token_count": 116
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0032",
+    "text": "Step 3. Reporting & Performance \n \n \n Step (Lv.2) 1. Delivery Performance Report Step (Lv.3) 1.1 Monthly Delivery Performance Report (1/1)\n \n Menu Report User Steel Sales Representative \n \n Navigation Report > Monthly Delivery Performance Report \n \n 1. Click the \"Report\" Menu \n -Select the \"Monthly Shipment \n 2 3 Performance\" report \n Menu \n Monthly Delivery Report Highlights \n 2. View Total Product Weight (kg) and\n Performance Report \n Edit \n Delivery year Monthly Shipment Summary Table \n -Default view shows shipment totals from\n January to December 2025 \n 3. View Monthly Delivery Performance\n Report Highlights \n \n ※Reports are view-only on mobile devices\n Steel Orders \n Swipe \n Steel Order Monitoring \n Steel Ordershipping \n \n 1 \n \n Report Highlights \n \n \n \n \n \n 37",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 32
+    },
+    "char_count": 776,
+    "token_count": 194
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0033",
+    "text": "Step 3. Reporting & Performance \n \n \n Step (Lv.2) 1. Delivery Performance Report Step (Lv.3) 1.2 Delivery Performance Report (1/1) \n \n Menu Report User Steel Sales Representative \n \n Navigation Report >Delivery Performance Report \n \n 1. Click the \"Report” Menu \n 3 \n Delivery Performance Delivery Performance -Select the \"Shipment Performance List\"\n Report Report \n 2 report \n Menu \n 2. View Detailed Shipment List by \n Edit \n Order Line Based on \n Swipe Swipe Customer/Representative \n 3. View Report Filters \n ※Reports are view-only on mobile devices\n \n \n Steel Orders \n \n Steel Order Monitoring \n \n Steel Ordershipping \n \n 1 \n \n \n \n \n \n \n \n 38",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 33
+    },
+    "char_count": 646,
+    "token_count": 161
+  },
+  {
+    "chunk_id": "crm_order_en_v1_0_chunk_0034",
+    "text": "Step 4. User Role Assignment for Sale Order Mgmt. \n \n \n Step (Lv.2) 1. POSCO Manager Identification Control Step (Lv.3) 1.1 Order Owner Mapping \n \n Menu Order Owner Mapping User CRM System Admin \n \n Navigation Order Owner Mapping \n \n 1. Click ‘Order Owner Mapping’ Menu\n -Displays the screen for mapping My\n 3 3 POSCO user accounts with CRM user\n Menu \n information \n Edit \n 2. Manage My POSCO Accounts by \n CRM User \n 2 \n 3. Click to New / Edit / Delete / Filter /\n Clone \n ※This menu is accessible only to CRM\n system users \n \n Steel Orders \n \n Steel Order Monitoring \n \n Steel Ordershipping \n \n \n 1 \n \n \n \n \n \n \n 39\n\nEnd of Document \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 40",
+    "metadata": {
+      "document_id": "crm_order_en_v1_0",
+      "type": "order_fulfillment",
+      "language": "english",
+      "version": "1.0",
+      "source_file": "P_INTL_CRM Guide Book(ENG)_Order&Fulfillment.pdf",
+      "chunk_index": 34
+    },
+    "char_count": 682,
+    "token_count": 170
+  }
+]
