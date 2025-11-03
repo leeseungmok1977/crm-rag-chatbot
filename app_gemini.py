@@ -359,8 +359,8 @@ def main():
         # Welcome screen
         st.markdown("""
         <div class="welcome-screen">
-            <h1 class="welcome-title">안녕하세요, 송목</h1>
-            <p class="welcome-subtitle">POSCO International CRM 매뉴얼 어시스턴트입니다</p>
+            <h1 class="welcome-title">안녕하세요. CRM AI chatbot 입니다.</h1>
+            <p class="welcome-subtitle">무엇을 도와드릴까요?</p>
         </div>
         """, unsafe_allow_html=True)
 
